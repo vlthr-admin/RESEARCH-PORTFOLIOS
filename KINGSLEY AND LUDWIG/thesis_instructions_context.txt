@@ -1,0 +1,1386 @@
+=== KARELIA UAS THESIS INSTRUCTIONS CONTEXT DOCUMENT ===
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935724
+================================================================================
+
+Thesis Instructions at Karelia University of Applied Sciences
+The following instructions describe the stages of the thesis process at Karelia University of Applied Sciences, from the choice of the topic to the publications of the thesis. The related forms and templates are also enclosed.
+The instructions are mainly meant for theses, but the
+reporting instructions
+can also be applied to other written assignments right from the beginning of UAS studies.
+The Karelia Thesis Committee is responsible for the content and updates of these instructions.
+Updates
+4.6.2026
+Abstract Instructions
+29.2.2026
+Use of Artificial Intelligence in Karelia Theses
+16.9.2025 Information on
+Thesis Writing Workshops
+25.2.2025
+PDF instructions for preparing a data management plan and examples of data management plans for survey, interview and measurement data
+were added to the instructions
+24.9.2024
+Sending the feedback survey to the commissioner
+8.4.2024
+Data Management Plan:: Instructions and Template
+23.3.2024 More detailed instructions on
+Data protection and processing of personal data in theses
+: practical examples and a consent form template have been added
+19.1.2024
+Use of AI tools in Karelia UAS Thesis
+10.10.2023
+Do you process personal data in your  thesis? How to write a privacy statement.
+26.11.2022 New link:
+What is in an Abstract?
+(Thinglink)
+Give feedback
+Linkki avautuu uuteen ikkunaan
+You can comment on and send questions about the instructions by following the link. The feedback will be processed by the Thesis Committee.
+Seuraava:
+Thesis as Part of UAS Studies >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935725
+================================================================================
+
+Thesis as Part of UAS Studies
+A thesis is a student’s business card for his or her career advancement. It enables the student to demonstrate professional knowledge and skills. At universities of applied sciences, the thesis is often a commissioned project based on an agreement between the parties. Usually thesis assignments are received from the industry or from the projects that serve the development of a specific field. The thesis assignment can also be a project where the author establishes or develops his or her own company.
+The aim of the thesis is to advance and demonstrate the student’s ability to apply knowledge and skills in tasks that require field-specific expertise. These instructions describe the stages, from the choice of the topic until the publication of the thesis. Different programmes at Karelia UAS may provide more detailed, complementary thesis instructions.
+All UAS degree studies include a thesis that is based on the Universities of Applied Sciences Act (932/2014) and The Government Decree on Polytechnics (later: Universities of Applied Sciences) (1129/2014). The decree establishes the thesis as part of the UAS studies and also requires the student to take a Maturity Test on the topic of his or her thesis. The maturity test shows the student’s familiarity with the field and his or her skills in one of the national languages, Finnish or Swedish. At Karelia UAS, the valid
+Degree Regulations
+determine the thesis.
+<<
+Edellinen:
+Starting Points
+Seuraava:
+Different Types of Thesis >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935726
+================================================================================
+
+Different Types of Thesis
+The thesis can be based on various research, planning, production and development tasks.  Research and development tasks are premised on the needs of the industry or those of the university of the applied sciences. However, the thesis at the tertiary level (in higher education) must have a
+solid theoretical basis
+. The thesis can be either research or practice-based, and it must be conducted according to the plan that is predesigned, as well as approved of by the thesis supervisor. The thesis includes a report that is written using appropriate, academic style.
+In a research-based thesis
+you conduct applied research that serves the needs of the industry and in which the author solves a specified problem or task in the field. The research-based thesis can also be so-called desk research, which focuses on a specific topic through the analysis of written sources.  In this case, literature, such as research articles and dissertations are the data for qualitative content analysis.
+A practice-based thesis
+is based on a concrete, existing task that requires a solution. The task is closely related to the specific field or industry. The outcome of the practice-based thesis can be a concrete product, manual, service package, field-specific plan, concept, model or simulation. The practice-based thesis is often an assignment commissioned by an external party. However, it can also be focused on the author’s own company or business idea.  The thesis report contains a relevant (theoretical) frame of reference, a detailed description of the practical task and its evaluation in terms of the knowledge base. The production process should be reported in a logical order and presented from the same perspective as what is defined in advance.
+An artistic thesis
+is a special kind of a practice-based thesis used in media studies at Karelia UAS. Authors contemplate a work of art or complete an assignment using artistic expression and techniques. The outcome of the artistic thesis is a product or work of art, but the thesis can also focus on analysing the artistic process. The work process is always reported in writing. In the report, the author analyses and reflects on the artistic work with the help of the knowledge base and the assignment that defines the perspective of the thesis.
+A diary-based thesis (PONT in Finnish)
+is an option for those already working in the field of study.  Self-initiative is important, but before starting the thesis, the option must first be negotiated with a representative of the degree programme. Note! The diary-based thesis must follow the specific instructions given below.
+Diary-based thesis instructions
+<<
+Edellinen:
+Thesis as Part of UAS Studies
+Seuraava:
+Contents of and Learning Outcomes for the Thesis >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935727
+================================================================================
+
+Contents of and Learning Outcomes for the Thesis
+Study module: Thesis 15 cr.
+Competences: Deep content knowledge in the field, professional development, process management, critical thinking and research competence
+Implementation time: 3rd – 4th year
+Prior studies: Previous degree studies
+General instructions: Each degree programme takes care of and manages the reporting, seminar and supervision procedures and practices in the programme.
+Study units:
+Thesis Plan 5 cr.
+Learning outcomes: The student
+is able to write a literature review to build a knowledge base for the thesis
+is able to create a feasible and realistic plan for the thesis
+Core content:
+commissioned thesis assignment
+creation of the knowledge base
+choice of methods
+planning seminar
+Thesis Implementation 5 cr.
+Learning outcomes: The student
+can search, collect and analyse data for a professional development or research task
+is able to implement a product according to the professional development task (practice- based thesis)
+is able to apply the necessary research methods to the professional development tasks (research-based thesis)
+Core content:
+data collection and analysis
+design and development of the product
+Thesis Reporting 5 cr.
+Learning Outcomes: The student
+is able to produce a formal academic and logically constructed report and follow the thesis instructions of Karelia UAS.
+is able to make reliable conclusions based on the previous knowledge and the outcomes of the thesis process.
+is able to critically evaluate his/her own work.
+Core content:
+writing a thesis report
+results seminar
+maturity test
+<<
+Edellinen:
+Different Types of Thesis
+Seuraava:
+Stages of the Thesis Process >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935728
+================================================================================
+
+Stages of the Thesis Process
+Stage
+Content
+Documentation and/or seminars
+Orientation Stage
+Finding a topic
+Finding a commissioning party
+Idea(tion) seminar
+Kick-off Stage
+Communicating with supervisors and the commissioner
+Approval of the topic and naming reviewers
+Signing a thesis commission agreement
+Thesis topic and supervision plan
+Preliminary plan
+Commission agreement
+Creating the knowledge base (literature review)
+Creating a thesis plan
+Literature review
+Thesis plan
+Planning seminar
+Implementation Stage
+Working on the thesis
+Guidance from the thesis supervisor
+Communicating with the commissioning organisation
+Written drafts of the thesis
+Intermediate seminar(s)
+Reporting and presenting the thesis in the results seminar
+Results/ final seminar
+Finalising Stage
+Finalising the thesis
+Finalised thesis
+Detecting and checking for plagiarism
+Submitting the thesis to reviewers for assessment and taking the maturity test
+Maturity test
+Evaluation statement
+Receiving the permit for publishing and publishing the thesis in Theseus
+Saving the thesis in the Theseus Open Repository/ providing the binding of the thesis to Student Services and the PDF file to opinnayte@karelia.fi
+The process described above is a rough outline and can differ slightly among programmes. For example, there may be differences in what the seminars and practices are called. Moreover, some of the processes are parallel. Teachers of different programmes will give further instructions if needed.
+Before starting the thesis, the student should complete methodological studies in his/her field. Additionally, the student should be familiar with Karelia UAS Thesis Instructions and the Reporting Instructions, for example
+regarding citations and referencing techniques and the mechanics of writing
+.
+<<
+Edellinen:
+Contents of and Learning Outcomes for the Thesis
+Seuraava:
+Good Scientific Practice >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935729
+================================================================================
+
+Good Scientific Practice
+Karelia UAS is committed to follow the guidelines of
+The Finnish National Board on Research Integrity TENK on responsible conduct of research
+.
+Additionally, there are also field-specific
+ethical codes
+. Ethical norms and principles are binding to both the author and supervisor of the thesis. The student has right to receive guidance and instruction. However, the final responsibility for academic integrity and good scientific practice belongs to the student.
+Ethical principles are discussed in methodological studies and in thesis seminars, the purpose being to prevent problems and misconduct before they appear.
+If the thesis includes interviews, observations or other types of research methodology involving human subjects, special attention should be paid to the TENK instructions
+The ethical principles of research with human participants and ethical review in the human sciences in Finland
+.
+<<
+Edellinen:
+Stages of the Thesis Process
+Seuraava:
+Recommendations of the Rectors’ Conference Arene to Thesis Authors and Supervisors >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935730
+================================================================================
+
+Recommendations of the Rectors’ Conference Arene to Thesis Authors and Supervisors
+Ethical recommendations for thesis writing at universities of applied sciences (pdf) (Arene)
+Checklist: Ethical Instructions for Students
+1. I have ascertained my possible conflicts of interest.
+2. I am familiar with the topic of my thesis.
+3. I have, together with my supervisor, assessed the resources required for my work.
+4. I am familiar with the good research practices and research ethics guidelines.
+5. I am familiar with the principles of processing personal information and data protection as well as the guidelines from my university of applied sciences.
+6. I have assessed together with my supervisor whether my thesis requires an ethical review and/or research permits, and I have obtained these, if applicable.
+7. I have acquired the necessary agreements.
+8. I have agreed on authorship and co-authorship of publications related to my thesis.
+9. I have prepared a data management plan and will follow it.
+10. I have declared the funding and other significant conflicts of interest connected to my thesis.
+11. I am aware that my thesis is subjected to an originality check.
+12. I understand that my thesis is a public document.
+13. I understand how I may use AI tools in the thesis process.
+14. I understand that I have a right to a high-quality thesis process.
+<<
+Edellinen:
+Good Scientific Practice
+Seuraava:
+Planning and Implementation >>
+
+
+--- URL: https://libguides.karelia.fi/c.php?g=689495&p=4935731 (HTTP Error 404) ---
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935732
+================================================================================
+
+Sivu sisältää seuraavia alisivuja:
+Starting the Thesis Process
+Commission
+Literature Review
+Thesis Plan
+Research Permits
+Data Management Plan
+Instructions for Processing Personal Data
+Seminars
+Instructions for Wihi
+Books for writing thesis
+<<
+Edellinen:
+Recommendations of the Rectors’ Conference Arene to Thesis Authors and Supervisors
+Seuraava:
+Starting the Thesis Process >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935733
+================================================================================
+
+Starting the Thesis Process
+Alone or with Someone?
+A thesis can be carried out individually or as pair or group work. The thesis topic should be chosen based on professional interest and it should relate to the important professional practices in the field. Choose a topic that interests you, that arises from a practical need, and relates to your specialisation field and its development perspectives. Consider what knowledge you already have and what you want to develop through your thesis.
+Approval of the Thesis Topic
+When you have found the topic for your thesis, discuss it with the person responsible for the thesis processes in your programme.  It is recommended that the theses that are made in collaboration with the industry and business life are also supervised by a representative of the commissioning organisation. See Instructions for Wihi.
+<<
+Edellinen:
+Planning and Implementation
+Seuraava:
+Commission >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935734
+================================================================================
+
+Where Can I Get the Thesis Commission?
+Most of the theses at universities of applied sciences are commissioned assignments. You can receive a commission for your thesis, for example, from the workplace where you have conducted your internship or had a summer job. You can also enquire about possible assignments from your teachers or from the projects administered by Karelia UAS. You can make use of your own contacts and networks, as well as employment and recruitment services.
+During your studies you have accumulated many types of competences which can benefit industries and business life. Before you contact a potential organisation, consider what kind of skills and knowledge you can offer. What is meaningful and relevant for the commissioning organisation? What type of competences can benefit the organisation in practice?
+If the client for your thesis is someone close to you (e.g. a spouse or family member), you must ensure that research ethics and objectivity are upheld. Please take the following points into consideration:
+Independence and objectivity in the thesis
+may be compromised if a personal relationship influences the interpretation or reporting of results.
+The author must be able to assess the subject critically and impartially
+.
+You should openly inform your thesis supervisor that a close acquaintance is acting as the client (declaration of conflict of interest).
+Transparency is a cornerstone of research ethics.
+If a close acquaintance is heavily involved in supervising the thesis,
+there is a significant risk of conflict of interest
+.
+Thesis Commission Agreement
+If your thesis is commissioned, you, the commissioning organisation and the university of applied sciences will sign a written agreement. The agreement determines the obligations and responsibilities of each signing party. The agreement should include a clause on immaterial rights whenever applicable.
+If you want to withdraw from the agreement, you must notify all parties in writing. After the agreement is annulled you are obliged to return or destroy all materials that you have received from the commissioning organisation.
+NB! The commission agreement is not included as an appendix to the thesis report.
+Information Leaflet for the Commissioning Organisation:
+Information Leaflet for the Commissioning Organisation:
+Thesis commission agreement: Projects administered by Karelia UAS with external funding
+Thesis commission agreement: Projects administered by Karelia UAS with external funding
+Thesis commission agreement: other theses
+Thesis commission agreement: other theses
+<<
+Edellinen:
+Starting the Thesis Process
+Seuraava:
+Literature Review >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935735
+================================================================================
+
+Literature Review
+It is recommended that you start writing the thesis as soon as the topic is approved. The thesis cannot be made in one day. The process starts with a literature review, which is written after the approval of the topic and guidance form. The literature review sets the premises and defines the knowledge base for the thesis.
+Instructions for the Literature Review
+Before you present your thesis plan in the seminar, you should create an approximately 10-page-long literature review on the topic of your thesis.
+The literature review is an essential step in your thesis process. Choose and narrow down the scope of the review after discussions with your thesis supervisor. The literature review must concentrate on the key themes, concepts and knowledge base of your thesis.
+In the literature review you familiarize yourself with the literature and other source materials relevant to your thesis topic. The review outlines the theoretical premises and the most important knowledge base using the research and informational literature of the field. At the same time, you become familiar with how to search for information and apply formal style in writing.
+Your literature review should follow the thesis reporting instructions. You should return the review for assessment according to the instructions of your programme. The supervising teacher(s) will give you feedback on your text for you to edit and supplement it.
+Criteria for Approval
+The chosen topic is relevant to the thesis.
+The sources are appropriate for academic writing and they are cited accordingly.
+The length of the review is approximately 10 pages.
+The language is revised, and formatting follows the instructions.
+The text organisation and headings are logical.
+In-text citations are included and marked correctly.
+The content and reference lists are outlined according to the instructions.
+Research methods: Literature
+You can find literature about research methods from Karelia UAS' library database
+Karelia-Finna.
+<<
+Edellinen:
+Commission
+Seuraava:
+Thesis Plan >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935736
+================================================================================
+
+Thesis Plan
+When your thesis supervisor has approved your literature review, you can start drafting your thesis plan. You will present your plan as instructed by your own programme. The purpose of the presentation is to assess the feasibility of the plan and to find points for development or specification.
+When the plan has been approved, you can move to the implementation phase. In the
+research-based thesis
+, it means that you collect your data, for example, through surveys, interviews, observation or from literary sources. In the
+practice-based thesis
+, the implementation phase includes the production and systematic description of the stages of the implementation. If there is a need to complement your knowledge base, you must do it before you start collecting the data or working on the production.
+Implementing the Plan
+Data collection (surveys, interviews, observation and other methods)
+Product or outcome (business plan, modelling, software, film and other outputs)
+Documenting the work stages
+Diary, interview transcriptions, photos, recordings, data analyses and other documentation
+Frequent communication with the thesis supervisors and group tutorials according to the instructions of the programme
+Communication with the representative of the commissioning company
+Making use of the writing workshops organised by language teachers (currently in Finnish only).
+Template for thesis plan
+Template for thesis plan
+<<
+Edellinen:
+Literature Review
+Seuraava:
+Research Permits >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935737
+================================================================================
+
+Research Permits
+Before you start your thesis, find out if you need a research permit for your thesis.
+Apply for the research permission with the help of your thesis supervisor.
+Do not start the implementation or data collection until you have been granted the research permit.
+You must enquire from the organisation or community that you study whether you need to receive a research permit. The need for permission has to be resolved before the implementation of a practice-based thesis or the data collection of a research-based thesis. The permission has to be applied not later than at the planning stage. It also has to be approved by the thesis supervisor.
+Several organisations have their own forms for research permits or informed consent. The student should use these. If the organisation does not have its own form, the corresponding form of Karelia UAS should be used.
+Research permits differ between fields. Especially in the Social Services and Health Care, special focus should be paid on ethical aspects when planning the thesis and requesting for research permits. The research permissions procedure in other fields vary according to the organisation and field. In addition to the organisational research permit, you are also responsible for obtaining the informed consent from the participants of your research.
+The ethical principles of research with human participants and ethical review in the human sciences in Finland
+.
+Finnish National Board on Research Integrity TENK 2019.
+When the research is conducted at Karelia UAS
+, apply for the research permit using a special form, which you can request by sending an email to
+studentservices@karelia.fi
+. Please, add the cover message, the questionnaire or other forms used for the research.
+Further information
+.
+Research permission form when the research is conducted at Karelia UAS.
+Research permission form when the research is conducted at Karelia UAS.
+Reserch permission form for research (a survey) conducted outside Karelia UAS, for example in another public organisation or utility.
+N.B.! Several organisations, such as the Central Hospital, have their own forms for applying for research permission. Karelia UAS does not process these applications and they should not be sent to Student Services.
+<<
+Edellinen:
+Thesis Plan
+Seuraava:
+Data Management Plan >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935738
+================================================================================
+
+Instructions for Processing Personal Data
+The processing of personal data is permitted only when it is absolutely necessary for the thesis and when there is a legal basis for it. Minimise the amount of personal data, do not collect it unnecessarily or as a precaution. Carefully consider what personal data is compulsory for the thesis accomplishment, because it establishes the grounds for collecting personal data. Personal data can be collected only for a specific, named and legal purpose. Evaluate the usefulness and usability of the collected data in the future.
+If the data including personal information is considered usable for follow-up or other types of further research, request for its use separately in the informed consent from the (registered) participants. If the informed consent does not include the permission for the processing of the personal data after the thesis is completed, it may prevent further research.
+Personal data applies to 1) all information that enable the direct identification of a person and 2) data which enable the identification of a person indirectly if the data can be associated with other information. (
+For example, a person cannot usually be identified based on his or her profession. However, indirect identification is possible if the person’s profession can be associated with a specific workplace and with the information that in that workplace and there is only one person with that profession.)
+Privacy statement
+If you are collecting and processing personal data for your thesis, you must make a privacy statement. A privacy statement should be written even if you do not collect direct personal identifiers and the risk of identifying a person indirectly is very low. Use
+Karelia's online form
+to create the statement. The form will guide you through the drafting of the privacy statement. Answer the questions on the form, such as what personal data you plan to process, how and for what purposes.. Once you have completed and submitted the form, you will receive a completed privacy notice by email. Keep the privacy notice, and you can, if necessary, demonstrate that you have complied with data protection legislation.
+Consent
+The processing of personal data requires a processing basis in accordance with data protection legislation, which in the case of theses is most commonly consent.
+You must be able to prove that consent has been given. Consents may be collected in writing or electronically, but always in a way that requires an active action by the person giving consent.
+Use this consent form template.
+Further information
+Further information on personal data protection can be found in the
+Data Management Guidelines
+of the Finnish Social Science Data Archive and in
+Chapter IV, Sections 1 and 2 of the EU Regulation 2016/679
+.
+Personal data must always be processed carefully, and unnecessary copying and printing must be avoided. When saving personal data or other information containing personal data to USB sticks, special care and
+Karelia UAS instructions on privacy and data protection
+must be observed. To collect data that includes personal information, use only programs or systems that are approved of or recommended by Karelia UAS. If, however, you print data including personal information, pay special attention to its storage so that it will not become available to outsiders under any circumstance.
+Karelia UAS Data Protection Officer:
+Email:
+tietosuoja@karelia.fi
+.
+Further information:
+EU General Data Protection Regulation
+Consent form template
+Examples of data protection in the thesis
+Example 1 : Interviews
+In your thesis, you will carry out a risk analysis for a small local garage. You will collect data by interviewing the garage staff.
+-
+Fill in the thesis privacy statement.
+Describe the processing of personal data in relation to the interviews with the garage staff.
+- Obtain written consent from the workshop staff to be interviewed using the
+consent form
+. Inform them of the purpose of the interview using the privacy statement (attach the statement to the consent form).
+- Store the data collected during the interviews securely on the systems provided by Karelia (e.g. not on your own usb-stick).
+- When the thesis has been evaluated, dispose of all the data you have collected in a secure manner. If you need help in destroying the data, please contact Karelia's helpdesk.
+Example 2: Survey and interview
+In your thesis, you will produce a first aid guide on ankle injuries in badminton. As background material, you will conduct an anonymous survey of members of a local badminton club. Among the respondents, you will draw a gift card to a local sports centre. You will also interview the club president on the topic.
+-
+Complete the privacy statement for the thesis
+. Describe the processing of personal data of the interview and the participants of the prize draw.
+- Find out if you need a research permit from your local badminton club.
+- Ensure that your survey is truly anonymous. Do not ask for background information that could identify an individual respondent.
+- Carry out a lottery on a separate form so that the participants in the lottery cannot be linked to the answers given in the survey.
+- Attach your completed privacy statement to your survey. Inform respondents in the questionnaire cover letter that the questionnaire itself is anonymous and that the answers to the prize draw cannot be linked to the questionnaire.
+- Obtain written informed consent from the interviewee using the
+consent form.
+- Store survey and interview data securely on systems provided by Karelia (e.g. not on your own usb-stick). Personal data related to the draw must be deleted immediately after the draw is completed.
+-- When the thesis has been evaluated, dispose of all the data you have collected in a secure manner. If you need help in destroying the data, please contact Karelia's helpdesk.
+<<
+Edellinen:
+Data Management Plan
+Seuraava:
+Seminars >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935739
+================================================================================
+
+Seminars
+The seminar conventions vary between degree programmes. Up-to-date information can be found in Moodle. The contact persons for thesis can be contacted by email firstname.familyname@karelia.fi.
+Energy and Environmental Engineering (Lasse Okkonen)
+Degree Programme in Information and Communication Technology (Radu Mariescu-Istodor)
+Physiotherapy (Anne Ryhänen)
+Industrial Management (
+Hamid El Ouatki)
+International Business (Mika Pasanen)
+Mechanical Engineering (Kari Mönkkönen)
+Business Economics (Mika Pasanen)
+Tourism and Hospitality Management (Tarja Kupiainen)
+Media (Jari Kupiainen)
+Forestry (Ari Talkkari)
+Construction Engineering (Timo Pakarinen)
+Nursing (Tiina Parviainen)
+Social Services (Miia Pasanen)
+Building Services Engineering (Johanna Luostarinen)
+Public Health Nursing (Tiina Parviainen)
+Business Information Technology (Jarmo Talvivaara)
+The results seminar (final seminar) includes a public presentation of your thesis. You should prepare the presentation well to be able to introduce and explain your thesis from its starting points to the results in 20 minutes. It is worth considering what is essential, important and interesting for the audience and what can be conveyed in the limited timeframe. After the presentation, the opponent (peer evaluator) will present his or her views and questions.  If possible, also the representative of the commissioning organisation and the thesis reviewer can provide feedback. Alongside public discussion, the thesis supervisor will comment and give feedback on the thesis.
+<<
+Edellinen:
+Instructions for Processing Personal Data
+Seuraava:
+Instructions for Wihi >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935740
+================================================================================
+
+Sivu sisältää seuraavia alisivuja:
+Report Outline
+Reporting Language and Style
+Using Illustrations (Tables, Figures and Pictures)
+Use of Sources – General Principles
+In-text Citations – General Instructions
+References
+Examples of In-text Citations and References
+Report layout
+Text Editing - The Finishing Touches
+Copyright
+Use of AI in Karelia UAS Theses
+<<
+Edellinen:
+Books for writing thesis
+Seuraava:
+Report Outline >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935741
+================================================================================
+
+Report Outline
+The thesis report is outlined and written according to the reporting instructions of Karelia UAS. The report should also follow the guidelines for good scientific practice of The Finnish National Board on Research Integrity. It is recommended to start writing at the early stage of the thesis process. Communication teachers and thesis supervisors give advice on reporting matters. The thesis report is submitted for comments to the thesis supervisor, and, if agreed, to the representative of the commissioning organisation. The student will edit the report with the help of the feedback.
+Please, note that if you have subheadings under the main heading, there should not be any text under the chapter heading. Always make sure that the subheadings are both logically and grammatically related to the main heading. Moreover, at every level, the minimum number of subheadings is two.
+The thesis report should include the following:
+Introduction: What are your aims and objectives? Why is your thesis important and for whom is it made?
+Knowledge base: Upon what theoretical or professional knowledge is your thesis based and premised?
+Methods: Which methods do help you to reach your aims and objectives or solve the problem?
+Implementation: How have you implemented the different stages of the analysis, development task or production process?
+Results: What are the results of the development task or analysis?
+Discussion: How do your results relate to the aims set for your thesis, and how do your findings correlate with your knowledge base?
+References
+Appendices (if relevant)
+Make a draft of the outline and contents of your thesis as early as possible. Start writing right away by taking down notes and writing short text passages. Then add more text as you progress. Writing helps you process and organise your ideas and the contents of your thesis. During the process, writing functions as a tool for thinking.
+Your report should progress logically from one topic to another and be structured by effective headings and subheadings.  The contents page outlines the whole report and gives the general view of what it contains. Similarly, the reader is able to see the relation and extent of different topics chapter by chapter. Contents should be balanced and aligned, both qualitatively and quantitatively.  Well organised text is a clear sign of a good writer.
+Remember to cover everything that is essential for the reader to understand your report. However, do not include irrelevant aspects. Effective text is consistent and coherent with a logical progression of complete ideas.
+Introduction
+The purpose of the introduction is to lead the reader into the topic. It should arouse the reader’s interest and give him or her the background information of the thesis. The introduction should include the leading idea. Introduce the topic, objectives and the general decisions regarding your task or research.  The introduction should never include results. If the introduction seems to be too long, it is worthwhile to consider if something can be moved to other chapters.
+Knowledge Base
+Constructing the knowledge base starts already when you are writing the literature review. The knowledge base refers to the theoretical background that is built with the help of relevant literature, such as research reports, articles, and other publications. Introduce relevant research and perspectives. Make sure that the knowledge base contains the important aspects of your thesis because later in the discussion you should relate your results to the prior knowledge on the subject.
+In this section, you should also define the most essential concepts and terms that are important for understanding the thesis. Pay special attention to the unclear and ambiguous terms and concepts, so that the reader would know in which meaning they have been used. If there are many special terms, acronyms or abbreviations, you can create a separate list and place it after the contents page.
+Methods
+Describe the methods that you have used, as well as what you have done to accomplish the task and reach the objectives. If you are writing a research-based thesis, introduce the data collection methods, the target group or informants, your data and the analysis methods. If your thesis is practice-based, describe the action plan or development methods, operative environment, step-by-step process and your analysis methods.
+Analysis
+Introduce your data analysis or the actions and procedures that you have taken. In a research-based thesis, analyse your data in detail and organise your text according to the methods of the analysis. If your thesis is practice-based, describe how the different stages have been implemented.
+Results
+In the results section, you introduce the results or products of your thesis. Plan the order of the results so that the reader can easily find the relevant and most important results. Make sure that you present answers to all the questions that you have introduced at the beginning of the report and refer to the objectives and aims that you have set for your thesis. The results section provides the background for your discussion that follows.
+Discussion
+Discuss the implementation and results of your thesis in connection with the knowledge base and professional field. Likewise, consider how you have reached the objectives. Provide a critical evaluation of the chosen approach and methods. Discuss the ethical aspects, credibility and reliability as well. The discussion can also include a reflection on your professional development and learning process. It is good to conclude this section with future orientation and include possible ideas for further research or development. Additionally, it is wise to connect the discussion on the importance of the thesis to wider professional and societal contexts. Spend adequate time writing the discussion section and make use of the notes that you have written during your thesis process.
+<<
+Edellinen:
+Reporting
+Seuraava:
+Reporting Language and Style >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935742
+================================================================================
+
+Reporting Language and Style
+There are many standards of English, which may differ in spelling, punctuation and vocabulary. Choose a common standard variant of English, such as North American or Standard British English, and use it consistently throughout your report.
+Write your thesis report using a formal style of English which is clear, descriptive and neutral. Its purpose is to convey the intended content to the reader in such a way that it is easy to understand.
+Voice
+Use impersonal tone and passive voice whenever it is possible. For example, write “The thesis discusses...”, “The data was collected …" instead of “I will discuss...” or “I collected the data …". However, you can use the first-person narrative when you present your own viewpoints, experiences or feelings. You can also use the first person “I” when you describe your own concrete actions. The pronoun “we” can only be used if there is more than one author. Please, remember that you always need a subject in a sentence when writing in English. However, using “I” extensively can irritate the reader and lower the credibility of your report.
+Tense
+Choose the tenses appropriately. The simple present tense refers to the action that is repeated, habitual or generalized. It indicates something that is true now or at any time. Using present tense is a good choice when you make general statements or your own conclusions.  Occasionally present tense can also be used to refer to the near future, although the modal verb ‘will’ or the idiomatic future ‘be going to’ more clearly indicate future plans or intentions. You can use the present perfect tense when a past action, state or results relate to the present time. For example,
+“The data has been analysed using ….
+” can be stated when you have not finished the analysis yet or when the analysis and its results are at hand and being reported now.  Present continuous or progressive forms are not common in thesis reports. The most common tense in reports is, however, the past tense, which refers to a completed and finished action. Use past tense forms of verbs when you describe the steps you took during the implementation process.
+<<
+Edellinen:
+Report Outline
+Seuraava:
+Using Illustrations (Tables, Figures and Pictures) >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935743
+================================================================================
+
+Using Illustrations (Tables, Figures and Pictures)
+It is possible to illustrate and complement text by figures, tables and pictures or by adding data extracts (quotes). They can improve readability and assist the reader’s comprehension. You can add tables, figures and pictures as appendices if they bring added value but are not compulsory for understanding and interpreting the text. In reports, graphs, charts and diagrams are called as figures and photographs referred as pictures.
+All tables and figures should be clear, informative and independently comprehensible. The tables, figures and pictures are numbered consecutively in the order they appear in the text. Write a caption (title) under each table, figure or picture. If it is taken or adapted from a source, add a citation at the end of the caption. Write a data commentary for each table, figure of picture in the paragraph above. Refer to each by their number, for example (Table 15) or “As Figure 2 shows …”. Place tables, figures or pictures so that they do not begin nor end a chapter.
+When using figures, tables or pictures copy rights and immaterial rights need to be considered. If pictures are used as decorative images, it is necessary to obtain the author’s permission (with the exception copyright free images). In principle, use only pictures that you have taken or drawn yourself.
+In qualitative analysis, data extracts are often used to exemplify and illustrate the findings. In a practice-based thesis you can also use data extracts that describe the operative context. When including data extracts (quotes) that are longer than three lines, indent and use line spacing 1.
+Example: Figure in the text
+Example: Figure in the text
+Example: Table in the text
+Example: Table in the text
+Example: Picture in the text
+<<
+Edellinen:
+Reporting Language and Style
+Seuraava:
+Use of Sources – General Principles >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935744
+================================================================================
+
+Use of Sources – General Principles
+The sources used in the thesis have to be reported. There are different types of sources that you can refer to. They can include, for example,
+print texts such as books or scientific journals
+online texts such as e-books and company websites
+audio-visual materials and recordings, such as YouTube videos, and
+oral sources such as interviews.
+Mark the sources with in-text citations and create a list of all the references to the end of your report. Without in-text citations, the information, thoughts or opinions are considered to reflect your own knowledge or ideas.
+Sources should also be marked to the pictures, tables and figures. You have to have permission to use them if they are copyright protected materials. Make note of such information as part of the description.
+Paraphrase the information that you have retrieved from sources. With the adept use of referencing and paraphrasing techniques you can show that you have understood the source text well. There are no shortcuts to skilful referencing and paraphrasing. However, you may apply the following:
+Read the source text carefully.
+Take down notes while reading.
+Consider how the text relates to your own thesis.
+Paraphrase to create your own text.
+If you use sources that are written in other languages than English, do not only translate word-by-word, but interpret and express the meanings using your own words and appropriate language and style.
+You may also use direct quotations copying the exact wording of the original source. However, use direct quotations sparingly and only in select situations. Direct quotes are commonly used for such text passages as definitions, legal documentation or data extracts.
+Direct quotations are placed between quotation marks. If the quote is longer than three lines, indent it 1.5 cm, change the line spacing to 1 and remove quotation marks. If you delete parts of the quotation, mark the removed words with a double dash. End the quotation with in-text citation in the same way as elsewhere in the text.
+Citing a reference shows to the reader of the work where its author has utilized - - information in an external source. By doing so the author gives the original author or authors credit for this information instead of claiming to be the original source of this information him or herself.  There are also other, perhaps more practical, reasons for citing and referencing. - - this practice, in principle, enables the reader of the work to obtain the cited source in order to ensure that the author has used the information in the source correctly - -. (Nokelainen 2011, 6.)
+"Replace at least a few be verbs in every paragraph with active, unusual verbs. A sentence powered by vivid verbs - - will speak to your readers more effectively than one that contains only forms of be - - and predictable academic verbs” (Sword 2012, 60.)
+Using AI tools
+Learning the skills needed in the world of work is important for students at UAS.  AI-based applications are examples of tools that will be increasingly used in the workplace. ChatGPT, for example, can generate text based on questions provided by the user and improve it according to the user's guidance.
+If you use AI tools in an assignment or thesis, you should always mention them. You are always responsible for the content of the text you return.
+Karelia expects students to use AI applications responsibly and ethically in their studies. You must always mention the use of AI in the assignment or thesis you return and describe how you have used it. It is dishonest if you present the text, image or other output produced by the AI as your own.
+In cases of fraud, the general guidelines for dealing with fraud will be followed. Karelia-amk is committed to following the
+Research Integrity Guidelines
+by The Finnish National Board on Research Integrity (TENK).
+How to cite AI-applications
+<<
+Edellinen:
+Using Illustrations (Tables, Figures and Pictures)
+Seuraava:
+In-text Citations – General Instructions >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935745
+================================================================================
+
+In-text Citations – General Instructions
+Mark the used sources with in-text citations. Provide the following information on the source:
+The author’s last name
+The year of publication or update
+The page(s) where the exact information can be found
+For example, (Nokelainen 2016, 5–6) or According to Nokelainen (2016, 5–6), …
+The author can be a person, organisation or a group of authors. Report the last name(s) of the person(s). There are, however, texts that do not have an author, such as acts, decrees and regulations.
+The Place of In-text Citations
+1. Focusing on informational content: place the in-text citation in brackets (parentheses) after the referencing.
+Academic success requires several types of knowledge and skills. Although grammar and vocabulary are often the most obvious problem areas, students also need to have an internalized system that includes linguistic and pragmatic knowledge in order to communicate appropriately in the specific context. Moreover, they need schematic, that is background knowledge on the subject matter. (Hafernik & Wiant 2012, 47.)
+2. Author-centred citations: Start the sentence with the author’s last name. Write the year of publication and possibly also the page numbers in brackets (parentheses) right after the author’s name, providing the referenced text is just one sentence long. If the referenced text is longer, add the in-text citation at the end in the same way as in the information-centred approach.
+According to Lindsey (2011), good scientific writing is characterised by precision, clarity and brevity. The text should also be written in non-complicated English, because in many fields, a half or even a bigger portion of the readers of academic texts do not have English as their first language. (Lindsay 2011, 11-12.)
+Punctuating Citations
+When the citation refers to only one sentence, place the full stop (period) after the last bracket (parenthesis). In other words, the in-text citation becomes part of the sentence.
+To make the text comprehensible, the first part of the sentence should link new ideas to previous information (Lindsay 2011, 71).
+When the citation is connected to more than one sentence, place a full stop at the end of the last sentence and add the citation after it. Place the full stop inside the brackets so that the citation becomes an independent, sentence-like unit.
+To make the text comprehensible, new ideas must be linked to previous information. New information should not, therefore, be given at the beginning of the sentence. It is also possible to use linking words, such as conjunctions, which signal how different ideas are connected. (Lindsay 2011, 71.)
+Other Observations Regarding Citations
+In-text citations cannot refer to previous or following paragraphs. Even if you are using the same source in several consecutive paragraphs, you should always add a new citation to each one.
+If you have used several sources, separate them by marking each citation right after the referred information. Often you need more than just one in-text citation at the end of each paragraph.
+There are a wide range of terms used in higher education for online learning, such as eLearning, computer-mediated learning, technology enhanced learning, and teaching with technology (Patel 2014, 22). In the past decades, the massive open online courses called MOOCs have changed the global education market and spread online learning technologies not only within higher education but also to the non-formal education sector (Freitas et al. 2015; Larionova et al. 2018).
+It is also possible to mark all the sources at the end of the paragraph, if they all have the same content. Separate different sources using a semicolon and put them in alphabetical order: (Freitas et al. 2015; Larionova et al. 2018; Rhoads 2015).
+More about In-text Citations
+The basic rule when the author of the source is available:
+Author’s last name year of publication, page number(s)
+(Rhoads 2015, 59)
+If there is no single author, use the name of the organisation or group.
+(Statistics Finland 2016)
+Electronic Sources
+Refer to the electronic sources in your text in the same way as to other types of sources, that is using the author’s last name, or the name of the organisation or the group. Mark also the page numbers if the source uses them. The year of publication is the year when the page was updated or released. If such date cannot be found, write the current year. URL addresses are never included in in-text citations.
+(Bowden 2020)
+(Statistics Finland 2020)
+Two Authors
+Use an ampersand inside the brackets (parentheses): (Hafernik & Wiant 2012, 47)
+When the authors’ names are part of the sentence, use coordinating conjunction
+and
+: According to Hafernik and Wiant (2012, 47), …
+Three or More Authors
+When you refer to the source for the first time, use the last names of all authors:
+(Skinner, Edwards & Corbett 2014)
+Skinner, Edwards and Corbett (2014) suggest that ….
+Later, you can refer to the source by the last name of the first author and with abbreviation
+et al
+.:
+(Skinner et al. 2014)
+Skinner et al.
+(2014) state that …
+Six or More Authors
+You refer to the source always using the last name of the first author and with abbreviation
+et al.
+References with the Same Author and Year
+the first in-text citation referring to the publication of the author in your text: (Tracy 2012a)
+another publication of the same author and year to which you refer later in your text: (Tracy 2012b)
+Reference to One or More Sources
+The sources are put in the in-text citation in alphabetical order according to the last name of the author. They are separated from each other by a semicolon. NB! You can use this type of citation only if the sources discuss the same topic and have the same information content.
+(Freitas et al. 2015; Larionova et al. 2018; Rhoads 2015)
+You can find more examples of in-text citations and references
+here
+<<
+Edellinen:
+Use of Sources – General Principles
+Seuraava:
+References >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935746
+================================================================================
+
+References
+Compile a list of references at the end of your report.
+Include the heading References above the list.
+Mark all the sources that you have referred to in your text. Do not include other sources.
+List the sources in alphabetical order.
+The references must correspond to the in-text citations.
+The full reference should include the following information:
+Who: the author (person, organisation or group)
+When: the year of publication, release or update
+What: the title
+Where: the publisher.
+More information is also required in certain types of publications. :
+Electronic sources should include the full URL address and the date when it was accessed.
+References of scientific journals should include more specific information on the journal volume and issue.
+If electronic sources do not include the year of publication or update, the reference includes the year when the information was retrieved.
+Basic rule for a print publication:
+Author’s last name, Initial letters of the given names. Year of publication. Title of publication. Publisher’s location: Publisher.
+Lindsay, D. 2011. Scientific Writing = Thinking in Words. Collingwood, Victoria, Australia: CSIRO.
+Nokelainen, T. 2011. Principles of Citing and Referencing in Scientific Writing. Tampere University of Technology. Faculty of Business and Technology Management. Lecture Notes., vol. 5. Tampere: Tampereen teknillinen yliopisto.
+Sword, H. 2012. Stylish Academic Writing. Cambridge, Mass.: Harvard University Press.
+You can find more examples of in-text citations and references
+here
+<<
+Edellinen:
+In-text Citations – General Instructions
+Seuraava:
+Examples of In-text Citations and References >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935747
+================================================================================
+
+Examples of In-text Citations and References
+On this page you can find some examples how to use in-text citations and references.
+Basic Rule of In-text Citations and References
+Compilation and composite work: publication that includes several works by different authors
+Articles in scientific journals
+Acts, degrees and reports
+Theses
+When the publication in authored by an organisation or a group
+Electronic sources
+Databases
+E-books
+Standards
+Blogs
+Facebook
+Online videos, e.g. Youtube videos
+Intranet ym. suljetut lähteet
+Movies and games
+Personal and spoken communication, such as interviews or presentations
+AI Applications
+Audiobook
+Basic rule
+In-text citation
+References
+The author is given
+print publications
+Basic rule:
+Author’s last name year of publication, page number(s)
+Basic rule:
+Author’s last name, Initial letter(s) of the given name(s). Year of publication. Title. Publisher’s location: Publisher.
+(Sword 2012, 4)
+Sword, H. 2012. Stylish Academic Writing. Cambridge, Mass.: Harvard University Press.
+When the publication in authored by an organisation or a group
+In-text citation
+References
+Author. Year of publication or update. Title. URL address. Date when accessed.
+(Statistics Finland 2020)
+Statistics Finland. 2020. Turnover of the environmental goods and services sector by product classes 2019. http://www.stat.fi/til/ylt/2019/ylt_2019_2020-12-10_kuv_001_en.html. 28.1.2021.
+(
+World Health Organization 2020
+)
+World Health Organization. 2020‎. Coronavirus disease 2019 (‎‎‎‎COVID-19)‎‎‎‎: Situation Report, 30. World Health Organization. https://apps.who.int/iris/handle/10665/331119. 1.1.2021
+.
+Articles in scientific journals
+In-text citation
+Reference
+Author. Year of publication. Title of the article. Name of the publication (journal) volume (issue), page numbers (from–to).
+(Tuulentie 2019)
+Tuulentie, S. 2019. Immigrants in Northern Nature. Environmental Biographies through Photo Elicitation. Matkailututkimus 15 (2), 51–57.
+Standards
+In-text citation
+Reference
+Standard No. 1234 and page that is referred to. The standard includes the acronym, such as  EN, EU-OSHA, ISO or SFS-EN, number, comma and the year of confirmation.
+Standard No. 1234. Year. Title of the standard. Organization that made the standard.
+(CEN ISO/IEC TR 25060, 2017)
+CEN ISO/IEC TR 25060. 2017. Systems and software engineering - Systems and software product Quality Requirements and Evaluation (SQuaRE) - Common Industry Format (CIF) for usability: General framework for usability-related information.
+CEN Technical Secretariat.
+Databases
+In-text citation
+Reference
+There are various types of databases, and it is appropriate to give different information on the source.
+Example from StatFin databases:
+(TOL 2008)
+TOL. 2008. Enterprise openings and closures by municipality and industrial activity, 2013Q1-2020Q4.
+Acts, degrees and reports
+In-text citations
+Reference
+The act or statute number/ year.
+*Remember to add the section and subsection.
+Document name number/year.
+*You can also refer to Finlex.
+(Working Time Act 872/2019, 7 §)
+Working Time Act 872/2019. (English translation 18.12.2020.) https://www.finlex.fi/en/laki/kaannokset/2019/en20190872.pdf. 21.2.2021.
+(Government Decree on Innovation Funding Agency Business Finland and a limited liability company called Business Finland 1147/2017, 1 §)
+Government Decree on Innovation Funding Agency Business Finland and a limited liability company called Business Finland 1147/2017. (English translation 16.10.2019.) https://www.finlex.fi/en/laki/kaannokset/2017/en20171147.pdf. 1.1.2021.
+AI Applications
+In-text citation
+References
+(ChatGPT 2023)
+List of references: name of the AI programme. Year. Subject or title of the text. Web address. Reference date.
+ChatGPT. 2023. What is AI?. Open AI.
+https://chat.openai.com
+. 30.3.2023.
+Audiobook
+In-Text-Citation
+Reference
+Author, Year, Chapter
+Author. Year of publication. Title. Audiobook. Publisher’s location: Publisher. Audiobook service provider.
+(Gupta 2024, chapter 3)
+Gupta, A. 2024. Think Like a Software Engineering Manager. Audiobook. United States: Manning Publications. O'Reilly for Higher Education
+Compilation and composite work: publication that includes several works by different authors
+In-text citation
+References
+Author. Year of publication.
+In
+Editor(s) (Ed.) Title of the publication. Publisher’s location: Publisher, page numbers (from–to).
+(Franzosi 2004)
+Franzosi, R. 2004. Content Analysis. In Hardy, M. & Bryman, A. (Eds.) Handbook of Data Analysis. London: SAGE Publications Ltd., 548–565.
+Electronic sources
+In-text citation
+References
+Author year of update, (page number(s))
+*If the year of publication is not available, the current year is used. The URL address is never added to the in-text citation.
+Author. Year of update. Title. Organisation. URL address. Date when accessed.
+*If the author is an organisation or group, do not mention them again.
+.
+(Auvinen, Kallio, Neuvonen & Penttinen 2013.) (mentioned for the first time)
+(Auvinen et al. 2013) (mentioned later in the text)
+Auvinen P., Kallio U., Neuvonen L., Penttinen M. 2013.
+Karelia University of Applied Sciences Quality Handbook. Publications of Karelia University of Applied Sciences B:15, Karelia University of Applied Sciences. http://urn.fi/URN:ISBN:978-952-275-092-1. 28.1.2021
+(Finnish Immigration Office 2020)
+Finnish Immigration Office. 2020. You can only apply for asylum if you are in Finland. https://migri.fi/en/asylum-in-finland.  20.2.2020.
+E-books
+In-text citation
+References
+*Refer to the chapters if the e-book does not have page numbers.
+*The same information as in print publications. However, you should add the database or other location from where the source was retrieved. Additionally, mark the date when it was accessed.
+(McCain 2016, 24)
+McCain, D. 2016. Evaluation Basics. USA: ATD Press.
+Google books. https://urly.fi/1sNf. 27.2.2020.
+(Schuh, Biddix, Dean & Kinzie 2016, Ch. 1)
+Schuh, J.H., Biddix, J.P., Dean, L.A. & Kinzie, J. 2016. Assessment in Student Affairs. USA: John Wiley & Sons.
+E-Book Central. 10.3.2020.
+Theses
+In-text citation
+Reference
+Author(s). Year of publication. Title. University. Educational programme or faculty. Type of thesis (undergraduate, Master’s thesis, Doctoral dissertation). URL address. Date when accessed.
+(Mattila 2020, 10)
+Mattila, O. 2020. Developing International Services. Case: Tampere Chamber of Commerce. Tampere University of Applied Sciences. International Business. Bachelor’s Thesis. http://urn.fi/URN:NBN:fi:amk-2020112524215. 1.2.2020.
+Personal and spoken communication, such as interviews or presentations
+In-text citation
+References
+*The in-text citation includes the last name of the informant, such as the interviewee and the year.
+Interview
+: The name of the interviewee. Year of the interview. Position or title of the interviewee. Organisation date.
+Spoken presentation
+, such as a lecture
+: Name. Year. Title of the presentation. Place of the presentation and date.
+(Onninen 2013)
+Onninen, O. 2013. Project Manager. Karelia University of Applied Sciences. Recorded interview 1.1.2013.
+(Lemmetyinen 2013)
+Lemmetyinen, J. 2013. Verkkokurssien ja -oppimateriaalien käsikirjoittaminen.
+Luento Karelia-ammattikorkeakoulussa Verkkokurssien käsikirjoitus -koulutuksessa 29.1.2013. [Writing manuscripts for online courses and materials: Lecture at Karelia University of Applied Sciences on Writing Manuscripts training 29.1.2013.]
+(Labun 2021)
+Labun, M. 2021. Communication – The Essential Skill. Online webinar by Achieve, Centre for Leadership 1.2.2021.
+Movies and Games
+In-text citation
+References
+*If the work is mentioned for the first time, the year of publication (release) is mentioned in brackets (parentheses).
+Movies:
+Title. Year of release. Director. Production company. Country.
+Games:
+Title. Year of release. Production company.
+The Grand Budapest Hotel (2014), a movie written and directed by Wes Anderson, recounts the adventures of a legendary concierge at a famous European hotel and the lobby boy who becomes his friend.
+The Grand Budapest Hotel. 2014. Anderson, W. Fox Searchlight Pictures.
+USA.
+Metal Gear Solid V: The Phantom Pain (2015) is a stealth game in which players take the role of Punished "Venom" Snake.
+Metal Gear Solid V: The Phantom Pain. 2015.
+Konami.
+Blogs
+In-text citation
+References
+Author. Year. Title of the blog text. Date when written. URL address. Date when accessed.
+(Peterson 2021)
+Peterson, A. 2021. Getting a Grip on What’s Next for Robotics in Manufacturing. Manufacturing Innovation Blog. 21.01.2021. https://www.nist.gov/blogs/manufacturing-innovation-blog/getting-grip-whats-next-robotics-manufacturing. 28.1.2021.
+Facebook
+In-text citation
+References
+*Instead of the title, write a few words from the beginning of the posting.
+Company:
+(Arbonaut 2020)
+Arbonout. 2020. Facebook pages. https://www.facebook.com/arbonaut. 24.1.2021.
+Person:
+(Schenkelberg 2018)
+Schenkelberg, F. 2018. Why Use DOE.  15.2.2018. https://www.facebook.com/fms95032.  24.1.2020.
+Online videos, e.g. Youtube videos
+In-text citation
+References
+Author. Year of publication. Title of the video. Service provider. URL address. Date when cited.
+(ProQuestRefworks 2013)
+ProQuestRefworks. 2013. "RefWorks Write-N-Cite 4: Installing & Logging In." YouTube-video. https://www.youtube.com/watch?v=lL_OyAJLpPI.
+24.2.2020.
+<<
+Edellinen:
+References
+Seuraava:
+Report layout >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935748
+================================================================================
+
+Report layout
+It is worthwhile to layout your thesis report correctly from the very beginning. These instructions may help:
+Thesis Template
+Download the Thesis
+template
+to your own computer as a Word template (.dotx). Start writing using the layout and settings of the template so the styles and settings are automatically according to the requirements. Save your drafts similar to normal Word files in the .docx format.
+Formatting Details for the Thesis
+When you have been processing and editing your thesis report for a long time, it is possible that some of the settings have changed and are no longer correct. For finalising your report, you can find a detailed formatting guide in the document called
+Detailed Instructions for the Thesis Layout.
+Please, note that if you have subheadings under the main heading, there should not be any text under the chapter heading. Always make sure that the subheadings are both logically and grammatically related to the main heading. Moreover, at every level, the minimum number of subheadings is two.
+Thesis Template
+Thesis Template
+Detailed Instructions for the Thesis Layout
+Detailed Instructions for the Thesis Layout
+Simple layout template
+Step by step template for thesis layout
+Title Page, Abstract(s), Contents and Appendices
+Cover Page
+Use the Thesis Template file for the title cover page layout.
+The
+thesis title
+should be compact and clear and contain the most essential information. The first words of the title are the most important and convey the key concepts of the thesis. The rest of the title can include descriptive elements. Whenever possible, use the basic forms of words, such
+as keywords and key concepts. Sometimes a secondary title can clarify the contents of the thesis.
+Abstract(s)
+If you report your thesis in English, you can include an abstract in some other language in addition to the one in English. The abstract should be about 150-200 words and divided into paragraphs. The paragraphs are separated by a blank line. The line spacing is 1 and font size 12. The text looks neat if both left and right sides are aligned (justified). At the bottom of the page, the most essential content of the thesis is described with the use of keywords (usually 3–4 words). The keywords should exist in the
+General Finnish Ontology, YSO.
+Check out a  guide:
+What is in an Abstract?
+(Thinglink)
+For the title, separate subheading (secondary title)
+with a colon
+. Example:
+Global Esports Markets : Opportunities and Challenges
+Use the same format for the title in Wihi and Theseus.
+Abstract form
+Abstract form
+Instruction for abstracts
+Instruction for abstracts
+Contents
+The table of contents is placed after the title page and the abstract. Use “Contents” as its heading. The heading font size should be 14 (bold). The headings should appear in the list of contents in the same form as they are in the text. The formatting should follow the instructions. In addition to the headings for the text passages, also the abstract, references and appendices are listed. If there are many appendices, a separate list can be created. Such a list appears before the appendices. If necessary, lists of tables, figures and pictures also can be created.  The margins should be the same as elsewhere in the report. Line spacing 1 should be used.
+Appendices
+All appendices should be placed at the end of the report after the references. They have a heading and are numbered consequently in the same order in which they are referred to in the text. The number and page of each appendix is in the upper right-hand corner, and they are separated by a tab. Appendices usually include information not fully needed for understanding the report, such as that found in questionnaires. However, they are referred to in the text, for example, as Appendix 3. In the list of contents, appendices have the heading Appendices (or Appendix, if there is only one). If the appendix was not created by you, it is necessary to add the reference to the original course.
+Abbreviations and Special Terms
+If the report contains many abbreviations, acronyms, or unfamiliar terms, such as symbols or professional terms, they could be defined and explained in a special glossary as per the instructions. The list of abbreviations and the glossary are placed to the beginning of the report after the contents page. They will benefit the reader most if they can be found right at the beginning. If needed, the list of abbreviations and glossary also include citations in the same way as the text elsewhere in the report.
+Example of the list of abbreviations:
+COBRA      Coherent On-line Baseband Receiver for Astronomy.
+DNA          Deoxyriboenucleic acid, a molecule that contains the biological instructions.
+ECG          Electrocardiogram, a medical test that detects the electrical activity of the heart.
+<<
+Edellinen:
+Examples of In-text Citations and References
+Seuraava:
+Text Editing - The Finishing Touches >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935749
+================================================================================
+
+Text Editing - The Finishing Touches
+You also need to edit the final version of your text. Pay attention to the arrangement and layout, language accuracy and style. The most common points worth checking are listed below.
+Layout
+There should be at least two blank lines on top and bottom of each page. Check that the heading is never left alone on a different page from the rest of the text.
+The line spacing is 1.5. On the title page, abstract(s) and contents, line spacing 1 is used.
+Use alignment on both sides of the page (justified layout). You can use hyphenation but make sure that you have English as your default language.
+Check page numbering. Page numbers must be on the upper right-hand corner of the page. Page numbering starts from the title page, but it is visible only from the Introduction onward until the last page of References.
+Abstract(s)
+Check that the abstract(s) follows the reporting conventions of Karelia UAS and that there are no typing, language or other types of errors.
+Check that the keywords (3-4) describe the main contents of your thesis. Avoid overly generic terms, such as
+development
+, but use more informative and specific terms and concepts.
+What is in an abstract?
+Headings
+The title of your report should be short and informative. Format and edit your title at the final stage of reporting so that your text is exactly about what the title indicates.
+In the same way, check all headings and subheadings. Each chapter should correspond to the title.
+Before and after the heading, leave two empty lines. Similarly, leave two blank lines before a subhead, but only one line after it.
+Chapter, Paragraph and Sentence
+Each chapter should have more than one paragraph.
+Chapters should never begin with a list, figure, picture or table. There should always be introductory text after the heading.
+Each paragraph has more than one sentence. Your paragraphs are balanced when the so-called topic sentence is supported by other sentences. Paragraph structure helps the reader understand when the author moves from one topic to the next. It is also more interesting if the length of the paragraphs varies a little.
+Long and complex sentences make reading tedious and are difficult to understand.
+Every sentence should express a complete thought. Therefore, make sure that your sentences include at least a subject and a predicate verb. Avoid sentence fragments and run-on sentences. Make sure that there is number agreement between the subject and the predicate verb.
+Avoid also other ambiguous or illogical grammatical structures, such as misplaced participle clauses or dangling modifiers. Try to place your modifier next to whatever it is meant to modify.
+Make sure that punctuation and the use of articles and pronouns support the logic of your text.
+Choice of Words, Spelling and Style
+Avoid colloquial wording unless you are, for example, directly quoting someone’s interview.
+Avoid unnecessary repetition. Repeating can occasionally be effective, but tautology needs to be avoided.
+Write the names of companies and associations in the same way as they appear in the trade register or in the register of associations.
+Check pronoun reference and agreement: The pronoun
+that
+refers to the preceding noun, while pronoun
+what
+refers to the preceding clause as a whole.
+Prefer the most common standard spelling conventions of either American or British English. Check the spelling of compound nouns.
+The style of the thesis report should be objective and informative. The purpose of formal style if to convey factual information and/ or give instructions.
+When writing the report, follow academic and scientific register. You should avoid expressions, such as “in our company” or “the way we do it”, even if you are working in the company you are researching.
+Punctuation
+Avoid the use of exclamation points and the three dots for ellipsis. They are not acceptable in academic reports. Ellipsis can only be used when leaving something out from the quoted data extracts.
+Check that you use the comma correctly. As a general rule, the comma is used before independent clauses and to separate different elements in lists. Do not use a comma instead of a conjunction. This mistake is called a comma splice.
+Although not always necessary, you may use the comma after an introductory phrase. For example, an initial adverbial phrase can be separated from the rest of the sentence with a comma.
+Clauses starting with
+that
+are usually restrictive (defining) and add essential information to the main clause. Therefore, there is no comma before them. With other relative clauses, always consider if they are restrictive or not. Non-restrictive (non-defining) clauses starting with
+which
+or
+who
+add further information and are preceded with a comma.
+Subordinating conjunctions, such as
+because, therefore or unless
+that fall in the middle of a sentence are generally not preceded by a comma.
+Coordinating conjunctions
+for, and, nor, but
+,
+or, yet,
+and sometimes
+so
+or words that join two independent clauses are usually preceded by a comma.
+When a subordinate clause begins a sentence, however, the whole clause (but not the subordinating conjunction itself) is followed by a comma.
+Place commas around non-defining relative clauses starting with
+who, whom, which.
+Please, note that the same relative pronouns can begin a defining clause when no commas are used.
+Relative clauses starting with
+that
+are mostly defining (restrictive) and are not separated by a comma.
+Hyphens and Dashes
+A hyphen (-) is sometimes used to join words or parts of words, such as in compound word
+self-restraint
+. If you are not sure whether a compound word should be hyphenated, check a dictionary or style guide. Hyphenated words tend to become closed compounds over time. For example, you should rather write
+email
+instead of
+e-mail
+or
+cooperation
+instead of
+co-operation
+.
+A dash is longer than a hyphen and is commonly used to indicate a range or a pause. A dash is used, for example, when you refer to the pages in the journal articles (Kotler et al. 2020, 10–22) or a time period, as in
+2020–2021
+.
+Lists
+Sentences that include a list after a colon require an introductory part with an
+appropriate superordinate term that accurately describes the items in the list. The superordinate term can, for example, be “the following principles:”. The list ends with a full stop (period). If the items on the list are independent sentences, each of them ends with a full stop.
+Examples:
+The report consists of five sections: introduction, theoretical background, experiment, analysis and discussion.
+Job applicants will need to provide the evidence of
+a bachelor’s degree,
+two years of experience, and
+three recommendation letters.
+The author can refer to the sources
+by agreeing with the author’s viewpoints
+by supporting the perspectives of the source
+by presenting a new perspective to the topic presented in the source
+by admitting the merits of the source, but presenting a critical perspective
+by rejecting the previous statement
+by integrating different viewpoints under a leading principle (Mattinen 1995).
+If the list contains complete sentences, they begin with capital initials and conclude with a full stop (period) or a question mark.
+The author should check the following points:
+Are the sentence structures clear?
+Does the appearance of the text look neat?
+Are citations made according to the instructions?
+Pictures, Figures and Tables
+Pictures, figures and tables are numbered consecutively and they all have a caption or title. Such information is given below the picture, figure or table using line spacing 1.
+Check that you have referred to and commented each table, figure or picture in the text. The data commentary should include the main information of the illustration.
+Add a citation to the caption if necessary and notify about the permission to use the picture, figure or table, if it is not your own.
+Sources
+Make sure that all your sources are mentioned within the text (in-text citation) and in the list of references.
+In-text citations include the author (a person, organisation or group) + year + page(s) as, for example, in (Patel 2014, 22).
+Check the punctuation in all in-text citations. When the reference applies to only one sentence, the full stop (period) comes after the last bracket. When referring to a longer text passage, there is a full stop at the end of the last sentence and also after the citation inside the brackets.
+Use direct quotations sparingly. If you, however, quote the exact words from the source, include quotation marks at the beginning and end of the quoted phrase. When the direct quotation is longer than three lines, indent it and use line spacing 1. In that case, there is no need for quotations marks. Such direct quotations are common in qualitative studies.
+If you want to explain an unfamiliar or rare term, you can use a footnote.
+The list of references includes the exact information of each source that is cited in the text.
+Put the references in alphabetical order according to the author’s last name. If the same author has published several publications in one year, refer to them using letters of the alphabet and put them in the order they appear in the text: 2009a and 2009b.
+Thesis writing links and guides
+Academic writing:
+Academic Phrasebank
+https://www.phrasebank.manchester.ac.uk/
+Purdue University: Online Writing Lab
+https://owl.purdue.edu/owl/purdue_owl.html
+University of Reading: academic writing:
+https://libguides.reading.ac.uk/writing/style
+University of Toronto: Writing advice for students:
+https://advice.writing.utoronto.ca/student-pdfs/
+Grammar:
+The Internet Grammar of English:
+https://www.ucl.ac.uk/internet-grammar/
+EF: English grammar guide:
+https://www.ef.com/wwen/english-resources/english-grammar/
+General skills:
+Help with using Microsoft Word:
+https://support.microsoft.com/en-us/word
+Learn English (British Council): a good general resource for improving your English
+http://learnenglish.britishcouncil.org/
+<<
+Edellinen:
+Report layout
+Seuraava:
+Copyright >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935750
+================================================================================
+
+Copyright
+Using copyrighted materials in the thesis requires permission. Such materials include, for example, photographs, drawings, maps and images (Copyright Act 1 §, 49a §).
+Further information can be found in the following materials.
+Hanken. Copyright
+Aalto University. ImagOA – Open sciences and images
+Lappeenranta University of Technology (LUT). Copyright
+Linkki avautuu uuteen ikkunaan
+<<
+Edellinen:
+Text Editing - The Finishing Touches
+Seuraava:
+Use of AI in Karelia UAS Theses >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935751
+================================================================================
+
+Sivu sisältää seuraavia alisivuja:
+Procedure
+Maturity Test
+Plagiarism Detection (Turnitin)
+Publishing the Thesis
+Thesis Assessment
+Feedback survey for commissioner
+Abstract Instructions
+<<
+Edellinen:
+Use of AI in Karelia UAS Theses
+Seuraava:
+Procedure >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935752
+================================================================================
+
+Procedure
+The order of progression
+Presenting the finished work at a thesis seminar
+Handing in the final version of the thesis for the
+Turnitin
+check
+Maturity test
+Sending the feedback survey fo the commissioner
+The
+Turnitin
+process and final thesis assessment
+The publishing of the assessed work in the Open Repository Theseus
+Once the supervisor has gone over the
+Turnitin
+report and evaluates it as accepted, the assessment of the thesis begins. If the
+Turnitin
+report indicates that there are parts in the thesis that should be modified, you will be given an opportunity and instructions to do so. The corrected version that you hand in to the thesis supervisor and inspector is the one that will be assessed.
+Once the assessment is finished, you will receive a notification of it, as well as a permission to store the accepted thesis in the national
+Open Repository Theseus
+. You are responsible for the publishing. Upon receiving the graduation notice, the student services will check that the work has been published.
+If you choose not to publish your work in Theseus, send a copy of your thesis in PDF format to
+opinnayte(at)karelia.fi
+, and submit a printed and bound version to Karelia Student Services.
+NB! If your thesis is guided in the .Wihi environment please follow the Wihi Instructions (see Planning and Implementation)
+<<
+Edellinen:
+Finalising
+Seuraava:
+Maturity Test >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935753
+================================================================================
+
+Maturity Test
+Once your thesis has been approved of and is ready to be presented at the results seminar, it is time to take the maturity test. The maturity test is a written exam that needs to follow the formal conventions of academic writing and showcases your expertise in the topic of your thesis. The maturity test is an essay task that will be written
+according to the instructions of the degree programme
+. If you have transferred from abroad or have for some other reason studied using some other language, the Head of Education will determine the language of the maturity exam. The maturity examinations will be organised by the degree programmes.
+For the maturity test, the thesis supervisor will give you three topics to choose from. The exam will be assessed by your thesis supervisor, and if necessary, the language will be assessed by a language teacher. Both the content and the language of the maturity exam will be graded pass/fail.  When the maturity exam is accepted (pass) and the thesis has been submitted for evaluation, the reporting part of the thesis will be considered completed.
+In bachelor’s programs, the maturity test is conducted according to the practices of each program in supervised conditions. The maturity test can be taken in a lecture hall, an EXAM aquarium, or through supervised remote connections.
+Maturity exam instructions
+Maturity exam instructions
+Press release of the thesis as the maturity exam
+<<
+Edellinen:
+Procedure
+Seuraava:
+Plagiarism Detection (Turnitin) >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935754
+================================================================================
+
+Plagiarism Detection (Turnitin)
+Turnitin is a tool for practicing academic writing skills and preventing plagiarism
+. Some of the features in Turnitin include assessing the originality of the text, using electronic databases, such as websites, published theses and licenced databases of libraries and publications.
+The thesis supervision platform Wihi was updated to version 8 (11 August 2025). You can now perform plagiarism checks at all stages of your thesis in Wihi. Preliminary checks are not saved and do not affect the final review.
+Your thesis supervisor can tell you more about using Turnitin in your thesis process.
+Student Turnitin Policies in Karelia
+<<
+Edellinen:
+Maturity Test
+Seuraava:
+Publishing the Thesis >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935755
+================================================================================
+
+Publishing the Thesis
+Since the thesis is a compulsory part of tertiary studies, it must be subject and open to public evaluation. All accepted thesis reports are always public.
+The approved thesis is submitted to the national
+Open Repository Theseus
+for publication after the thesis assessment is ready and you have the permit for publication from your supervisor. You are responsible for the publication of your own work in Theseus
+Accessibility in Thesis
+Accessibility means the consideration and advancement of human diversity in digital services. An accessible thesis is created in such a way that it can be accessed by people of seeing and reading disabilities with assistive technology, for example computer screen readers. Creating an accessible thesis requires that you will convert it into PDF format using the appropriate procedure.
+First, you must make the original Word document accessible. The requirements for accessibility are noted in
+the thesis template of Karelia UAS.
+Therefore, the template is to be used when you write your thesis report. The Word document should be converted into a PDF/A file in order to be saved in Theseus.
+Instructions for converting your thesis to a PDF/A file are available in Theseus.
+Uploading a Thesis to Theseus
+Upload your thesis report when it has been assessed and you have received the permit from your supervisor. You can only upload your thesis report once to Theseus, and it cannot be edited afterwards. Therefore, it is important that you
+upload
+the final version that has been approved by your supervisor. Make sure that the title of your thesis report is the same on the cover and abstract!
+Name your thesis report with the file name form of
+Surname_Firstname_yyyy.mm.dd.pfd
+. (
+yyyy
+=year, mm=month, dd=date.) The date is the date of the uploading. Allowed characters are 1-9, a-z, A-Z, _, - and space.
+An example for naming a file:
+Turunen_Tanja.pdf
+For further help see
+Instructions for Uploading A Thesis in Theseus
+.
+The thesis will be available in Theseus once the library has accepted your upload. The library aims at handling uploads during the same day between the office hours (8-16). Make sure that your thesis report is available in Theseus. When it is available there, it has also been saved to the electronic thesis archive of Karelia UAS.
+The Theseus system will give you a permanent link to your thesis on the Internet (URN address that follows the form of https://urn.fi/URN:NBN:fi:..). You need to copy the address to Wihi in order to receive the final grade. Wihi requires the whole path (address) starting with https://. NB! There is a delay of a few hours until the link works in Theseus.
+Publishing Thesis in Print
+If you do not upload your thesis report in Theseus, your thesis is to be published in a printed and bound version (black
+cardboard
+or hard covers do not need printing). Send your thesis report as a PDF to
+opinnayte
+(a)karelia.fi and deliver a bound copy to Student Services of Karelia UAS (Address:
+Tikkarinne
+9). Thesis binding services are provided for example by
+Joensuun Insinööriopiskelijat ry
+and
+Grano Oy
+. Student Services will deliver your bound thesis to the library of Karelia UAS that will then add the necessary labels. After this, your thesis will be available and can be borrowed from the library.
+If you publish your work only as a cover version, please add the following text to the Theseus link in Wihi: http://urn.fi/URN:NBN:fi
+In case you have questions regarding Theseus, please contact
+opinnayte
+(at) karelia.fi
+<<
+Edellinen:
+Plagiarism Detection (Turnitin)
+Seuraava:
+Thesis Assessment >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935756
+================================================================================
+
+Thesis Assessment
+Theses
+are assessed both by the thesis supervisor and an additional evaluator. The thesis is assessed
+on the basis of
+the topic, background and knowledge base, implementation, results, reporting, thesis process and mastery of entities. In addition, the language level is assessed by the language teacher who has been involved in the thesis process.
+If you are not satisfied with the assessment of your thesis or the grounds for the assessment, or if you wish to make a comment on them, submit a written request for rectification to the assessors of your thesis within 14 days of receiving the assessment.
+If you are dissatisfied with the grounds provided by the assessors of your thesis, you may submit a written request for rectification to the Degree Board of the  Karelia University of Applied Sciences within 14 days of receiving the grounds. The Degree Board must process the request for rectification within 30 days of receiving it. The decision of the Degree Board is final and cannot be appealed. NOTE! In July, the Degree Board will convene only if the matter is particularly urgent and requires an immediate decision.
+The written request for rectification must always include:
+student number and contact information (email address, postal address, telephone number)
+the decision for which rectification is requested
+the reasons why the decision should be changed
+The grounds for the thesis assessment provided by the thesis assessors attached
+Delivery addresses for requests for rectification addressed to the Degree Board:
+·              Karelia University of Applied Sciences / Degree Board, Student Services, Tikkarinne 9, 80200 Joensuu
+·              Email:
+opiskelijapalvelut@karelia.fi
+Further information is available from Mika Kettunen, Secretary of the Degree Board:
+mika.kettunen@karelia.fi
+Thesis assessment criteria
+Master’s thesis assessment criteria
+Instructions for an application for correction of thesis grade
+Thesis assessment criteria
+These assessment criteria apply to all bachelor's theses from 1.9.2025 onwards.
+Master's thesis assessment criteria
+These assessment criteria apply to all master's theses from 1.9.2025 onwards
+<<
+Edellinen:
+Publishing the Thesis
+Seuraava:
+Feedback survey for commissioner >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935757
+================================================================================
+
+Sivu sisältää seuraavia alisivuja:
+Information Search
+Thesis Writing Workshops
+<<
+Edellinen:
+Abstract Instructions
+Seuraava:
+Information Search >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935758
+================================================================================
+
+Information Search
+Systematic and efficient data acquisition is an essential part of the thesis process. The theoretical background of the thesis is built on the existing knowledge on the topic, such as studies, reports and other documents. Successful data acquisition requires a good understanding of the source material and databases as well as skilful use of good, accurate key words when searching for information. Familiarise yourself with the data acquisition processes when starting your thesis process at the latest, and do not forget source criticism when conducting your research.
+Karelia UAS Library's services
+Search and Find - Information Searcher's Journey
+Karelia UAS library has made this guide to help you with different levels of information search problems. In the guide, library presents the issues that affect the success of information searches. There are also tips how to find the best possible sources for your own information needs, whether it is a study course, essay or a thesis.
+Workshops and personal guidance
+You can practice information retrieval on workshops, organised by Karelia UAS’s Library.
+For information on the dates and times of the workshops, please see the
+Karelia UAS Library website
+.
+You can book a personal guidance time
+from Microsoft
+Bookings calendar
+.
+Login to service with your Karelia UAS email and password. The time reserved for guidance is 45 minutes.
+The library staff guides you for example with: the search terms; database and search engine use; finding eBooks and other literacy from Karelia-Finna etc.
+<<
+Edellinen:
+Thesis Workshops and Courses
+Seuraava:
+Thesis Writing Workshops >>
+
+
+================================================================================
+PAGE URL: https://libguides.karelia.fi/c.php?g=689495&p=4935759
+================================================================================
+
+Thesis Writing Workshops
+Make use of the writing workshops organised by language teachers. Contact your supervisor for possible workshops in your degree programme.
+Welcome to the Thesis Writing Workshops!
+Workshop Content
+In the workshops, you receive guidance and support for writing your thesis report, as well as feedback on the language and formatting of your own text. Feedback helps you correct and edit the language of your report, find appropriate style and improve the flow and readability of your text. During the workshops, you also refine your text to meet the Karelia thesis criteria and reporting guidelines. It is strongly recommended to participate in the workshops at least twice during the thesis process, once you have completed your theoretical section or created the knowledge base and later when reporting and discussing the results.
+Timing and Moodle Platform
+This semester writing workshops appear in the schedules of the students who started their studies in 2024 or earlier.
+To enrol, s
+ubmit your text extract(s) to Moodle
+for Thesis Writing Workshops
+at least a week before the date. The teacher responsible for the workshop will then email you the exact time slot for consultation and personal feedback. If you cannot attend the workshop in person, please, request a chance to attend online. Feedback will not be provided via email.
+Please note that Thesis Writing Workshops and the Moodle course will not replace thesis supervision and assessment in Wihi.
+<<
+Edellinen:
+Information Search
+

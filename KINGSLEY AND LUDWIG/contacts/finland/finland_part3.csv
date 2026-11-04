@@ -1,0 +1,101 @@
+person_name,job_title_raw,company,country,email,phone,website,email_status,selection_tier,funnel_score
+Mirko Ekberg,,Genelec Oy,FI,mirko.ekberg@genelec.com,,genelec.fi,mx_ok,reserve,64
+Oscar Valero - Spain,,Genelec Oy,FI,oscar.valero@genelec.com,,genelec.fi,mx_ok,reserve,64
+Patrick Lundin,,Genelec Oy,FI,patrick.lundin@genelec.com,,genelec.fi,mx_ok,reserve,64
+Pia Veltheim,,Genelec Oy,FI,pia.veltheim@genelec.com,,genelec.fi,mx_ok,reserve,64
+Sami Mäkinen,,Genelec Oy,FI,sami.makinen@genelec.com,,genelec.fi,mx_ok,reserve,64
+Solja Nieminen,,Genelec Oy,FI,solja.nieminen@genelec.com,,genelec.fi,mx_ok,reserve,64
+Steen Tychsen,,Genelec Oy,FI,steen.tychsen@genelec.com,,genelec.fi,mx_ok,reserve,64
+Tomi Hassinen,,Genelec Oy,FI,tomi.hassinen@genelec.com,,genelec.fi,mx_ok,reserve,64
+Close the menu,,Hakaniemen Metalli Oy,FI,firstname.lastname@highmetal.fi,,highmetal.fi,mx_ok,reserve,64
+Anne Tarvainen,,Heinävaaran Kone ja Metallityö Oy,FI,anne.tarvainen@hekome.fi,,hekome.fi,mx_ok,reserve,64
+Ha Korjaamo,,Herman Andersson Oy,FI,ha.korjaamo@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+Jani Sevander,,Herman Andersson Oy,FI,jani.sevander@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+Jari Erkkilä,,Herman Andersson Oy,FI,jari.erkkila@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+Talous-ja henkilöstöhallinto,,Herman Andersson Oy,FI,hanna.ulen@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+Tapio Hökkä,,Herman Andersson Oy,FI,stuffing@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+Teemu Pirilä,,Herman Andersson Oy,FI,teemu.pirila@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+Timo Alatalo,,Herman Andersson Oy,FI,depot@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+Timo Kuusela,,Herman Andersson Oy,FI,timo.kuusela@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+Tommi Peltonen,,Herman Andersson Oy,FI,tommi.peltonen@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+Tuotannon suunnittelu,,Herman Andersson Oy,FI,operations@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+"Vienti- ja tuontihuolinta, laivanselvitys",,Herman Andersson Oy,FI,marja.ailinpieti@hermanandersson.fi,,hermanandersson.fi,mx_ok,reserve,64
+Jukka Hinkka,,Hinkka Oy,FI,jukka.hinkka@hinkkaoy.fi,,hinkkaoy.fi,mx_ok,reserve,64
+Ella Ojanen,,Hovipellon Huolto Oy,FI,ella@isannointi-pauna.fi,,isannointi-pauna.fi,mx_ok,reserve,64
+Heli Antikainen-Pauna,,Hovipellon Huolto Oy,FI,heli@isannointi-pauna.fi,,isannointi-pauna.fi,mx_ok,reserve,64
+Tapio Pauna,,Hovipellon Huolto Oy,FI,tapio@isannointi-pauna.fi,,isannointi-pauna.fi,mx_ok,reserve,64
+Hameen Kaivin,,Hämeen Kaivin Oy,FI,hameen.kaivin@co.inet.fi,,hameenkaivin.fi,mx_ok,reserve,64
+Reino Rajala,,Hämeen Kaivin Oy,FI,reino.rajala@co.inet.fi,,hameenkaivin.fi,mx_ok,reserve,64
+"(jälleenmyyjät, urakoitsijat, talotehtaat)",,Icopal Katto Oy,FI,ari.kallio@bmigroup.com,,bmigroup.com,mx_ok,reserve,64
+Harri Munter,,Icopal Katto Oy,FI,harri.munter@bmigroup.com,,bmigroup.com,mx_ok,reserve,64
+Jari Isometsä,,Icopal Katto Oy,FI,jari.isometsa@bmigroup.com,,bmigroup.com,mx_ok,reserve,64
+Pennala varasto,,Icopal Katto Oy,FI,pennala.varasto@bmigroup.com,,bmigroup.com,mx_ok,reserve,64
+Vastaanotamme laskut PDF-tiedostona seuraavaan sähköpostiosoitteeseen:  .,,Icopal Katto Oy,FI,apinvoice.fi@sap.bmigroup.com,,bmigroup.com,mx_ok,reserve,64
+Janne Teivonen,,Ilosen Puutyö Ky,FI,laser@ilonen.fi,,ilonen.fi,mx_ok,reserve,64
+J. Hyttinen Ky,,J. Hyttinen Oy,FI,kuljetusliike@hyttinenj.fi,,hyttinenj.fi,mx_ok,reserve,64
+Jouko Hyttinen,,J. Hyttinen Oy,FI,jouko@hyttinenj.fi,,hyttinenj.fi,mx_ok,reserve,64
+Ml Hyttinen,,J. Hyttinen Oy,FI,ml.hyttinen@hyttinenj.fi,,hyttinenj.fi,mx_ok,reserve,64
+Firstname Lastname,,JET-Puu Oy,FI,firstname.lastname@jet-puu.fi,,jet-puu.fi,mx_ok,reserve,64
+Erja Hanki,,Jaakko Pohjola Oy,FI,erja.hanki@jaakkopohjola.fi,,jaakkopohjola.fi,mx_ok,reserve,64
+Terhi Pohjola,,Jaakko Pohjola Oy,FI,terhi.pohjola@jaakkopohjola.fi,,jaakkopohjola.fi,mx_ok,reserve,64
+Jani Teikari,,Jaakkoo-Taara Oy,FI,jani.teikari@jt.fi,,jt.fi,mx_ok,reserve,64
+Jonna Vapaavuori,,Jaakkoo-Taara Oy,FI,jonna.vapaavuori@jt.fi,,jt.fi,mx_ok,reserve,64
+Merja Mäkilä,,Jaakkoo-Taara Oy,FI,merja.makila@jt.fi,,jt.fi,mx_ok,reserve,64
+"Myyntipäällikkö, Nordics",,Jaakkoo-Taara Oy,FI,andreas.sjogren@jt.fi,,jt.fi,mx_ok,reserve,64
+Tommi Leppänen,,Jaakkoo-Taara Oy,FI,tommi.leppanen@jt.fi,,jt.fi,mx_ok,reserve,64
+johan.elenius (at) jeppokraft.fi,,Jeppo Kraft Andelslag,FI,ann-louise.ahlskog@jeppokraft.fi,,jeppokraft.fi,mx_ok,reserve,64
+robin.kuusisaari (at) jeppokraft.fi,,Jeppo Kraft Andelslag,FI,johan.elenius@jeppokraft.fi,,jeppokraft.fi,mx_ok,reserve,64
+"DI,  Tehtaanjohtaja",,Jousiteos Oy,FI,joonas.ojala@jousiteos.fi,,jousiteos.fi,mx_ok,reserve,64
+Juha Kärkkäinen,,Jousiteos Oy,FI,juha.karkkainen@jousiteos.fi,,jousiteos.fi,mx_ok,reserve,64
+Hallinto / kuljetus,,Juhani Kiviaho Oy,FI,joni.kiviaho@kuljetuskiviaho.fi,,kuljetuskiviaho.fi,mx_ok,reserve,64
+Hallituksen puheenjohtaja,,Juhani Kiviaho Oy,FI,markku.kiviaho@kuljetuskiviaho.fi,,kuljetuskiviaho.fi,mx_ok,reserve,64
+Joona Kiviaho,,Juhani Kiviaho Oy,FI,joona.kiviaho@kuljetuskiviaho.fi,,kuljetuskiviaho.fi,mx_ok,reserve,64
+Kirjanpito / reskontra,,Juhani Kiviaho Oy,FI,salla.kiviaho@kuljetuskiviaho.fi,,kuljetuskiviaho.fi,mx_ok,reserve,64
+Toimitusjohtaja ja turvallisuusneuvonantaja,,Juhani Kiviaho Oy,FI,mikko.kiviaho@kuljetuskiviaho.fi,,kuljetuskiviaho.fi,mx_ok,reserve,64
+Erik Lindström,,K. Jousmaa Oy,FI,erik@kjousmaa.fi,,kjousmaa.fi,mx_ok,reserve,64
+Jon Suominen,,K. Jousmaa Oy,FI,jon@kjousmaa.fi,,kjousmaa.fi,mx_ok,reserve,64
+Jere Hokkanen,,Kaivinkoneyhtymä Hokkanen & Hokkanen,FI,jere@kaivuuhokkanen.fi,,kaivuuhokkanen.fi,mx_ok,reserve,64
+Olli Hokkanen,,Kaivinkoneyhtymä Hokkanen & Hokkanen,FI,olli@kaivuuhokkanen.fi,,kaivuuhokkanen.fi,mx_ok,reserve,64
+Lähetäthän sähköpostia  osoitteeseen!,,Kaivutyö Reinikka Oy,FI,reinikka@reinikka.org,,reinikka.org,mx_ok,reserve,64
+Phone-alt Envelope,,Kalkunlämpö Oy,FI,janne.mansnérus@asuntonokia.fi,,asuntonokia.fi,mx_ok,reserve,64
+Hanne Pollari,,Kauhajoen Kuljetus Oy,FI,hanne.pollari@kauhajoki-ktk.fi,,kauhajoki-ktk.fi,mx_ok,reserve,64
+Sari Rinteela,,Kauhajoen Kuljetus Oy,FI,sari.rinteela@kauhajoki-ktk.fi,,kauhajoki-ktk.fi,mx_ok,reserve,64
+Firstname Lastname,,Kemijoki Oy,FI,firstname.lastname@kemijoki.fi,,kemijoki.fi,mx_ok,reserve,64
+Yhteyshenkilömme ostolaskuihin liittyviin kysymyksiin,,Kiantama Oy,FI,elina.vasunta@kiantama.fi,,kiantama.fi,mx_ok,reserve,64
+Aila Tarkkonen,,Kiteen Vesikunta,FI,aila.tarkkonen@kiteenvesikunta.fi,,kiteenvesikunta.fi,mx_ok,reserve,64
+Esa Hirvonen,,Kiteen Vesikunta,FI,esa.hirvonen@kiteenvesikunta.fi,,kiteenvesikunta.fi,mx_ok,reserve,64
+Hannele Hakulinen,,Kiteen Vesikunta,FI,hannele.hakulinen@kiteenvesikunta.fi,,kiteenvesikunta.fi,mx_ok,reserve,64
+Harri Pekkinen,,Kiteen Vesikunta,FI,harri.pekkinen@kiteenvesikunta.fi,,kiteenvesikunta.fi,mx_ok,reserve,64
+Jarmo Laiho,,Kiteen Vesikunta,FI,jarmo.laiho@telemail.fi,,kiteenvesikunta.fi,mx_ok,reserve,64
+Päivi Saukkonen,,Kiteen Vesikunta,FI,paivi.saukkonen@kiteenvesikunta.fi,,kiteenvesikunta.fi,mx_ok,reserve,64
+Sami Purmonen,,Kiteen Vesikunta,FI,sami.purmonen@edu.tohmajarvi.fi,,kiteenvesikunta.fi,mx_ok,reserve,64
+Tomi Leminen,,Kiteen Vesikunta,FI,tomi.leminen@kiteenvesikunta.fi,,kiteenvesikunta.fi,mx_ok,reserve,64
+Jani Klemola,,Klemolan Betoni Oy,FI,jani.klemola@klemolanbetonioy.fi,,klemolanbetonioy.fi,mx_ok,reserve,64
+Jussi Klemola,,Klemolan Betoni Oy,FI,jussi.klemola@klemolanbetonioy.fi,,klemolanbetonioy.fi,mx_ok,reserve,64
+Sakari Klemola,,Klemolan Betoni Oy,FI,sakari.klemola@klemolanbetonioy.fi,,klemolanbetonioy.fi,mx_ok,reserve,64
+Taina Nurmi,,Kokema Oy,FI,taina.nurmi@kokema.fi,,kokema.fi,mx_ok,reserve,64
+Tuotanto ja asennus,,Kokema Oy,FI,sinimaria@kokema.fi,,kokema.fi,mx_ok,reserve,64
+"Jaakola Sami, työmaamestari",,Kone-Kostamo Oy,FI,sami.jaakola@kone-kostamo.fi,,kone-kostamo.fi,mx_ok,reserve,64
+Johan Kostamo,,Kone-Kostamo Oy,FI,johan.kostamo@kone-kostamo.fi,,kone-kostamo.fi,mx_ok,reserve,64
+"Kostamo Kalle, työmaapäällikkö",,Kone-Kostamo Oy,FI,kalle.kostamo@kone-kostamo.fi,,kone-kostamo.fi,mx_ok,reserve,64
+Marjut Khoshabian,,Kone-Kostamo Oy,FI,marjut.khoshabian@kone-kostamo.fi,,kone-kostamo.fi,mx_ok,reserve,64
+"Mäenpää Karri, työmaapäällikkö",,Kone-Kostamo Oy,FI,karri.maenpaa@kone-kostamo.fi,,kone-kostamo.fi,mx_ok,reserve,64
+"Nikkilä Tapani, työmaapäällikkö",,Kone-Kostamo Oy,FI,tapani.nikkila@kone-kostamo.fi,,kone-kostamo.fi,mx_ok,reserve,64
+"Toivonen Janne, korjaamopäällikkö",,Kone-Kostamo Oy,FI,janne.toivonen@kone-kostamo.fi,,kone-kostamo.fi,mx_ok,reserve,64
+Sähköposti: etunimi.sukunimi(at)­konepajahakkinen.fi Yleinen sähköposti:,,Konepaja Häkkinen Oy,FI,email@konepajahakkinen.fi,,konepajahakkinen.fi,mx_ok,reserve,64
+Sähköposti: etunimi.sukunimi(at)­tikkakoskenkonepaja.fi Yleinen sähköposti:,,Konepaja Häkkinen Oy,FI,email@tikkakoskenkonepaja.fi,,konepajahakkinen.fi,mx_ok,reserve,64
+Dardani Ilhame +212606708070,,Kontiotuote Oy,FI,spatiasarl@gmail.com,,kontio.fi,mx_ok,reserve,64
+Hannu Virtanen +63917-8175981,,Kontiotuote Oy,FI,hannu.virtanen@arcticfp.com,,kontio.fi,mx_ok,reserve,64
+Rák Zsolt,,Kontiotuote Oy,FI,rak.zsolt@nordicliving.hu,,kontio.fi,mx_ok,reserve,64
+Reklamaatio Reklamaatiot ja palautukset,,Korja-Kumi Oy,FI,reklamaatio@korjakumi.fi,,korjakumi.fi,mx_ok,reserve,64
+Anssi Karjaluoto,,Korsu Oy,FI,anssi.karjaluoto@korsu.fi,,korsu.fi,mx_ok,reserve,64
+Iisakki Laurila,,Korsu Oy,FI,iisakki.laurila@korsu.fi,,korsu.fi,mx_ok,reserve,64
+Janne Hyrkas,,Korsu Oy,FI,janne.hyrkas@korsu.fi,,korsu.fi,mx_ok,reserve,64
+Jarmo Laurila,,Korsu Oy,FI,jarmo.laurila@korsu.fi,,korsu.fi,mx_ok,reserve,64
+Maritta Keskikorsu,,Korsu Oy,FI,maritta.keskikorsu@korsu.fi,,korsu.fi,mx_ok,reserve,64
+Marjo Juttula,,Korsu Oy,FI,marjo.juttula@korsu.fi,,korsu.fi,mx_ok,reserve,64
+Nina Makela,,Korsu Oy,FI,nina.makela@korsu.fi,,korsu.fi,mx_ok,reserve,64
+Pekka Keskikorsu,,Korsu Oy,FI,pekka.keskikorsu@korsu.fi,,korsu.fi,mx_ok,reserve,64
+Petri Keskikorsu,,Korsu Oy,FI,petri.keskikorsu@korsu.fi,,korsu.fi,mx_ok,reserve,64
+Piia Keskikorsu,,Korsu Oy,FI,piia.keskikorsu@korsu.fi,,korsu.fi,mx_ok,reserve,64
+Pirjo Hietamaki,,Korsu Oy,FI,pirjo.hietamaki@korsu.fi,,korsu.fi,mx_ok,reserve,64
