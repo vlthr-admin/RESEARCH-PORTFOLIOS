@@ -144,19 +144,15 @@
 | :---: | :--- | :---: | :---: |
 | **1** | Quality or performance | 18 | 60.0% |
 | **2** | Continuity or resilience | 15 | 50.0% |
-| **3** | Total cost | 14 | 46.7% |
-| **4** | Direct control | 13 | 43.3% |
 | **5** | Access to specialist skills | 12 | 40.0% |
 | **6** | Flexibility or scalability | 10 | 33.3% |
-| **7** | Cost (direct price) | 9 | 30.0% |
 | **8** | Risk or regulatory requirements | 7 | 23.3% |
 | **9** | Speed of implementation | 6 | 20.0% |
 | **10** | Strategic importance or core capability | 4 | 13.3% |
-| **10** | Control (managerial oversight) | 4 | 13.3% |
 | **10** | Other | 4 | 13.3% |
 | **13** | Supplier availability | 3 | 10.0% |
 | **14** | Supply chain risks | 1 | 3.3% |
-*Note:* Multi-selection item. When combining cost categories (Total cost + direct Cost), financial criteria appear in 76.7% of responses ($n = 23$).
+*Note:* Multi-selection item. Cost and Total cost are harmonised as Cost and financial considerations; Control and Direct control are harmonised as Control and operational authority. Count each respondent once per combined category. Recalculate unique respondent frequencies from the response-level data if overlap is possible; simple addition is not valid where respondents could select both original labels. Preserve original labels in the raw dataset.
 
 ---
 
@@ -168,4 +164,4 @@
 | **Predominantly Outsourced**| 7 (58.3%) | 5 (41.7%) | 12 (100.0%) |
 | **Hybrid / Combination** | 9 (100.0%) | 0 (0.0%) | 9 (100.0%) |
 | **Total Sample** | **22 (73.3%)** | **8 (26.7%)** | **30 (100.0%)** |
-*Note:* Evaluates respondent perception of how the chosen operating model affected the company's overall business risk profile. Fisher's exact test / chi-square descriptive cross-tabulation across $N = 30$.
+*Note:* Evaluates respondent perception of how the chosen operating model affected the company's overall business risk profile. Descriptive cross-tabulation only. No inferential test is reported in this table.
