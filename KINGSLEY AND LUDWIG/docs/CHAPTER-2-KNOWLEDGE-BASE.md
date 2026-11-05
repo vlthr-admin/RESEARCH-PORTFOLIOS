@@ -74,7 +74,7 @@ Operational risk refers to the potential for losses or disruptions arising from 
 
 Under an in-house model, the primary operational exposures include failures of internal capacity — staffing shortages, equipment breakdowns, skill scarcity, and dependency on key personnel whose absence can interrupt critical processes. These risks are entirely within the organisation's sphere of direct management, but are also entirely the organisation's responsibility to resolve. The organisation cannot transfer the consequences of an internal staffing shortage to an external party.
 
-Under an outsourced model, the organisation is partially insulated from the day-to-day operational demands of the activity but exposed to the supplier's performance. Delivery failures, quality deviations, and capacity shortfalls at the supplier level propagate directly into the client's operations. The client's ability to detect, diagnose, and correct supplier-side problems is constrained by the organisational boundary and by the information asymmetry inherent in principal-agent relationships (Lockamy & McCormack 2009).
+Under an outsourced model, the organisation is partially insulated from the day-to-day operational demands of the activity but exposed to the supplier's performance. Delivery failures, quality deviations, and capacity shortfalls at the supplier level propagate directly into the client's operations. The client's ability to detect, diagnose, and correct supplier-side problems is constrained by the organisational boundary and by the information asymmetry inherent in principal-agent relationships (Lockamy & McCormack 2010).
 
 ### 2.3.2 Quality and Process Control
 
