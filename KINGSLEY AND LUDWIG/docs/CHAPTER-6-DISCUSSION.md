@@ -2,7 +2,7 @@
 
 ## 6.1 Theoretical Synthesis and Interpretation of Findings
 
-This study set out to answer a central research question: **How do in-house and outsourced operations affect a company's operational and strategic/business risk profile?** By examining empirical evidence collected from $N = 30$ industrial and technical organizations across Europe alongside established organizational theories, our findings demonstrate that operating models do not determine whether a company has high or low risk in an absolute sense. Rather, **the choice of operating model acts as a structural redistribution mechanism that transforms the location, nature, and governance of organizational risk.**
+This study set out to answer a central research question: **How do in-house and outsourced operations affect a company's operational and strategic/business risk profile?** By examining empirical evidence collected from $N = 30$ industrial and technical respondents across Europe alongside established organizational theories, our findings demonstrate that operating models do not determine whether a company has high or low risk in an absolute sense. Rather, **the choice of operating model acts as a structural redistribution mechanism that transforms the location, nature, and governance of organizational risk.**
 
 In this section, we interpret our empirical findings through the four core theoretical lenses established in our Knowledge Base: Transaction Cost Economics, the Resource-Based View, Resource Dependence Theory, and Agency Theory.
 
@@ -24,7 +24,7 @@ Our empirical findings illustrate the dual-edged nature of internal capabilities
 ### 6.1.3 Resource Dependence Theory: Power Asymmetry and Switching Barriers
 Resource Dependence Theory (Su et al. 2014) posits that organizational vulnerability stems from reliance on critical resources controlled by external actors. An organization's risk exposure increases when external suppliers are non-substitutable, market alternatives are scarce, and switching costs are high.
 
-Our findings directly mirror these resource-dependence dynamics:
+The observed pattern is consistent with these resource-dependence dynamics:
 1. **Elevated Supplier Reliance:** Outsourced operations recorded a supplier dependency mean of 8.00 and a disruption severity mean of 8.33 out of 10. External provider failure results in catastrophic operational stoppage because the buying firm no longer maintains internal redundant capacity.
 2. **Constrained Switching Flexibility:** Provider replacement ease achieved a modest mean of 3.25 on a 1–5 scale (where 1 = very difficult). Furthermore, 33.3% of outsourced firms designated `Single Supplier Risk` (vendor capacity scarcity and lock-in) as their primary operational hazard. When critical activities are outsourced to specialized oligopolistic markets, power shifts toward the vendor, leaving the buying firm vulnerable to supply shocks and price escalations.
 
@@ -39,7 +39,7 @@ Our empirical findings contribute a crucial insight to agency governance regardi
 
 ## 6.2 The Comparative Risk Framework
 
-To answer Sub-Question 6 and provide an evidence-based output for organizational decision-makers, we synthesized the empirical findings and theoretical insights into the **Comparative Risk Framework**.
+To answer RQ5 and provide an evidence-based output for organizational decision-makers, we synthesized the empirical findings and theoretical insights into the **Comparative Risk Framework**.
 
 ```mermaid
 graph LR
@@ -95,7 +95,7 @@ The Comparative Risk Framework structures the multi-dimensional risk trade-offs 
 
 ## 6.3 Managerial Implications for Industrial Decision-Makers
 
-The findings of this thesis offer actionable strategic guidance for executives, operations managers, and procurement professionals evaluating make-or-buy decisions.
+The findings may inform questions managers consider when reviewing make-or-buy decisions. They should not be treated as universal prescriptions because the sample is small, purposive and based on self-reported assessments.
 
 ### 6.3.1 Moving Beyond Direct Purchase Price in Make-or-Buy Decisions
 A central managerial insight from this research is that make-or-buy decisions should never be based solely on immediate unit purchase price comparisons. Operating model selection must be evaluated through total cost of ownership (TCO) and multi-attribute risk governance:
@@ -127,10 +127,10 @@ A central managerial insight from this research is that make-or-buy decisions sh
 In compliance with Karelia UAS reporting standards, we critically evaluate the rigor, trustworthiness, and boundaries of this research.
 
 ### 6.4.1 Construct Validity and Content Validity
-Construct validity was established by anchoring all survey items in established theoretical paradigms (TCE, RBV, Agency Theory, Resilience). Question phrasing and rating scales were drawn directly from validated literature sources (Williamson 2008; McIvor 2009; Strange & Magnani 2017). Content validity was reinforced through pre-deployment pilot testing with 4 senior industry professionals and academic review by thesis supervisors, verifying that the questions captured genuine operational phenomena without ambiguity.
+The questionnaire was informed by concepts discussed in Chapter 2. This provides a theoretical rationale for the selected variables, but does not by itself establish construct or content validity. Any pilot review or supervisor feedback should be described only where supporting records are available.
 
 ### 6.4.2 Reliability and Internal Consistency
-Reliability — the degree to which the research instrument produces consistent results — was strengthened through standardised digital administration (Tally) with enforced branching rules, eliminating routing inconsistencies and missing data. All metric scales utilised consistent 10-point and 5-point anchoring. Furthermore, the dataset underwent systematic structural verification and schema-level quality control, with all 30 records confirmed to possess complete data across all 29 required fields prior to analysis. This verification process was documented in a repeatable, auditable manner, establishing a transparent data provenance trail.
+The questionnaire used a structured digital format. The consistency of routing and the handling of branch-dependent fields should be described from the final form configuration and data audit. The available evidence does not establish that routing eliminated all missing data or that the instrument’s reliability was statistically tested. All metric scales utilised consistent 10-point and 5-point anchoring. Furthermore, the dataset underwent systematic structural verification and schema-level quality control, with all 30 records confirmed to possess complete data across all 29 required fields prior to analysis. This verification process was documented in a repeatable, auditable manner, establishing a transparent data provenance trail.
 
 ### 6.4.3 Methodological Boundaries and Limitations
 The findings of this study must be interpreted within the context of several inherent methodological constraints:
@@ -155,8 +155,8 @@ Based on the limitations and discoveries of this thesis, we identify several fru
 
 This Bachelor's thesis set out to investigate how in-house, outsourced, and hybrid operating models influence an industrial company's operational and strategic risk profile. 
 
-The empirical findings from $N = 30$ European organizational respondents, synthesized through Transaction Cost Economics, the Resource-Based View, Resource Dependence Theory, and Agency Theory, provide a definitive answer to the research questions:
+The empirical findings from $N = 30$ European organizational respondents, synthesized through Transaction Cost Economics, the Resource-Based View, Resource Dependence Theory, and Agency Theory, provide a sample-specific descriptive response to the research questions:
 
-1. **No Operating Model is Inherently "Lower Risk":** Operating models do not eliminate risk; they alter its structure, location, and transmission pathways. In-house operations secure superior direct control (Mean = 7.89) and earlier problem detection (Mean = 7.33), but concentrate risk internally, creating acute vulnerability to staff shortages (55.6%) and single-point skill loss (44.4%). Outsourced operations eliminate internal labor and capital constraints, but introduce heavy supplier dependency (Mean = 8.00), a substantial monitoring deficit (Mean = 5.75), switching barriers, and severe reputation exposure (91.7%). Hybrid operations maximize recovery flexibility (Mean = 6.22), but suffer from blurred accountability (Mean = 6.44), information friction, and near-universal coordination failure risk (100.0%).
-2. **The Risk Trade-off Dynamic is Universal:** Nearly three-quarters (73.3%) of all organizations—and 100.0% of hybrid enterprises—confirmed that operating model choices represent a fundamental trade-off: *some risks decrease while others increase.*
+1. **No Operating Model is Inherently "Lower Risk":** Operating models do not eliminate risk; they alter its structure, location, and transmission pathways. In-house operations secure higher reported internal-control rating (Mean = 7.89) and earlier problem detection (Mean = 7.33), but concentrate risk internally, creating acute vulnerability to staff shortages (55.6%) and single-point skill loss (44.4%). Outsourced operations eliminate internal labor and capital constraints, but introduce heavy supplier dependency (Mean = 8.00), a substantial difference in reported monitoring ratings (Mean = 5.75), switching barriers, and severe reputation exposure (91.7%). Hybrid operations maximize recovery flexibility (Mean = 6.22), but suffer from blurred accountability (Mean = 6.44), information friction, and near-universal coordination failure risk (100.0%).
+2. **The Risk Trade-off Dynamic is Universal:** Nearly three-quarters (73.3%) of all organizations—and all nine respondents in the hybrid subgroup—confirmed that operating model choices represent a fundamental trade-off: *some risks decrease while others increase.*
 3. **The Strategic Imperative:** Sustainable competitive advantage does not stem from dogmatically internalizing or outsourcing every activity. It depends on aligning the operating model with the activity's strategic criticality, implementing proactive monitoring to bridge organizational boundaries, and maintaining the internal capabilities necessary to retain operational resilience under disruption.
