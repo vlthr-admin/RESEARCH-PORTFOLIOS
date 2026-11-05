@@ -118,7 +118,7 @@ This risk dimension is particularly significant for activities that are closely 
 
 ### 2.5.1 Contractual Governance
 
-Effective governance of outsourced activities requires a contractual framework that defines service specifications, quality standards, key performance indicators, escalation procedures, and exit terms with sufficient precision to align the supplier's behaviour with the client's requirements. Research in supply chain risk management identifies contract completeness and specificity as important moderators of outsourcing risk (Lockamy & McCormack 2009).
+Effective governance of outsourced activities requires a contractual framework that defines service specifications, quality standards, key performance indicators, escalation procedures, and exit terms with sufficient precision to align the supplier's behaviour with the client's requirements. Research in supply chain risk management identifies contract completeness and specificity as important moderators of outsourcing risk (Lockamy & McCormack 2010).
 
 However, contracts are inherently incomplete in the presence of uncertainty. When operating environments change in ways that were not anticipated at the time of contracting, the client and supplier must either renegotiate terms or absorb the consequences of contractual gaps. The costs of renegotiation and the risks of opportunistic behaviour during renegotiation are among the central concerns of TCE (Williamson 2008).
 
@@ -126,7 +126,7 @@ However, contracts are inherently incomplete in the presence of uncertainty. Whe
 
 Beyond contractual design, effective outsourcing governance requires active operational monitoring. Performance monitoring mechanisms — including regular performance reviews, key performance indicator tracking, on-site audits, and corrective action processes — provide the client with the information necessary to detect supplier-side problems before they escalate into service disruptions. The monitoring gap, defined as the difference between the client's desired level of operational visibility and its actual ability to observe supplier performance, represents a structural feature of all outsourcing relationships (Hoecht & Trott 2006).
 
-Effective supplier management programmes reduce the monitoring gap through systematic data collection, supplier relationship investment, and regular structured communication. Research on supply network risk management identifies multi-supplier strategies, supplier risk assessment, and contingency planning as the governance practices most strongly associated with operational resilience in outsourcing-dependent organisations (Lockamy & McCormack 2009).
+Effective supplier management programmes reduce the monitoring gap through systematic data collection, supplier relationship investment, and regular structured communication. Research on supply network risk management identifies multi-supplier strategies, supplier risk assessment, and contingency planning as the governance practices most strongly associated with operational resilience in outsourcing-dependent organisations (Lockamy & McCormack 2010).
 
 ### 2.5.3 Interface Management in Hybrid Arrangements
 
@@ -148,7 +148,7 @@ Operating model choice has direct implications for all three components of resil
 
 Business continuity planning involves the advance design of response procedures, recovery resources, and communication protocols to be activated when a significant operational disruption occurs. In the context of outsourced operations, continuity planning must address the specific scenario of a supplier failure, which differs fundamentally from an internal operational disruption in terms of the client's degree of control over the recovery process.
 
-Key continuity measures applicable to outsourcing-dependent operations include the maintenance of alternative or backup supply arrangements, safety stocks of critical materials, contractual provisions for emergency re-insourcing or rapid supplier substitution, and documented recovery procedures that have been tested under realistic conditions (Lockamy & McCormack 2009). The absence of such measures substantially extends the recovery timeline following a supplier disruption.
+Key continuity measures applicable to outsourcing-dependent operations include the maintenance of alternative or backup supply arrangements, safety stocks of critical materials, contractual provisions for emergency re-insourcing or rapid supplier substitution, and documented recovery procedures that have been tested under realistic conditions (Lockamy & McCormack 2010). The absence of such measures substantially extends the recovery timeline following a supplier disruption.
 
 ### 2.6.3 Resilience Trade-Offs Across Operating Models
 
