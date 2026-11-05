@@ -42,30 +42,27 @@ The intended outcome of the study is an evidence-based understanding of how oper
 
 The objectives of this thesis are to:
 
-1. identify the main operational risks associated with in-house operations;
-2. identify the main operational risks associated with outsourced operations;
-3. examine the operational and strategic risks associated with hybrid operating arrangements;
-4. compare how different operating models distribute, retain, transfer, introduce, reduce, or amplify risk;
-5. examine the influence of governance, dependency, and organisational capabilities on the resulting risk profile; and
-6. develop a structured comparative framework for assessing the risk implications of in-house, outsourced, and hybrid operating models.
-
-These objectives provide the basis for the research questions, the empirical data collection instrument, and the subsequent analysis.
+1. examine the operational and strategic risks associated with in-house operations;
+2. examine the operational and strategic risks associated with outsourced operations;
+3. compare control, monitoring and accountability across in-house, outsourced and hybrid operations;
+4. examine how internal resource and external provider dependencies relate to continuity, response and recovery; and
+5. identify factors influencing the choice and continued use of in-house, outsourced and hybrid operating models.
 
 ## 1.5 Research Questions
 
-The main research question of the study is:
+The central research question is:
 
-*How do in-house and outsourced operating models affect a company's risk profile?*
+*How do in-house and outsourced operations affect a company's risk profile?*
 
-The main question is supported by the following sub-questions:
+The supporting research questions are:
 
-- **RQ1:** What operational risks are associated with in-house, outsourced, and hybrid operating models?
-- **RQ2:** How does the choice of operating model affect an organisation's strategic and business risk exposure?
-- **RQ3:** How do governance, dependency, and organisational capabilities influence the risk profile associated with different operating models?
-- **RQ4:** How do detection, response, and recovery capabilities differ across in-house, outsourced, and hybrid operating arrangements?
-- **RQ5:** How do organisations assess the risk trade-offs involved in make-or-buy decisions?
+- **RQ1:** What operational and strategic risks are associated with in-house operations?
+- **RQ2:** What operational and strategic risks are associated with outsourced operations?
+- **RQ3:** How do control, monitoring and accountability differ across in-house, outsourced and hybrid operations?
+- **RQ4:** How do internal resource and external provider dependencies affect continuity, response and recovery?
+- **RQ5:** What factors influence the choice and continued use of an in-house, outsourced or hybrid operating model?
 
-These research questions provide the connecting structure between the theoretical knowledge base (Chapter 2), the research methodology (Chapter 3), the empirical data collection and implementation (Chapter 4), the results (Chapter 5), and the discussion and conclusions (Chapter 6).
+Use these exact questions and numbering in every project document. The questions are descriptive and comparative. They do not presume that the operating model causes a particular outcome or that one model is universally preferable.
 
 ## 1.6 Scope and Delimitations of the Study
 
@@ -75,7 +72,7 @@ Two risk dimensions are examined. The operational dimension includes areas such 
 
 The study does not attempt to evaluate the financial performance outcomes of operating model choices in aggregate, nor does it provide a normative prescription that one model should be universally preferred over another. The study is descriptive and comparative: it examines reported professional assessments of risk exposure and distribution across the three operating model categories.
 
-The empirical component of the study is based on a cross-sectional questionnaire survey conducted among operational and strategic decision-makers in industrial and commercial enterprises across Europe. The achieved sample comprises $N = 30$ fully completed responses, distributed across Finland and eleven further European countries, and covering in-house ($n = 9$), outsourced ($n = 12$), and hybrid ($n = 9$) operating arrangements. The study does not claim to constitute a statistically representative probability sample of European industrial organisations. Its findings are interpreted as exploratory comparative evidence, appropriate for the academic scope and objectives of a bachelor's thesis.
+The empirical component is a cross-sectional questionnaire study using purposive, non-probability recruitment. The questionnaire did not request respondents’ names. The response count is 30 respondents; the data do not establish that each respondent represents a unique organisation. The current analysis dataset contains 30 respondent records, distributed across Finland and eleven further European countries, and covering in-house ($n = 9$), outsourced ($n = 12$), and hybrid ($n = 9$) operating arrangements. The study does not claim to constitute a statistically representative probability sample of European industrial organisations. Its findings are interpreted as exploratory comparative evidence, appropriate for the academic scope and objectives of a bachelor's thesis.
 
 ## 1.7 Structure of the Report
 
