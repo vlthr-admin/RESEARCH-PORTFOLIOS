@@ -33,7 +33,7 @@ To ensure empirical validity, the **unit of analysis in this research is defined
 
 ## 3.3 Operationalization of Variables
 
-To bridge the theoretical knowledge base (Chapter 2) with empirical measurement, we operationalized the conceptual framework into measurable survey variables. The survey instrument was organized into seven logical modules (Sections A through E), comprising 28 core survey variables alongside a unique respondent identifier (`profile_id`). Table 3.1 details the complete operationalization schema, illustrating the alignment between survey questions, empirical variables, measurement scales, and the supporting research questions (RQ1–RQ5).
+To bridge the theoretical knowledge base (Chapter 2) with empirical measurement, we operationalized the conceptual framework into measurable survey variables. The survey instrument was organized into seven logical modules (Sections A through E), comprising 28 core survey variables alongside a unique respondent identifier (`profile_id`). Table 3.1 details the operationalization schema and maps each variable to the definitive research questions (RQ1–RQ5).
 
 ### Table 3.1. Operationalization of Survey Variables and Research Question Alignment
 
@@ -46,27 +46,27 @@ To bridge the theoretical knowledge base (Chapter 2) with empirical measurement,
 | **A5** | `company_size` | Enterprise size bracket | Ordinal (1–49, 50–249, 250–999, 1000+) | Control variable |
 | **B1** | `activity` | Specific operating activity assessed | Categorical (6 operational areas) | Unit of analysis |
 | **B2** | `operating_model` | Core delivery model path | Categorical (In-house / Outsourced / Hybrid) | Primary grouping variable |
-| **IH1** | `internal_skill_dependency` | Reliance on internal specialist expertise | Metric rating scale (1–10: Low to High) | RQ1 (Operational risk factors) |
-| **IH2** | `internal_control_effectiveness`| Direct quality and process control | Metric rating scale (1–10: Poor to Excellent) | RQ1, RQ3 (Control) |
-| **IH3** | `internal_resource_disruption` | Severity of impact if key staff unavailable | Metric rating scale (1–10: Low to High) | RQ1 (Continuity risk) |
-| **IH4** | `internal_scalability` | Capacity scaling flexibility | Metric rating scale (1–5: Difficult to Easy) | RQ1 (Operational flexibility) |
-| **IH5** | `primary_inhouse_risk` | Primary structural in-house vulnerability | Categorical (*Staff Shortage* vs *Skill Scarcity*) | RQ1 (Risk identification) |
-| **OS1** | `supplier_dependency` | Reliance on external service provider | Metric rating scale (1–10: Low to High) | RQ1 (Operational risk factors) |
-| **OS2** | `supplier_monitoring_effectiveness`| Ability to monitor and enforce SLA quality | Metric rating scale (1–10: Poor to Excellent) | RQ1, RQ3 (Governance/Control) |
-| **OS3** | `supplier_disruption` | Severity of impact if provider fails | Metric rating scale (1–10: Low to High) | RQ1 (Continuity risk) |
-| **OS4** | `provider_replacement_ease` | Ease of switching or insourcing provider | Metric rating scale (1–5: Difficult to Easy) | RQ1 (Switching/Lock-in risk) |
-| **OS5** | `primary_outsourcing_risk` | Primary structural outsourcing vulnerability | Categorical (*Supplier Performance* vs *Single Supplier*) | RQ1 (Risk identification) |
-| **HY1** | `responsibility_clarity` | Clarity of internal vs external duties | Metric rating scale (1–10: Poor to Excellent) | RQ3 (Governance/Accountability) |
-| **HY2** | `cross_boundary_information` | Information sharing across boundaries | Metric rating scale (1–10: Poor to Excellent) | RQ3 (Communication) |
-| **HY3** | `handoff_effectiveness` | Management of operational handoffs | Metric rating scale (1–10: Poor to Excellent) | RQ3 (Coordination) |
-| **HY4** | `primary_hybrid_risk` | Primary structural hybrid vulnerability | Categorical (*Coordination Failure Risk*) | RQ1 (Risk identification) |
-| **D1** | `problem_detection` | Speed of early problem detection | Metric rating scale (1–10: Poor to Excellent) | RQ4 (Resilience/Monitoring) |
-| **D2** | `recovery_effectiveness` | Speed and efficacy of service recovery | Metric rating scale (1–10: Poor to Excellent) | RQ4 (Resilience/Recovery) |
-| **D3** | `accountability_clarity` | Overall clarity of decision accountability | Metric rating scale (1–10: Poor to Excellent) | RQ3 (Governance) |
-| **D4** | `failure_consequences` | Significant consequences upon failure | Multi-selection categorical string | RQ1 (Impact analysis) |
-| **E1** | `make_buy_factors` | Decision criteria in make-or-buy choices | Multi-selection categorical string | RQ5 (Decision factors) |
-| **E2** | `overall_risk_effect` | Directional impact on business risk profile | Categorical (*Trade-off* vs *Increased*) | RQ2 (Business risk shift) |
-| **E3** | `additional_insight` | Qualitative practitioner insight | Open-ended text field | Supplemental qualitative |
+| **IH1** | `internal_skill_dependency` | Reliance on internal specialist expertise | Metric rating scale (1–10: Low to High) | RQ1 and RQ4 |
+| **IH2** | `internal_control_effectiveness`| Direct quality and process control | Metric rating scale (1–10: Poor to Excellent) | RQ1, RQ3 |
+| **IH3** | `internal_resource_disruption` | Severity of impact if key staff unavailable | Metric rating scale (1–10: Low to High) | RQ1, RQ4 |
+| **IH4** | `internal_scalability` | Capacity scaling flexibility | Metric rating scale (1–5: Difficult to Easy) | RQ1, RQ5 (contextual) |
+| **IH5** | `primary_inhouse_risk` | Primary structural in-house vulnerability | Categorical (*Staff Shortage* vs *Skill Scarcity*) | RQ1 |
+| **OS1** | `supplier_dependency` | Reliance on external service provider | Metric rating scale (1–10: Low to High) | RQ2, RQ4 |
+| **OS2** | `supplier_monitoring_effectiveness`| Ability to monitor and enforce SLA quality | Metric rating scale (1–10: Poor to Excellent) | RQ2, RQ3 |
+| **OS3** | `supplier_disruption` | Severity of impact if provider fails | Metric rating scale (1–10: Low to High) | RQ2, RQ4 |
+| **OS4** | `provider_replacement_ease` | Ease of switching or insourcing provider | Metric rating scale (1–5: Difficult to Easy) | RQ2, RQ4, RQ5 (contextual) |
+| **OS5** | `primary_outsourcing_risk` | Primary structural outsourcing vulnerability | Categorical (*Supplier Performance* vs *Single Supplier*) | RQ2 |
+| **HY1** | `responsibility_clarity` | Clarity of internal vs external duties | Metric rating scale (1–10: Poor to Excellent) | RQ3 |
+| **HY2** | `cross_boundary_information` | Information sharing across boundaries | Metric rating scale (1–10: Poor to Excellent) | RQ3 |
+| **HY3** | `handoff_effectiveness` | Management of operational handoffs | Metric rating scale (1–10: Poor to Excellent) | RQ3, RQ4 |
+| **HY4** | `primary_hybrid_risk` | Primary structural hybrid vulnerability | Categorical (*Coordination Failure Risk*) | RQ3, RQ4 |
+| **D1** | `problem_detection` | Speed of early problem detection | Metric rating scale (1–10: Poor to Excellent) | RQ4 |
+| **D2** | `recovery_effectiveness` | Speed and efficacy of service recovery | Metric rating scale (1–10: Poor to Excellent) | RQ4 |
+| **D3** | `accountability_clarity` | Overall clarity of decision accountability | Metric rating scale (1–10: Poor to Excellent) | RQ3 |
+| **D4** | `failure_consequences` | Significant consequences upon failure | Multi-selection categorical string | RQ1, RQ2, RQ4 |
+| **E1** | `make_buy_factors` | Decision criteria in make-or-buy choices | Multi-selection categorical string | RQ5 |
+| **E2** | `overall_risk_effect` | Respondent’s overall perception of risk effect | Categorical | Contextual result across RQ1–RQ5; not a direct measure of causation |
+| **E3** | `additional_insight` | Optional additional insight | Open-ended text field | Supplementary only; analyse only if usable text exists |
 
 ### Measurement Scale Design:
 - **Intensity and Effectiveness Constructs (`IH1`–`IH3`, `OS1`–`OS3`, `HY1`–`HY3`, `D1`–`D3`):** Measured using 10-point numerical rating scales anchored with explicit conceptual endpoints (1 = Very Low / Ineffective, 10 = Very High / Highly Effective). A 10-point scale provides sufficient granularity for respondents to convey nuanced operational assessments without artificially constraining variance (DeVellis 2017).
