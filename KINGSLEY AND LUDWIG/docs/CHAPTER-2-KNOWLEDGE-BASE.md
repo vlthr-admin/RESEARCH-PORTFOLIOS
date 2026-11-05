@@ -184,25 +184,24 @@ The reviewed literature provides substantial theoretical and empirical insight i
 
 Existing reviews also find that empirical evidence on outsourcing outcomes is inconsistent across contexts, with financial, quality, strategic, and innovation consequences varying considerably by sector, activity type, and governance quality (Strange & Magnani 2017). This contextual sensitivity reinforces the need for comparative empirical evidence examining practitioner assessments of risk distribution across operating model configurations.
 
-The present study addresses this gap by applying the analytical chain established in this chapter to primary empirical evidence collected from operational and strategic decision-makers across European industrial enterprises, thereby generating a structured comparative basis for understanding how operating model choices shape organisational risk profiles in practice.
+The present study applies the analytical chain established in this chapter to questionnaire responses from professionals assessing a specific operating activity. The study offers an exploratory comparison of respondent assessments across in-house, outsourced and hybrid arrangements. The scope of the literature search should be kept in view when describing the contribution; the present review does not establish that no comparable framework exists elsewhere.
 
 ---
 
 ## References
 
-Espino-Rodríguez, T. F. & Padrón-Robaina, V. 2006. A review of outsourcing from the resource-based view of the firm. International Journal of Management Reviews 8 (1), 49–70.
+Espino-Rodríguez, T. F. & Padrón-Robaina, V. 2006. A review of outsourcing from the resource-based view of the firm. International Journal of Management Reviews 8 (1), 49–70. https://doi.org/10.1111/j.1468-2370.2006.00120.x. 5.11.2026.
 
-Hoecht, A. H. & Trott, P. 2006. Outsourcing, information leakage and the risk of losing technology based competencies. European Business Review 18 (5), 395–412.
+Hoecht, A. H. & Trott, P. 2006. Outsourcing, information leakage and the risk of losing technology based competencies. European Business Review 18 (5), 395–412. https://doi.org/10.1108/09555340610686967. 5.11.2026.
 
-Lockamy, A. III & McCormack, K. 2009. Analysing risks in supply networks to facilitate outsourcing decisions. International Journal of Production Research 48 (2), 593–611.
+Lockamy, A. III & McCormack, K. 2010. Analysing risks in supply networks to facilitate outsourcing decisions. International Journal of Production Research 48 (2), 593–611. https://doi.org/10.1080/00207540903175152. 5.11.2026.
 
-McIvor, R. 2009. How the transaction cost and resource-based theories of the firm inform outsourcing evaluation. Journal of Operations Management 27 (1), 45–63.
+McIvor, R. 2009. How the transaction cost and resource-based theories of the firm inform outsourcing evaluation. Journal of Operations Management 27 (1), 45–63. https://doi.org/10.1016/j.jom.2008.03.004. 5.11.2026.
 
-Rachalawar, G. S. & Mishra, U. 2026. A systematic review of operational risk in outsourced automotive assembly manufacturing in India. Frontiers in Mechanical Engineering 12.
+Rachalawar, G. S. & Mishra, U. 2026. A systematic review of operational risk in outsourced automotive assembly manufacturing in India. Frontiers in Mechanical Engineering 12, 1851830. https://doi.org/10.3389/fmech.2026.1851830. 5.11.2026.
 
-Strange, R. & Magnani, G. 2017. The performance consequences of manufacturing outsourcing: review and recommendations for future research. Advances in International Management 30.
+Strange, R. & Magnani, G. 2017. The performance consequences of manufacturing outsourcing: Review and recommendations for future research. In Pedersen, T., Camuffo, A., Devinney, T. & Tihanyi, L. (Eds.) Breaking up the Global Value Chain: Opportunities and Consequences. Advances in International Management 30. Bingley: Emerald Publishing Limited, 217–244. https://doi.org/10.1108/S1571-502720170000030009. 5.11.2026.
 
-Tsay, A. A., Gray, J. V., Noh, I. J. & Mahoney, J. T. 2018. A review of production and operations management research on outsourcing in supply chains: implications for the theory of the firm. Production and Operations Management 27 (7), 1177–1220.
+Tsay, A. A., Gray, J. V., Noh, I. J. & Mahoney, J. T. 2018. A review of production and operations management research on outsourcing in supply chains: Implications for the theory of the firm. Production and Operations Management 27 (7), 1177–1220. https://doi.org/10.1111/poms.12855. 5.11.2026.
 
-Williamson, O. E. 2008. Outsourcing: transaction cost economics and supply chain management. Journal of Supply Chain Management 44 (2), 5–16.
-
+Williamson, O. E. 2008. Outsourcing: Transaction cost economics and supply chain management. Journal of Supply Chain Management 44 (2), 5–16. https://doi.org/10.1111/j.1745-493X.2008.00051.x. 5.11.2026.
