@@ -4,7 +4,7 @@
 
 This chapter presents the empirical findings derived from the analysis of $N = 30$ qualified organizational survey responses collected across 12 European countries. All findings are reported with explicit sample denominators, subgroup sizes ($n$), percentages ($n / N$), measures of central tendency (Means and Medians), and dispersion (Standard Deviations).
 
-Table 5.1 details the demographic and contextual characteristics of the participating organizations and respondents.
+Table 5.1 details the demographic and contextual characteristics of the respondents and the organisational contexts they reported.
 
 ### Table 5.1. Demographic and Contextual Characteristics of the Sample ($N = 30$)
 
@@ -50,7 +50,7 @@ Table 5.1 details the demographic and contextual characteristics of the particip
 | | Supply chain or logistics | 2 | 6.7% |
 *Note:* Total sample size $N = 30$. Percentages may not sum to 100.0% due to rounding.
 
-The geographic composition perfectly reflects the research design targets: 12 respondents (40.0%) represent Finnish enterprises, while 18 respondents (60.0%) represent wider European organizations across the Nordic region, Western Europe, Southern Europe, and Central Europe. In terms of enterprise scale, 90.0% of respondents belong to the mid-sized (50–249 employees, 40.0%) and upper-medium bands (250–999 employees, 50.0%), representing companies that actively manage formal operating model allocations. Participant seniority was exceptionally high: 73.4% ($n = 22$) maintain direct executive or supervisory responsibility over the evaluated activity, verifying high data authenticity.
+The geographic distribution in the current dataset is: 12 respondents (40.0%) represent Finnish enterprises, while 18 respondents (60.0%) represent wider European respondents across the Nordic region, Western Europe, Southern Europe, and Central Europe. In terms of enterprise scale, 90.0% of respondents belong to the mid-sized (50–249 employees, 40.0%) and upper-medium bands (250–999 employees, 50.0%), representing companies that actively manage formal operating model allocations. The familiarity responses describe respondents’ self-reported involvement in the assessed activity. They are not independent verification of role seniority or data authenticity.
 
 Table 5.2 illustrates the distribution of operating models across the assessed operational activities.
 
@@ -66,9 +66,9 @@ Table 5.2 illustrates the distribution of operating models across the assessed o
 | Supply chain or logistics | 0 (0.0%) | 2 (100.0%) | 0 (0.0%) | 2 (100.0%) |
 | **Total Operating Model Share** | **9 (30.0%)** | **12 (40.0%)** | **9 (30.0%)** | **30 (100.0%)** |
 
-Core operational activities exhibit distinct structural patterns:
+Within this sample, the activity-by-model distribution is as follows:
 - **Production and Service Delivery** is heavily maintained in-house (50.0%), though outsourcing (25.0%) and hybrid configurations (25.0%) are present.
-- **IT and Technology Services** is 100.0% outsourced ($n = 5$), reflecting widespread industry reliance on specialized external technology vendors.
+- **IT and Technology Services** is 100.0% outsourced ($n = 5$), based on the five respondents who assessed IT or technology services in this sample.
 - **Logistics, Facilities, and Supply Chain** are heavily configured through hybrid partnerships ($n = 5$), where internal teams manage strategic scheduling while third-party logistics (3PL) providers execute physical operations.
 
 ---
@@ -90,7 +90,7 @@ Nine respondents (30.0% of the sample) assessed activities delivered predominant
 | Single-Point Skill Risk | Critical skill scarcity | 4 | 44.4% | — | — | — |
 *Note:* Subgroup sample size $n = 9$ (in-house respondents only). Rating scales: 1 = Lowest / Very Low; 10 = Highest / Very High (1–5 for scalability).
 
-The empirical data reveal that the defining strength of in-house operations—**direct quality and process control**—is counterbalanced by severe **internal resource dependency**:
+Within the in-house subgroup, respondents reported the following ratings and primary risk selections:
 1. **High Direct Control:** Respondents report high internal control effectiveness (Mean = 7.89, Median = 8.00, SD = 0.78), indicating that physical proximity, direct hierarchical supervision, and unmediated internal communication facilitate superior quality assurance.
 2. **Extreme Resource Vulnerability:** Concurrently, internal skill dependency is exceptionally high (Mean = 8.89, Median = 9.00, SD = 0.78), and the operational difficulty experienced if key staff become unavailable reaches a critical Mean of 9.00 (Median = 9.00, SD = 0.71). 
 3. **Primary Structural Risks:** In question IH5, 55.6% ($n = 5$) identified `Staff Shortage Risk` (general operational disruption due to labor market shortages) as their primary vulnerability, while 44.4% ($n = 4$) identified `Single-Point Skill Risk` (the catastrophic loss of specialized, non-substitutable tacit knowledge concentrated in a few individuals).
@@ -115,8 +115,8 @@ Twelve respondents (40.0% of the sample) evaluated activities performed predomin
 | Single Supplier Risk | Supplier capacity scarcity | 4 | 33.3% | — | — | — |
 *Note:* Subgroup sample size $n = 12$ (outsourced respondents only). Rating scales: 1 = Lowest / Very Low; 10 = Highest / Very High (1–5 for replacement ease).
 
-The findings substantiate the theoretical predictions of Transaction Cost Economics and Agency Theory regarding external boundaries:
-1. **The Monitoring Deficit:** While supplier dependency is high (Mean = 8.00, Median = 8.00), the perceived effectiveness of monitoring supplier quality drops sharply to Mean = 5.75 (Median = 6.00, SD = 0.97). Compared to in-house direct control (Mean = 7.89), outsourcing introduces a **2.14-point governance gap**, confirming that formal contracts and periodic audits cannot fully replace real-time observational oversight.
+The outsourced subgroup results can be considered alongside transaction cost and governance literature. They do not independently test or substantiate those theories:
+1. **The Monitoring Deficit:** While supplier dependency is high (Mean = 8.00, Median = 8.00), the perceived effectiveness of monitoring supplier quality drops sharply to Mean = 5.75 (Median = 6.00, SD = 0.97). Compared to in-house direct control (Mean = 7.89), outsourcing introduces a **2.14-point governance gap**, which is consistent with, but does not establish that formal contracts and periodic audits cannot fully replace real-time observational oversight.
 2. **Severe Disruption Impact:** Supplier disruption severity is perceived as highly damaging (Mean = 8.33, Median = 8.00, SD = 0.49). If an external provider halts service, the client organization experiences immediate operational arrest.
 3. **Switching Frictions & Lock-In:** Provider replacement ease scored a modest Mean of 3.25 (Median = 3.00, SD = 0.97 on a 1–5 scale). In-sourcing or switching to an alternative provider is constrained by contractual notice periods, specialized tooling, and procedural re-onboarding.
 4. **Primary Structural Risks:** In question OS5, two-thirds of respondents ($n = 8$, 66.7%) designated `Supplier Performance Risk` (quality degradation, missed SLAs, and limited direct control) as their primary concern, while one-third ($n = 4$, 33.3%) cited `Single Supplier Risk` (capacity scarcity, vendor dependency, and absence of viable market alternatives).
@@ -138,7 +138,7 @@ Nine respondents (30.0% of the sample) assessed hybrid arrangements combining in
 | Coordination Failure Risk | Split responsibilities | 9 | 100.0% | — | — | — |
 *Note:* Subgroup sample size $n = 9$ (hybrid respondents only). Rating scales: 1 = Lowest / Very Low; 10 = Highest / Very High.
 
-The empirical metrics expose the unique operational friction generated by split organizational boundaries:
+The hybrid subgroup reported the following ratings and primary risk selections:
 1. **Blurred Responsibility Boundaries:** Responsibility clarity between internal employees and external providers achieved a Mean of only 5.56 (Median = 6.00, SD = 0.53). This represents the lowest governance score recorded across all models in the study.
 2. **Information Sharing Bottlenecks:** Information sharing across organizational boundaries scored a matching Mean of 5.56 (Median = 5.00, SD = 0.73). Differing communication systems, proprietary restrictions, and fragmented IT interfaces hinder seamless cross-boundary data exchange.
 3. **Operational Handoffs:** Handoff management achieved a slightly higher Mean of 6.11 (Median = 6.00, SD = 0.78), indicating that structured standard operating procedures (SOPs) partially mitigate, but do not eliminate, transition errors.
@@ -148,7 +148,7 @@ The empirical metrics expose the unique operational friction generated by split 
 
 ## 5.5 Cross-Model Comparison: Problem Detection, Recovery, and Governance (RQ3, RQ4)
 
-Table 5.6 brings together the three universal resilience and governance metrics evaluated across all 30 organizations, enabling direct comparison between the operating models.
+Table 5.6 brings together the three universal resilience and governance metrics evaluated across all 30 respondents, enabling direct comparison between the operating models.
 
 ### Table 5.6. Comparative Evaluation of Problem Detection, Recovery, and Accountability ($N = 30$)
 
@@ -175,9 +175,9 @@ graph TD
     end
 ```
 
-The comparative analysis yields three pivotal findings:
-1. **The In-House Detection Advantage (D1):** In-house operations hold a substantial, statistically visible lead in early problem detection (Mean = 7.33, Median = 7.00) over outsourced (Mean = 5.50, Median = 5.50) and hybrid arrangements (Mean = 5.56, Median = 6.00). In an in-house setting, operators and managers share the same physical floor and organizational culture, enabling early identification of minor anomalies before they escalate into major stoppages. In outsourced and hybrid environments, detection is filtered through reporting intervals, creating a communication lag.
-2. **The Hybrid Recovery Advantage (D2):** Conversely, hybrid operations demonstrate superior post-disruption recovery effectiveness (Mean = 6.22, Median = 7.00) compared to both in-house (Mean = 5.67, Median = 6.00) and outsourced operations (Mean = 5.67, Median = 5.50). This empirical divergence supports the **dual-capability resilience hypothesis**: when an operational failure occurs, hybrid organizations can deploy internal resources to stabilize critical workflows while simultaneously calling on external supplier capacity, providing a dual fallback mechanism.
+The descriptive comparison shows the following patterns in this sample:
+1. **The In-House Detection Advantage (D1):** In-house operations hold a substantial, higher mean rating in this sample in early problem detection (Mean = 7.33, Median = 7.00) over outsourced (Mean = 5.50, Median = 5.50) and hybrid arrangements (Mean = 5.56, Median = 6.00). In an in-house setting, operators and managers share the same physical floor and organizational culture, enabling early identification of minor anomalies before they escalate into major stoppages. In outsourced and hybrid environments, detection is filtered through reporting intervals, creating a communication lag.
+2. **The Hybrid Recovery Advantage (D2):** Conversely, hybrid operations demonstrate superior post-disruption recovery effectiveness (Mean = 6.22, Median = 7.00) compared to both in-house (Mean = 5.67, Median = 6.00) and outsourced operations (Mean = 5.67, Median = 5.50). One possible interpretation of this descriptive difference is that: when an operational failure occurs, hybrid organizations can deploy internal resources to stabilize critical workflows while simultaneously calling on external supplier capacity, providing a dual fallback mechanism.
 3. **The Governance Hierarchy (D3):** Accountability clarity follows a descending hierarchy: In-House (Mean = 8.00) > Outsourced (Mean = 7.33) > Hybrid (Mean = 6.44). In-house arrangements benefit from unified corporate hierarchy; outsourcing relies on legally defined contract boundaries; but hybrid arrangements suffer from operational ambiguity where neither party possesses complete end-to-end accountability.
 
 ---
@@ -199,11 +199,11 @@ Table 5.7 maps the frequencies of operational failure consequences reported by r
 | **Safety or compliance consequences**| **3 (10.0%)** | 3 (33.3%) | 0 (0.0%) | 0 (0.0%) | Regulatory / Legal Exposure |
 *Note:* Multi-selection item; column percentages exceed 100.0%. Denominators reflect subgroup sample sizes ($n = 9, 12, 9$).
 
-The failure consequence distributions provide empirical validation for the specific risk-impact pathways postulated in our conceptual model:
+The response frequencies show how respondents selected potential or experienced consequences. They do not establish causal pathways between a risk source and an outcome:
 - **`Workflow Breakdown` is a Structural Signature of Hybrid Models:** Reported by **77.8% of hybrid respondents ($n = 7$)** and 50.0% of outsourced respondents ($n = 6$), but **0.0% of in-house respondents ($n = 0$)**. When operational activities are fragmented across organizational lines, handoff failure directly paralyzes downstream workflows.
 - **`Knowledge Loss` Reflects Dual Realities:** Reported by 55.6% of in-house operators (where the departure of key technical personnel causes immediate institutional memory loss) and 33.3% of outsourced operators (where long-term outsourcing drains internal engineering competence).
-- **`Safety and Compliance Consequences` are Retained Internally:** Exclusively reported by in-house respondents (33.3%, $n = 3$), confirming that organizations maintaining direct ownership of physical assets bear non-transferable regulatory and environmental compliance exposure.
-- **`Customer and Reputation Damage`:** Exceptionally high in outsourcing (91.7%, $n = 11$), demonstrating that external supplier performance defects immediately propagate to the buying firm's brand.
+- **`Safety and Compliance Consequences` are Retained Internally:** Exclusively reported by in-house respondents (33.3%, $n = 3$), The subgroup difference should be interpreted cautiously because the questionnaire records respondent selections, not verified legal liability or incident records.
+- **`Customer and Reputation Damage`:** Exceptionally high in outsourcing (91.7%, $n = 11$), indicating that respondents in this subgroup selected this consequence relatively frequently.
 
 ---
 
