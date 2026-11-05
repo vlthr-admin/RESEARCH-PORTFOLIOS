@@ -59,13 +59,13 @@ The raw response labels must remain unchanged. The harmonised categories are ana
 
 ## 5. Missingness and branch applicability
 
-The questionnaire uses conditional routing. Variables in branches not shown to a respondent are structurally not applicable, not missing answers. Calculate missingness only among respondents who were shown the relevant question. The researchers will complete the final data review; this matrix does not assert that all applicable fields are complete.
+The questionnaire uses conditional routing. Variables in branches not shown to a respondent are structurally not applicable, not missing answers. Calculate missingness only among respondents who were shown the relevant question. The current export contains responses in all applicable branch-specific closed-ended fields and all common closed-ended fields. The optional E3 field contains N/A in all 30 records and is not usable qualitative material.
 
 ## 6. Research and interpretation boundaries
 
 - Cross-sectional, questionnaire-based, exploratory and descriptive design.
 - Purposive, non-probability recruitment; findings describe participating respondents only.
-- 30 respondents, not 30 verified unique organisations.
+- 30 respondent records, not 30 verified unique organisations.
 - The questionnaire did not request respondent names; do not claim complete anonymity without assessing indirect identification.
 - No causal, population-representative or statistical-significance claims from descriptive summaries.
 - Keep risk exposure, control effectiveness, accountability, continuity and recovery separate.
@@ -84,3 +84,13 @@ The questionnaire uses conditional routing. Variables in branches not shown to a
 ## 8. Change control
 
 Any change to questions, variable definitions, harmonisation rules or analysis methods must be recorded with date, rationale and affected documents. The raw questionnaire export must remain unchanged.
+
+## 9. Verified export audit (5 November 2026)
+
+The current export contains 30 records and 29 columns. The operating-model groups are 9 in-house, 12 outsourced and 9 hybrid. The response set contains 12 Finland-based records and 18 records across 11 other European countries.
+
+Branch applicability is IH1–IH5 for 9 records, OS1–OS5 for 12 records and HY1–HY4 for 9 records. All applicable branch-specific closed-ended fields are populated. All common closed-ended fields are populated for all 30 records. The optional E3 field contains N/A in all 30 source records; no qualitative analysis is supported.
+
+The rating variables are ordinal response formats. Means are reported as descriptive summaries alongside medians and sample standard deviations. D1 measures problem-detection effectiveness, not elapsed detection time. D2 measures perceived recovery effectiveness, not elapsed recovery time. E2 is perceived overall risk effect, not objective before-and-after risk change.
+
+For E1, Cost and Total cost are grouped as Cost and financial considerations, and Control and Direct control as Control and operational authority. Each respondent is counted once per harmonised category. The resulting counts are 23 and 17 respectively. Original source labels remain unchanged.
