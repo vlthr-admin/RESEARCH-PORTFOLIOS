@@ -98,7 +98,7 @@ Within the in-house subgroup, respondents reported the following ratings and pri
 
 ---
 
-## 5.3 Outsourced Operating Model: Dependency, Monitoring, and Disruption (RQ1, RQ3)
+## 5.3 Outsourced Operating Model: Dependency, Monitoring, and Disruption (RQ2, RQ3, RQ4)
 
 Twelve respondents (40.0% of the sample) evaluated activities performed predominantly by external service providers. Table 5.4 outlines the operational metrics and primary risk distributions for this group.
 
@@ -123,7 +123,7 @@ The outsourced subgroup results can be considered alongside transaction cost and
 
 ---
 
-## 5.4 Hybrid Operating Model: Interface Governance and Coordination Friction (RQ1, RQ3)
+## 5.4 Hybrid Operating Model: Interface Governance and Coordination (RQ3, RQ4)
 
 Nine respondents (30.0% of the sample) assessed hybrid arrangements combining internal staff with external contractors. Table 5.5 presents the empirical metrics for the hybrid group.
 
@@ -182,7 +182,7 @@ The descriptive comparison shows the following patterns in this sample:
 
 ---
 
-## 5.6 Operational Failure Consequences and Impact Pathways (RQ1)
+## 5.6 Reported Failure Consequences (RQ1, RQ2, RQ4)
 
 Table 5.7 maps the frequencies of operational failure consequences reported by respondents across the sample and within each operating model subgroup.
 
