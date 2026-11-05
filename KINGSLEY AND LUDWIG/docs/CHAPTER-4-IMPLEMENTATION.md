@@ -116,3 +116,16 @@ The researchers have indicated that supervisor permission was obtained. No forma
 The project records provide approximate stage windows and lead-pool sizes but do not provide exact invitation counts or dispatch dates. The response export verifies the final sample distribution but cannot independently verify the recruitment process, the pilot duration, the participant-information wording, or data-storage controls. Those claims should be retained with the project records and, where appropriate, supporting material should be included in the research archive.
 
 The study uses a small purposive sample and self-reported assessments. Its findings are descriptive and activity-specific. They do not establish causal effects, objective incident frequencies, or population-level estimates.
+
+
+## References
+
+American Association for Public Opinion Research (AAPOR). 2022. Best Practices for Survey Research. https://aapor.org/standards-and-ethics/best-practices/. Accessed 5 November 2026.
+
+European Data Protection Board (EDPB). 2026. Anonymisation / pseudonymisation. https://www.edpb.europa.eu/topics/ai-and-technology/anonymisation-pseudonymisation_en. Accessed 5 November 2026.
+
+European Union. 2016. Regulation (EU) 2016/679 (General Data Protection Regulation). https://eur-lex.europa.eu/eli/reg/2016/679/. Accessed 5 November 2026.
+
+Karelia University of Applied Sciences. 2026a. Thesis Instructions: Data Management Plan. https://libguides.karelia.fi/c.php?g=689495&p=5202279. Accessed 5 November 2026.
+
+Karelia University of Applied Sciences. 2026b. Thesis Instructions: Report Outline. https://libguides.karelia.fi/c.php?g=689495&p=4935741. Accessed 5 November 2026.
