@@ -1,224 +1,190 @@
 # Chapter 5: Results
 
-## 5.1 Sample Demographics and Operating Model Overview
+## 5.1 Dataset and Respondent Profile
 
-This chapter presents the empirical findings derived from the analysis of $N = 30$ qualified organizational survey responses collected across 12 European countries. All findings are reported with explicit sample denominators, subgroup sizes ($n$), percentages ($n / N$), measures of central tendency (Means and Medians), and dispersion (Standard Deviations).
+The results are based on 30 respondent records in the frozen response export. The questionnaire did not collect a verified organisation identifier; the records are therefore not described as 30 unique companies. Each respondent assessed one operational activity and the operating model used for that activity.
 
-Table 5.1 details the demographic and contextual characteristics of the respondents and the organisational contexts they reported.
+### Table 5.1. Geographic distribution (N = 30)
 
-### Table 5.1. Demographic and Contextual Characteristics of the Sample ($N = 30$)
+| Country | n | % |
+|---|---:|---:|
+| Finland | 12 | 40.0% |
+| Sweden | 3 | 10.0% |
+| Germany | 2 | 6.7% |
+| Spain | 2 | 6.7% |
+| France | 2 | 6.7% |
+| Netherlands | 2 | 6.7% |
+| Poland | 2 | 6.7% |
+| Belgium | 1 | 3.3% |
+| Denmark | 1 | 3.3% |
+| Italy | 1 | 3.3% |
+| Norway | 1 | 3.3% |
+| United Kingdom | 1 | 3.3% |
+| **Total** | **30** | **100.0%** |
 
-| Variable | Category | Frequency ($n$) | Percentage ($n / N$) |
-| :--- | :--- | :---: | :---: |
-| **Geographic Context (`country`)** | Finland | 12 | 40.0% |
-| | Sweden | 3 | 10.0% |
-| | France | 2 | 6.7% |
-| | Germany | 2 | 6.7% |
-| | Netherlands | 2 | 6.7% |
-| | Poland | 2 | 6.7% |
-| | Spain | 2 | 6.7% |
-| | Belgium | 1 | 3.3% |
-| | Denmark | 1 | 3.3% |
-| | Italy | 1 | 3.3% |
-| | Norway | 1 | 3.3% |
-| | United Kingdom | 1 | 3.3% |
-| **Industry Sector (`industry`)** | Technology & Telecommunications | 6 | 20.0% |
+The 18 respondents outside Finland represent 11 other European countries. “Wider Europe” is used rather than “European Union”, because the response set includes the United Kingdom and Norway.
+
+### Table 5.2. Respondent and activity context (N = 30)
+
+| Variable | Category | n | % |
+|---|---|---:|---:|
+| Industry | Technology or telecommunications | 6 | 20.0% |
 | | Manufacturing | 5 | 16.7% |
 | | Automotive | 3 | 10.0% |
-| | Healthcare & Pharmaceuticals | 3 | 10.0% |
-| | Transport & Logistics | 3 | 10.0% |
-| | Construction & Engineering | 2 | 6.7% |
-| | Energy & Utilities | 2 | 6.7% |
-| | Retail & Consumer Services | 2 | 6.7% |
-| | Aerospace & Defense | 1 | 3.3% |
+| | Healthcare or pharmaceuticals | 3 | 10.0% |
+| | Transport or logistics | 3 | 10.0% |
+| | Construction or engineering | 2 | 6.7% |
+| | Energy or utilities | 2 | 6.7% |
+| | Retail or consumer services | 2 | 6.7% |
+| | Aerospace and defense | 1 | 3.3% |
 | | Chemicals | 1 | 3.3% |
-| | Food Production | 1 | 3.3% |
-| | Oil & Gas | 1 | 3.3% |
-| **Organization Size (`company_size`)** | 1–49 employees (Small) | 2 | 6.7% |
-| | 50–249 employees (Medium) | 12 | 40.0% |
-| | 250–999 employees (Mid-sized / Upper-medium) | 15 | 50.0% |
-| | 1,000+ employees (Large enterprise) | 1 | 3.3% |
-| **Operational Familiarity (`knowledge_level`)** | Directly responsible for it | 11 | 36.7% |
-| | Manage or supervise it | 11 | 36.7% |
-| | Support decisions about it | 4 | 13.3% |
-| | Have professional experience with it | 4 | 13.3% |
-| **Assessed Activity (`activity`)** | Production or service delivery | 12 | 40.0% |
+| | Food production | 1 | 3.3% |
+| | Oil and gas | 1 | 3.3% |
+| Company-size band | 1–49 employees | 2 | 6.7% |
+| | 50–249 employees | 12 | 40.0% |
+| | 250–999 employees | 15 | 50.0% |
+| | 1,000 or more employees | 1 | 3.3% |
+| Self-reported familiarity | Directly responsible | 11 | 36.7% |
+| | Manage or supervise | 11 | 36.7% |
+| | Support decisions | 4 | 13.3% |
+| | Professional experience | 4 | 13.3% |
+| Assessed activity | Production or service delivery | 12 | 40.0% |
 | | IT or technology services | 5 | 16.7% |
 | | Maintenance or asset management | 5 | 16.7% |
 | | Logistics or facilities | 3 | 10.0% |
 | | Procurement or supply chain | 3 | 10.0% |
 | | Supply chain or logistics | 2 | 6.7% |
-*Note:* Total sample size $N = 30$. Percentages may not sum to 100.0% due to rounding.
 
-The geographic distribution in the current dataset is: 12 respondents (40.0%) represent Finnish enterprises, while 18 respondents (60.0%) represent wider European respondents across the Nordic region, Western Europe, Southern Europe, and Central Europe. In terms of enterprise scale, 90.0% of respondents belong to the mid-sized (50–249 employees, 40.0%) and upper-medium bands (250–999 employees, 50.0%), describing the reported size profile of respondents’ organisations. The familiarity responses describe respondents’ self-reported involvement in the assessed activity. They are not independent verification of role seniority or data authenticity.
+Company-size categories are reported as questionnaire bands. They are not legal classifications of enterprise size. Role and familiarity categories are self-reported and were not independently verified.
 
-Table 5.2 illustrates the distribution of operating models across the assessed operational activities.
+### Table 5.3. Operating model by assessed activity (N = 30)
 
-### Table 5.2. Cross-Tabulation of Operating Model by Assessed Activity ($N = 30$)
+| Assessed activity | In-house | Outsourced | Hybrid | Total |
+|---|---:|---:|---:|---:|
+| Production or service delivery | 6 | 3 | 3 | 12 |
+| IT or technology services | 0 | 5 | 0 | 5 |
+| Maintenance or asset management | 3 | 1 | 1 | 5 |
+| Logistics or facilities | 0 | 0 | 3 | 3 |
+| Procurement or supply chain | 0 | 1 | 2 | 3 |
+| Supply chain or logistics | 0 | 2 | 0 | 2 |
+| **Total** | **9** | **12** | **9** | **30** |
 
-| Assessed Activity | Predominantly In-House ($n=9$) | Predominantly Outsourced ($n=12$) | Hybrid / Combination ($n=9$) | Total ($N=30$) |
-| :--- | :---: | :---: | :---: | :---: |
-| Production or service delivery | 6 (50.0%) | 3 (25.0%) | 3 (25.0%) | 12 (100.0%) |
-| IT or technology services | 0 (0.0%) | 5 (100.0%) | 0 (0.0%) | 5 (100.0%) |
-| Maintenance or asset management | 3 (60.0%) | 1 (20.0%) | 1 (20.0%) | 5 (100.0%) |
-| Logistics or facilities | 0 (0.0%) | 0 (0.0%) | 3 (100.0%) | 3 (100.0%) |
-| Procurement or supply chain | 0 (0.0%) | 1 (33.3%) | 2 (66.7%) | 3 (100.0%) |
-| Supply chain or logistics | 0 (0.0%) | 2 (100.0%) | 0 (0.0%) | 2 (100.0%) |
-| **Total Operating Model Share** | **9 (30.0%)** | **12 (40.0%)** | **9 (30.0%)** | **30 (100.0%)** |
+The five respondents assessing IT or technology services all reported a predominantly outsourced model. This is a description of these five records only. The activity categories “Logistics or facilities” and “Supply chain or logistics” are separate categories in the export and have not been merged.
 
-Within this sample, the activity-by-model distribution is as follows:
-- **Production and Service Delivery** is heavily maintained in-house (50.0%), though outsourcing (25.0%) and hybrid configurations (25.0%) are present.
-- **IT and Technology Services** is 100.0% outsourced ($n = 5$), based on the five respondents who assessed IT or technology services in this sample.
-- **Logistics, Facilities, and Supply Chain** are heavily configured through hybrid partnerships ($n = 5$), where internal teams manage strategic scheduling while third-party logistics (3PL) providers execute physical operations.
+## 5.2 In-House Operations (RQ1)
 
----
+Nine respondents assessed activities delivered predominantly in-house. The five IH measures were populated for all nine applicable respondents.
 
-## 5.2 In-House Operating Model: Control, Skills, and Vulnerabilities (RQ1)
+### Table 5.4. In-house ratings (n = 9)
 
-Nine respondents (30.0% of the sample) assessed activities delivered predominantly in-house. Table 5.3 summarizes the descriptive statistics for in-house operational metrics and the categorical primary risk distribution.
+| Measure | Scale | Mean | Median | Sample SD | Range |
+|---|---:|---:|---:|---:|---:|
+| Internal skill dependency (IH1) | 1–10 | 8.89 | 9 | 0.78 | 8–10 |
+| Internal control effectiveness (IH2) | 1–10 | 7.89 | 8 | 0.78 | 7–9 |
+| Internal resource disruption impact (IH3) | 1–10 | 9.00 | 9 | 0.71 | 8–10 |
+| Internal scalability (IH4) | 1–5 | 3.89 | 4 | 0.78 | 3–5 |
 
-### Table 5.3. In-House Operational Control, Dependency, and Risk Profile ($n = 9$)
+### Table 5.5. Primary in-house risk (n = 9)
 
-| Metric / Survey Item | Measurement Scale | Mean | Median | Standard Deviation | Min | Max |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Internal Skill Dependency (`IH1`) | Rating (1–10) | **8.89** | **9.00** | 0.78 | 8 | 10 |
-| Internal Control Effectiveness (`IH2`) | Rating (1–10) | **7.89** | **8.00** | 0.78 | 7 | 9 |
-| Resource Disruption Difficulty (`IH3`) | Rating (1–10) | **9.00** | **9.00** | 0.71 | 8 | 10 |
-| Internal Scalability (`IH4`) | Rating (1–5) | **3.89** | **4.00** | 0.78 | 3 | 5 |
-| **Primary In-House Risk (`IH5`)** | **Categorical Breakdown** | **Count ($n$)** | **Percentage ($n/9$)** | | | |
-| Staff Shortage Risk | Direct operational exposure | 5 | 55.6% | — | — | — |
-| Single-Point Skill Risk | Critical skill scarcity | 4 | 44.4% | — | — | — |
-*Note:* Subgroup sample size $n = 9$ (in-house respondents only). Rating scales: 1 = Lowest / Very Low; 10 = Highest / Very High (1–5 for scalability).
+| Risk | n | % |
+|---|---:|---:|
+| Staff Shortage Risk | 5 | 55.6% |
+| Single-Point Skill Risk | 4 | 44.4% |
+| **Total** | **9** | **100.0%** |
 
-Within the in-house subgroup, respondents reported the following ratings and primary risk selections:
-1. **High Direct Control:** Respondents report high internal control effectiveness (Mean = 7.89, Median = 8.00, SD = 0.78), This is a high self-reported rating within the in-house subgroup. The questionnaire did not measure the mechanisms that may explain the rating.
-2. **Extreme Resource Vulnerability:** Concurrently, internal skill dependency is exceptionally high (Mean = 8.89, Median = 9.00, SD = 0.78), and the operational difficulty experienced if key staff become unavailable reaches a critical Mean of 9.00 (Median = 9.00, SD = 0.71). 
-3. **Primary Structural Risks:** In question IH5, 55.6% ($n = 5$) identified `Staff Shortage Risk` (general operational disruption due to labor market shortages) as their primary vulnerability, while 44.4% ($n = 4$) identified `Single-Point Skill Risk` (the catastrophic loss of specialized, non-substitutable tacit knowledge concentrated in a few individuals).
-4. **Moderate Internal Scalability:** Scalability was rated moderately (Mean = 3.89, Median = 4.00 on a 1–5 scale), reflecting the fixed capital investment and recruitment lag required to expand internal capacity when demand spikes.
+Respondents in this subgroup reported high internal skill dependency and high perceived impact if internal resources were disrupted. Staff shortage was selected by five respondents, while four selected single-point skill dependency. These ratings represent perceptions of the assessed activities, not measured workforce shortage rates or observed downtime.
 
----
+## 5.3 Outsourced Operations (RQ2)
 
-## 5.3 Outsourced Operating Model: Dependency, Monitoring, and Disruption (RQ2, RQ3, RQ4)
+Twelve respondents assessed predominantly outsourced activities. All five OS measures were populated for the 12 applicable respondents.
 
-Twelve respondents (40.0% of the sample) evaluated activities performed predominantly by external service providers. Table 5.4 outlines the operational metrics and primary risk distributions for this group.
+### Table 5.6. Outsourced ratings (n = 12)
 
-### Table 5.4. Outsourced Dependency, Monitoring, and Switching Profile ($n = 12$)
+| Measure | Scale | Mean | Median | Sample SD | Range |
+|---|---:|---:|---:|---:|---:|
+| Supplier dependency (OS1) | 1–10 | 8.00 | 8 | 0.74 | 7–9 |
+| Supplier monitoring effectiveness (OS2) | 1–10 | 5.75 | 6 | 0.97 | 4–7 |
+| Supplier disruption impact (OS3) | 1–10 | 8.33 | 8 | 0.49 | 8–9 |
+| Provider replacement ease (OS4) | 1–5 | 3.25 | 3 | 0.97 | 2–5 |
 
-| Metric / Survey Item | Measurement Scale | Mean | Median | Standard Deviation | Min | Max |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Supplier Dependency (`OS1`) | Rating (1–10) | **8.00** | **8.00** | 0.74 | 7 | 9 |
-| Monitoring Effectiveness (`OS2`) | Rating (1–10) | **5.75** | **6.00** | 0.97 | 4 | 7 |
-| Disruption Severity (`OS3`) | Rating (1–10) | **8.33** | **8.00** | 0.49 | 8 | 9 |
-| Provider Replacement Ease (`OS4`) | Rating (1–5) | **3.25** | **3.00** | 0.97 | 2 | 5 |
-| **Primary Outsourcing Risk (`OS5`)**| **Categorical Breakdown** | **Count ($n$)** | **Percentage ($n/12$)** | | | |
-| Supplier Performance Risk | Limited direct control | 8 | 66.7% | — | — | — |
-| Single Supplier Risk | Supplier capacity scarcity | 4 | 33.3% | — | — | — |
-*Note:* Subgroup sample size $n = 12$ (outsourced respondents only). Rating scales: 1 = Lowest / Very Low; 10 = Highest / Very High (1–5 for replacement ease).
+### Table 5.7. Primary outsourcing risk (n = 12)
 
-The outsourced subgroup results can be considered alongside transaction cost and governance literature. They do not independently test or substantiate those theories:
-1. **The Monitoring Deficit:** While supplier dependency is high (Mean = 8.00, Median = 8.00), the perceived effectiveness of monitoring supplier quality drops sharply to Mean = 5.75 (Median = 6.00, SD = 0.97). Compared to in-house direct control (Mean = 7.89), outsourcing introduces a **2.14-point governance gap**, which is consistent with, but does not establish that formal contracts and periodic audits cannot fully replace real-time observational oversight.
-2. **Severe Disruption Impact:** Supplier disruption severity is perceived as highly damaging (Mean = 8.33, Median = 8.00, SD = 0.49). If an external provider halts service, the client organization experiences immediate operational arrest.
-3. **Switching Frictions & Lock-In:** Provider replacement ease scored a modest Mean of 3.25 (Median = 3.00, SD = 0.97 on a 1–5 scale). In-sourcing or switching to an alternative provider is constrained by contractual notice periods, specialized tooling, and procedural re-onboarding.
-4. **Primary Structural Risks:** In question OS5, two-thirds of respondents ($n = 8$, 66.7%) designated `Supplier Performance Risk` (quality degradation, missed SLAs, and limited direct control) as their primary concern, while one-third ($n = 4$, 33.3%) cited `Single Supplier Risk` (capacity scarcity, vendor dependency, and absence of viable market alternatives).
+| Risk | n | % |
+|---|---:|---:|
+| Supplier Performance Risk | 8 | 66.7% |
+| Single Supplier Risk | 4 | 33.3% |
+| **Total** | **12** | **100.0%** |
 
----
+The group reported high supplier dependency and high perceived impact from supplier disruption. Supplier monitoring effectiveness had a lower mean rating than the dependency and disruption-impact ratings, but these are separate questions and should not be combined into a single supplier-risk score. Eight respondents selected supplier performance as their primary outsourcing risk.
 
-## 5.4 Hybrid Operating Model: Interface Governance and Coordination (RQ3, RQ4)
+## 5.4 Hybrid Operations (RQ3)
 
-Nine respondents (30.0% of the sample) assessed hybrid arrangements combining internal staff with external contractors. Table 5.5 presents the empirical metrics for the hybrid group.
+Nine respondents assessed activities delivered through a combination of in-house and outsourced operations. All four hybrid-branch fields were populated for the nine applicable respondents.
 
-### Table 5.5. Hybrid Operations Governance, Communication, and Coordination Profile ($n = 9$)
+### Table 5.8. Hybrid ratings (n = 9)
 
-| Metric / Survey Item | Measurement Scale | Mean | Median | Standard Deviation | Min | Max |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Responsibility Clarity (`HY1`) | Rating (1–10) | **5.56** | **6.00** | 0.53 | 5 | 6 |
-| Cross-Boundary Information (`HY2`) | Rating (1–10) | **5.56** | **5.00** | 0.73 | 5 | 7 |
-| Handoff Effectiveness (`HY3`) | Rating (1–10) | **6.11** | **6.00** | 0.78 | 5 | 7 |
-| **Primary Hybrid Risk (`HY4`)** | **Categorical Breakdown** | **Count ($n$)** | **Percentage ($n/9$)** | | | |
-| Coordination Failure Risk | Split responsibilities | 9 | 100.0% | — | — | — |
-*Note:* Subgroup sample size $n = 9$ (hybrid respondents only). Rating scales: 1 = Lowest / Very Low; 10 = Highest / Very High.
+| Measure | Scale | Mean | Median | Sample SD | Range |
+|---|---:|---:|---:|---:|---:|
+| Responsibility clarity (HY1) | 1–10 | 5.56 | 6 | 0.53 | 5–6 |
+| Cross-boundary information (HY2) | 1–10 | 5.56 | 5 | 0.73 | 5–7 |
+| Handoff effectiveness (HY3) | 1–10 | 6.11 | 6 | 0.78 | 5–7 |
 
-The hybrid subgroup reported the following ratings and primary risk selections:
-1. **Blurred Responsibility Boundaries:** Responsibility clarity between internal employees and external providers achieved a Mean of only 5.56 (Median = 6.00, SD = 0.53). This represents the lowest governance score recorded across all models in the study.
-2. **Information Sharing Bottlenecks:** Information sharing across organizational boundaries scored a matching Mean of 5.56 (Median = 5.00, SD = 0.73). Differing communication systems, proprietary restrictions, and fragmented IT interfaces hinder seamless cross-boundary data exchange.
-3. **Operational Handoffs:** Handoff management achieved a slightly higher Mean of 6.11 (Median = 6.00, SD = 0.78), indicating that structured standard operating procedures (SOPs) partially mitigate, but do not eliminate, transition errors.
-4. **Universal Primary Risk Consensus:** In question HY4, **100.0% of hybrid respondents ($n = 9$) identified `Coordination Failure Risk`** as their foremost operational vulnerability. Ambiguous accountability, misaligned incentives, and communication breakdowns during task handoffs represent the dominant hazard in hybrid execution.
+### Table 5.9. Primary hybrid risk (n = 9)
 
----
+| Risk | n | % |
+|---|---:|---:|
+| Coordination Failure Risk | 9 | 100.0% |
+| **Total** | **9** | **100.0%** |
 
-## 5.5 Cross-Model Comparison: Problem Detection, Recovery, and Governance (RQ3, RQ4)
+All nine respondents in the hybrid subgroup selected coordination failure as the primary risk option. This is unanimous within the observed subgroup, not evidence of consensus among all organisations using hybrid models.
 
-Table 5.6 brings together the three universal resilience and governance metrics evaluated across all 30 respondents, enabling direct comparison between the operating models.
+## 5.5 Common Detection, Recovery and Accountability Measures
 
-### Table 5.6. Comparative Evaluation of Problem Detection, Recovery, and Accountability ($N = 30$)
+D1, D2 and D3 were answered by all 30 respondents. They are self-reported effectiveness or clarity ratings, not measured detection times, recovery durations or audited accountability outcomes.
 
-| Operating Model | Group Size ($n$) | Problem Detection (`D1`)<br/>Mean (Median) [SD] | Recovery Effectiveness (`D2`)<br/>Mean (Median) [SD] | Accountability Clarity (`D3`)<br/>Mean (Median) [SD] |
-| :--- | :---: | :---: | :---: | :---: |
-| **Predominantly In-House** | $n = 9$ | **7.33** (7.00) [0.50] | **5.67** (6.00) [0.50] | **8.00** (8.00) [0.71] |
-| **Predominantly Outsourced**| $n = 12$ | **5.50** (5.50) [0.52] | **5.67** (5.50) [0.78] | **7.33** (7.50) [0.98] |
-| **Hybrid / Combination** | $n = 9$ | **5.56** (6.00) [0.53] | **6.22** (7.00) [0.97] | **6.44** (6.00) [0.53] |
-| **Total Sample Mean** | **$N = 30$** | **6.07** (6.00) [0.98] | **5.83** (6.00) [0.79] | **7.27** (7.00) [0.98] |
-*Note:* Evaluated on a 1–10 numerical rating scale (1 = Very Low / Ineffective, 10 = Very High / Highly Effective). Total sample $N = 30$.
+### Table 5.10. Common measures by operating model
 
-```mermaid
-graph TD
-    subgraph D1[Problem Detection D1]
-        IH_D1[In-House: 7.33] -->|Detection Lead: +1.83| OS_D1[Outsourced: 5.50]
-        IH_D1 -->|Detection Lead: +1.77| HY_D1[Hybrid: 5.56]
-    end
-    subgraph D2[Recovery Effectiveness D2]
-        HY_D2[Hybrid: 6.22] -->|Resilience Lead: +0.55| IH_D2[In-House: 5.67]
-        HY_D2 -->|Resilience Lead: +0.55| OS_D2[Outsourced: 5.67]
-    end
-    subgraph D3[Accountability Clarity D3]
-        IH_D3[In-House: 8.00] --> OS_D3[Outsourced: 7.33] --> HY_D3[Hybrid: 6.44]
-    end
-```
+| Operating model | n | Problem detection (D1) mean | Recovery effectiveness (D2) mean | Accountability clarity (D3) mean |
+|---|---:|---:|---:|---:|
+| In-house | 9 | 7.33 | 5.67 | 8.00 |
+| Outsourced | 12 | 5.50 | 5.67 | 7.33 |
+| Hybrid | 9 | 5.56 | 6.22 | 6.44 |
+| **Overall** | **30** | **6.07** | **5.83** | **7.27** |
 
-The descriptive comparison shows the following patterns in this sample:
-1. **The In-House Detection Advantage (D1):** In-house operations hold a substantial, higher mean rating in this sample in early problem detection (Mean = 7.33, Median = 7.00) over outsourced (Mean = 5.50, Median = 5.50) and hybrid arrangements (Mean = 5.56, Median = 6.00). In an in-house setting, operators and managers share the same physical floor and organizational culture, enabling early identification of minor anomalies before they escalate into major stoppages. In outsourced and hybrid environments, detection is filtered through reporting intervals, creating a communication lag.
-2. **Recovery ratings:** Conversely, hybrid operations recorded the highest mean recovery-effectiveness rating in this sample (Mean = 6.22, Median = 7.00) compared to both in-house (Mean = 5.67, Median = 6.00) and outsourced operations (Mean = 5.67, Median = 5.50). One possible interpretation of this descriptive difference is that: when an operational failure occurs, hybrid respondents can deploy internal resources to stabilize critical workflows while simultaneously calling on external supplier capacity, providing a dual fallback mechanism.
-3. **The Governance Hierarchy (D3):** Accountability clarity follows a descending hierarchy: In-House (Mean = 8.00) > Outsourced (Mean = 7.33) > Hybrid (Mean = 6.44). In-house arrangements benefit from unified corporate hierarchy; outsourcing relies on legally defined contract boundaries; but hybrid arrangements suffer from operational ambiguity where neither party possesses complete end-to-end accountability.
+Overall medians were 6 for problem detection, 6 for recovery effectiveness and 7 for accountability clarity. The overall sample standard deviations were 0.98, 0.79 and 0.98 respectively.
 
----
+The mean detection rating was higher in the in-house subgroup than in the other two groups. The recovery rating was highest in the hybrid subgroup. These are descriptive differences between separate respondent groups. They do not establish that one operating model causes faster detection or better recovery. D1 measures perceived effectiveness, not detection speed.
 
-## 5.6 Reported Failure Consequences (RQ1, RQ2, RQ4)
+## 5.6 Reported Failure Consequences (RQ1–RQ4)
 
-Table 5.7 maps the frequencies of operational failure consequences reported by respondents across the sample and within each operating model subgroup.
+Respondents could select more than one consequence. Percentages are calculated within each operating-model subgroup and across all 30 records; they therefore do not sum to 100%.
 
-### Table 5.7. Failure Consequence Frequencies Across Operating Models (`D4`, $N = 30$)
+### Table 5.11. Failure consequences by operating model
 
-| Failure Consequence (`D4`) | Total Sample ($N=30$) | In-House ($n=9$) | Outsourced ($n=12$) | Hybrid ($n=9$) | Mapped Conceptual Impact Node |
-| :--- | :---: | :---: | :---: | :---: | :--- |
-| **Operational Disruption** | **27 (90.0%)** | 9 (100.0%) | 9 (75.0%) | 9 (100.0%) | *Impact 1 (Operational Disruption)* |
-| **Customer or reputation damage**| **24 (80.0%)** | 8 (88.9%) | 11 (91.7%) | 5 (55.6%) | Contextual Brand Exposure |
-| **Workflow Breakdown** | **13 (43.3%)** | 0 (0.0%) | 6 (50.0%) | 7 (77.8%) | *Impact 5 (Workflow Breakdown)* |
-| **Knowledge Loss** | **10 (33.3%)** | 5 (55.6%) | 4 (33.3%) | 1 (11.1%) | *Impact 2 (Knowledge Loss)* |
-| **Contract Hold-up** | **7 (23.3%)** | 1 (11.1%) | 3 (25.0%) | 3 (33.3%) | *Impact 4 (Contract Hold-up)* |
-| **Service Disruption** | **5 (16.7%)** | 0 (0.0%) | 3 (25.0%) | 2 (22.2%) | *Impact 3 (Service Disruption)* |
-| **Safety or compliance consequences**| **3 (10.0%)** | 3 (33.3%) | 0 (0.0%) | 0 (0.0%) | Regulatory / Legal Exposure |
-*Note:* Multi-selection item; column percentages exceed 100.0%. Denominators reflect subgroup sample sizes ($n = 9, 12, 9$).
+| Consequence | In-house n=9 | Outsourced n=12 | Hybrid n=9 | Overall N=30 |
+|---|---:|---:|---:|---:|
+| Operational Disruption | 9 (100.0%) | 9 (75.0%) | 9 (100.0%) | 27 (90.0%) |
+| Customer or reputation damage | 8 (88.9%) | 11 (91.7%) | 5 (55.6%) | 24 (80.0%) |
+| Workflow Breakdown | 0 (0.0%) | 6 (50.0%) | 7 (77.8%) | 13 (43.3%) |
+| Knowledge Loss | 5 (55.6%) | 4 (33.3%) | 1 (11.1%) | 10 (33.3%) |
+| Contract Hold-up | 1 (11.1%) | 3 (25.0%) | 3 (33.3%) | 7 (23.3%) |
+| Service Disruption | 0 (0.0%) | 3 (25.0%) | 2 (22.2%) | 5 (16.7%) |
+| Safety or compliance consequences | 3 (33.3%) | 0 (0.0%) | 0 (0.0%) | 3 (10.0%) |
 
-The response frequencies show how respondents selected potential or experienced consequences. They do not establish causal pathways between a risk source and an outcome:
-- **`Workflow Breakdown` is a Structural Signature of Hybrid Models:** Reported by **77.8% of hybrid respondents ($n = 7$)** and 50.0% of outsourced respondents ($n = 6$), but **0.0% of in-house respondents ($n = 0$)**. When operational activities are fragmented across organizational lines, handoff failure directly paralyzes downstream workflows.
-- **`Knowledge Loss` Reflects Dual Realities:** Reported by 55.6% of in-house operators (which may reflect concern about the concentration of knowledge in key personnel; actual knowledge loss was not measured) and 33.3% of outsourced operators (which may reflect concern about retained internal capability; capability erosion over time was not measured).
-- **`Safety and Compliance Consequences` are Retained Internally:** Exclusively reported by in-house respondents (33.3%, $n = 3$), The subgroup difference should be interpreted cautiously because the questionnaire records respondent selections, not verified legal liability or incident records.
-- **`Customer and Reputation Damage`:** Exceptionally high in outsourcing (91.7%, $n = 11$), indicating that respondents in this subgroup selected this consequence relatively frequently.
-
----
+Operational disruption was selected by all in-house and hybrid respondents and by nine outsourced respondents. Customer or reputation damage was selected by 11 of 12 outsourced respondents. Workflow breakdown was selected by seven of nine hybrid respondents. These are multiple-response selections, not verified incident frequencies or severity measurements.
 
 ## 5.7 Make-or-Buy Decision Factors (RQ5)
 
-Table 5.8 presents harmonised frequencies of decision factors selected by respondents when considering make-or-buy decisions.
+The make-or-buy question allowed multiple selections. Cost and Total cost were grouped as Cost and financial considerations; Control and Direct control were grouped as Control and operational authority. Each respondent was counted once per harmonised category.
 
-### Table 5.8. Harmonised Make-or-Buy Decision Factors (E1, N = 30)
+### Table 5.12. Harmonised make-or-buy factors (N = 30)
 
-| Harmonised decision factor | Frequency | Percentage |
+| Factor | Unique respondents | % |
 |---|---:|---:|
+| Cost and financial considerations | 23 | 76.7% |
 | Quality or performance | 18 | 60.0% |
+| Control and operational authority | 17 | 56.7% |
 | Continuity or resilience | 15 | 50.0% |
-| Cost and financial considerations | [RECALCULATE UNIQUE RESPONDENTS] | [PENDING] |
-| Control and operational authority | [RECALCULATE UNIQUE RESPONDENTS] | [PENDING] |
 | Access to specialist skills | 12 | 40.0% |
 | Flexibility or scalability | 10 | 33.3% |
 | Risk or regulatory requirements | 7 | 23.3% |
@@ -228,40 +194,38 @@ Table 5.8 presents harmonised frequencies of decision factors selected by respon
 | Supplier availability | 3 | 10.0% |
 | Supply chain risks | 1 | 3.3% |
 
-*Note:* E1 is a multi-select item. The original labels Cost and Total cost are combined as Cost and financial considerations. Control and Direct control are combined as Control and operational authority. Each respondent must be counted once per combined category, even if both original labels were selected. The combined frequencies and percentages remain pending a unique-respondent count from the response-level dataset. Original labels must be retained in the raw data.
+Cost and financial considerations were the most frequently selected factor, followed by quality or performance and control/operational authority. The data record selected factors; they do not rank the actual financial weight or decision priority assigned by each organisation.
 
-The available category totals cannot be added safely unless overlap between the original options has been checked. The cost category must not be reported as 76.7%, nor the control category as 56.7%, until unique respondent counts have been verified.## 5.8 Respondents’ Overall Assessment of Risk Effect (E2)
+## 5.8 Perceived Overall Risk Effect
 
-Table 5.9 displays a supplementary descriptive cross-tabulation of operating model against respondents’ overall assessment of how the arrangement affected risk. E2 is not a direct measure of objective risk and is not the primary measure for any single supporting research question.
+The E2 item asked respondents about the overall perceived effect of the operating model on risk. It is a perception measure, not an objective measurement of risk before and after a change.
 
-### Table 5.9. Operating Model by Perceived Net Effect on Business Risk (`E2`, $N = 30$)
+### Table 5.13. Perceived overall risk effect by operating model
 
-| Operating Model | Some risks decreased while others increased ($n$, %) | Risks have generally increased ($n$, %) | Total Group Size ($n$, %) |
-| :--- | :---: | :---: | :---: |
-| **Predominantly In-House** | 6 (66.7%) | 3 (33.3%) | 9 (100.0%) |
-| **Predominantly Outsourced**| 7 (58.3%) | 5 (41.7%) | 12 (100.0%) |
-| **Hybrid / Combination** | 9 (100.0%) | 0 (0.0%) | 9 (100.0%) |
-| **Total Sample** | **22 (73.3%)** | **8 (26.7%)** | **30 (100.0%)** |
-*Note:* Descriptive cross-tabulation across $N = 30$.
+| Operating model | Some risks decreased while others increased | Risks have generally increased | Total |
+|---|---:|---:|---:|
+| In-house | 6 (66.7%) | 3 (33.3%) | 9 |
+| Outsourced | 7 (58.3%) | 5 (41.7%) | 12 |
+| Hybrid | 9 (100.0%) | 0 (0.0%) | 9 |
+| **Total** | **22 (73.3%)** | **8 (26.7%)** | **30** |
 
-This empirical cross-tabulation provides robust evidence answering **Research Question 2**:
-1. **The Risk Trade-off Dominates (73.3%):** Nearly three-quarters of all participating enterprises ($n = 22$) report that their operating model resulted in a dynamic redistribution where *"some risks decreased while others increased."* Only 26.7% ($n = 8$) reported a net increase, and zero respondents claimed that risks were universally eliminated.
-2. **Hybrid as a Pure Trade-off Model (100.0%):** Every single hybrid respondent ($n = 9$, 100.0%) affirmed that hybrid arrangements decrease certain risks while introducing others. Hybrid execution mitigates external provider dependency through internal capacity, but introduces internal coordination friction and split accountability.
-3. **Outsourcing Carries Higher Perceived Risk Escalation:** Outsourcing recorded the highest proportion of respondents reporting that risks generally increased (41.7%, $n = 5$), compared to 33.3% for in-house ($n = 3$) and 0.0% for hybrid ($n = 0$). This reflects the vulnerability introduced when operational control crosses firm boundaries without sufficient monitoring mechanisms.
+Twenty-two respondents selected the option that some risks decreased while others increased. This indicates that most respondents in this sample perceived a risk trade-off. It does not establish a universal effect or show the direction or magnitude of a change in objective risk.
 
----
+## 5.9 Data Quality and Interpretation Boundaries
 
-## 5.9 Additional Insight Field (E3)
+The export contains 30 respondent records and 29 columns. The 14 branch-specific fields contain structural blanks for respondents routed to other operating-model sections. Within the applicable subgroup, all branch-specific closed-ended fields are populated. All common closed-ended fields are populated. The optional additional-insight field contains `N/A` in all 30 records and provides no usable qualitative material.
 
-The current source export contains `N/A` in all 30 optional additional-insight entries. There is therefore no usable narrative response for qualitative coding. No themes, quotations or qualitative findings are reported from E3. The readable analysis copy leaves these placeholders blank; the source CSV retains the original values.
+The findings are subject to the following limitations:
 
-The findings in this chapter are based on the recalculated descriptive tables in `docs/EMPIRICAL-FINDINGS-TABLES.md`. Interpret all results as respondent reports within this sample, not objective company-level measurements or causal effects.
+- Purposive, non-probability recruitment does not support population-representative estimates.
+- The sample consists of 30 respondent records, not 30 verified unique organisations.
+- The unit of assessment is a specific operational activity, not necessarily the entire organisation.
+- Responses are self-reported and cross-sectional.
+- Subgroup sizes are small (9, 12 and 9).
+- Rating scales are ordinal response formats. Means and sample standard deviations are supplied as descriptive summaries alongside medians; small numerical differences should not be overinterpreted.
+- Multi-select percentages can exceed 100% when added.
+- The dataset contains no objective incident rates, financial accounts, detection times or recovery durations.
+- No inferential tests or causal estimates are reported.
+- No qualitative themes or quotations can be derived from the additional-insight field.
 
-
-## 5.10 Data Audit and Reporting Boundary (5 November 2026)
-
-The current export contains 30 respondent records, not 30 verified unique organisations. The questionnaire's branch structure gives applicable denominators of 9 in-house, 12 outsourced and 9 hybrid records. Blank branch-specific cells outside the applicable branch are structurally not applicable.
-
-The recalculated make-or-buy counts are 23/30 (76.7%) for Cost and financial considerations and 17/30 (56.7%) for Control and operational authority after respondent-level deduplication. Earlier combined counts based on simple addition are superseded.
-
-All 30 E3 entries are N/A. No qualitative themes or quotations can be supported by the current dataset. All percentages for multi-select items are respondent proportions and need not sum to 100%. The E2 item measures perceived overall risk effect, not objective change in risk exposure.
+The results should therefore be described as patterns in the responses collected, not as proof that an operating model causes a specific risk outcome.
