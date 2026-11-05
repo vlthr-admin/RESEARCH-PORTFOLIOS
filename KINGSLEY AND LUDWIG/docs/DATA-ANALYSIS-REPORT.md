@@ -61,7 +61,7 @@ Respondents hold senior operational, technical, or executive positions with dire
 - **Manage or supervise it:** $n = 11$ (36.7%)
 - **Support decisions about it:** $n = 4$ (13.3%)
 - **Have professional experience with it:** $n = 4$ (13.3%)
-*Validity verification:* 73.4% hold direct management or operational responsibility; 100% have professional decision-making experience. Zero respondents selected "limited familiarity", This describes the familiarity responses; it does not independently establish content validity.
+*Validity verification:* The familiarity responses were: directly responsible (n = 11), manage or supervise (n = 11), support decisions (n = 4), and professional experience (n = 4). These are self-reported familiarity categories and do not independently establish content validity.
 
 ### 2.6 Assessed Operational Activity ($B1$)
 - **Production or service delivery:** $n = 12$ (40.0%)
@@ -162,7 +162,7 @@ Respondents selected all significant consequences experienced or anticipated upo
 ### Analytical Insights:
 - **Workflow Breakdown** is heavily concentrated in hybrid arrangements (77.8%) and absent in in-house operations (0.0%), This pattern can be discussed in relation to literature on coordination across organisational boundaries, but it does not establish causation.
 - **Knowledge Loss** is most acute in in-house operations (55.6%), reflecting key-person dependency, and in outsourcing transitions (33.3%), reflecting capability drainage.
-- **Safety / Compliance Consequences** were reported solely by in-house operators (33.3%), who carry full legal and operational liability for internal physical facilities.
+- **Safety / Compliance Consequences** were reported solely by in-house operators (33.3%), who selected this consequence option. The data do not establish legal liability.
 
 ---
 
