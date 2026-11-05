@@ -11,10 +11,10 @@ Table 4.1 outlines the chronological stages, timeframes, core activities, and ta
 | Stage | Focus Area | Core Activities Conducted | Tangible Outputs / Deliverables |
 | :---: | :--- | :--- | :--- |
 | **Stage 1** | **Instrument Construction & Digital Setup** | Translated paper questionnaire into Tally platform; configured branching logic; established Participant Information Notice. | Live Tally survey link (`https://tally.so/r/RGXG6j`); digital questionnaire architecture. |
-| **Stage 2** | **Pilot Testing & Pre-Testing Review** | [VERIFY: state whether a pilot was conducted, its participant count, findings and resulting changes.] | Pilot feedback log; refined question phrasing; validated average completion duration (6–8 minutes). |
+| **Stage 2** | **Pilot Testing & Pre-Testing Review** | [VERIFY: state whether a pilot was conducted, participant count, findings and changes made.] | [ADD only the pilot records that are available; otherwise mark not documented.] |
 | **Stage 3** | **Recruitment Pool Preparation** | Built and filtered prospective contact lists across Finnish and European industrial registries; established 40/60 geographic quotas. | [VERIFY: insert the final documented recruitment-pool count and geographic breakdown, or omit if no reliable log is available.] |
 | **Stage 4** | **Outreach & Data Collection** | Dispatched phased invitations; monitored delivery, bounce rates, and response acquisition; tracked sample quotas. | Survey acquisition log; current analysis export containing 30 respondent records; final applicable-field completeness review pending. |
-| **Stage 5** | **Data Audit & Quality Control** | Conducted structural integrity audit of the exported dataset; validated schema completeness; performed systematic data verification and field normalization. | Verified, schema-compliant dataset ([`DATA/responses.csv`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/DATA/responses.csv)) with 30 respondent records; final applicable-field completeness review remains to be documented. |
+| **Stage 5** | **Data Audit & Quality Control** | [VERIFY: describe the data audit and transformations actually completed, with records.] | Current analysis export with 30 respondent records; final applicable-field completeness review remains to be documented. |
 | **Stage 6** | **Harmonization & Dataset Freeze** | Standardized variable headers; harmonized categorical risks and failure impacts with the conceptual Mermaid model; locked dataset for analysis. | Codebook; Data Analysis Report ([`docs/DATA-ANALYSIS-REPORT.md`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/docs/DATA-ANALYSIS-REPORT.md)); frozen analysis file. |
 
 ---
@@ -79,11 +79,11 @@ Table 4.2 summarizes the achieved sample against the pre-defined thesis planning
 
 | Research Parameter | Planning Target / Ceiling | Achieved Empirical Sample | Verification Status |
 | :--- | :--- | :--- | :---: |
-| **Total Sample Size ($N$)** | Min: $N \ge 25$; Preferred: 30–40 | **$N = 30$** completed responses | **100% Target Met** |
+| **Total Sample Size ($N$)** | Min: $N \ge 25$; Preferred: 30–40 | **30** respondent records in the current analysis export | **100% Target Met** |
 | **Geographic Allocation** | Approx. 40% Finland / 60% Europe | **Finland: 12 (40.0%)**<br/>**Other Europe: 18 (60.0%)** | **Exact Quota Match** |
 | **Operating Model Spread** | Substantial presence across all 3 models | **In-House: 9 (30.0%)**<br/>**Outsourced: 12 (40.0%)**<br/>**Hybrid: 9 (30.0%)** | **Balanced Distribution** |
 | **Participant Eligibility** | High operational familiarity ($A4$) | [VERIFY from final export] | **High Content Validity** |
-| **Data Completeness** | 100% core question completion | [TO BE COMPLETED AFTER DATA REVIEW] | **Full Data Integrity** |
+| **Data Completeness** | Applicable-field completion to be assessed | [TO BE COMPLETED AFTER DATA REVIEW] | **Pending final data review** |
 
 ---
 
@@ -92,7 +92,7 @@ Table 4.2 summarizes the achieved sample against the pre-defined thesis planning
 Following data export from the survey platform, we executed a rigorous data quality audit to ensure schema and structural consistency before undertaking statistical analysis.
 
 ### 4.5.1 Structural Integrity Audit
-Each of the 30 exported records was validated against the 29-column operationalization schema. The audit examined whether each variable field was populated in its expected column position, consistent with the conditional branching path taken by the respondent. Where field positioning did not conform to the schema — arising from how the survey platform structured placeholder columns for branching paths not taken — records were systematically reconstructed through column-level validation to restore full schema alignment. The questionnaire uses conditional branches. Fields belonging to branches not shown to a respondent are structurally not applicable. The final data audit must distinguish these fields from unanswered questions that were presented. The researchers will complete this review and record final missingness counts.
+The questionnaire uses conditional branches. Fields belonging to branches not shown to a respondent are structurally not applicable. The final data audit must distinguish these fields from unanswered questions that were presented. The researchers will complete this review and record the final missingness counts. Describe any record reconstruction, field normalization or other transformation only after confirming the steps and retaining an audit record.
 
 ### 4.5.2 Header Normalization and Categorical Harmonization
 Following structural verification, variable headers were replaced with the official snake_case variable names defined in the operationalization schema (see Table 3.1, Chapter 3). Redundant platform-generated fields were removed, with `operating_model` retained as the sole primary grouping variable.
@@ -117,6 +117,6 @@ Following successful audit and quality verification:
 
 ## 4.7 Reflections and Deviations from the Original Plan
 
-Throughout the implementation phase, the research team adhered closely to the approved thesis plan. Two noteworthy operational adaptations occurred:
+The research team used the thesis plan as the working basis for implementation. Any deviations should be described against the dated plan and supporting records. Two noteworthy operational adaptations occurred:
 1. **Recruitment Ceiling Clarification:** During planning, outreach scope was discussed at between 500 and 1,000 potential contacts. We resolved this by staging a qualified pool of approximately 700 leads across Finnish and wider European geographies. Because response acquisition was efficient and reached our preferred sample target ($N = 30$) with high participant seniority, further outreach was halted, avoiding unnecessary mass emailing in accordance with research ethics principles.
 2. **Exclusion of Supplementary Qualitative Interviews:** The original research outline considered optional semi-structured follow-up interviews. During planning, the researchers decided to proceed with the questionnaire study with 30 respondent records provides the basis for an exploratory descriptive comparison. The questionnaire did not establish whether respondents represented unique organisations. We maintained strict methodological discipline by focusing entirely on the questionnaire dataset, avoiding mixed-method dilution.
