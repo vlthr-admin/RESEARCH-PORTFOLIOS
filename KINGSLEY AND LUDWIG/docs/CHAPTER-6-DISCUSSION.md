@@ -33,7 +33,7 @@ Agency Theory (Tsay et al. 2018) analyzes relationships where a principal delega
 
 Our empirical findings contribute a crucial insight to agency governance regarding **hybrid operating arrangements**:
 1. **The Accountability Grey Zone:** While in-house operations maintain high accountability clarity (Mean = 8.00) through unified hierarchical command, and outsourcing maintains moderate clarity (Mean = 7.33) via formal legal contracts, **hybrid arrangements exhibit the lowest accountability clarity (Mean = 6.44)**. In hybrid models, operational boundaries are blurred. When service delivery is split between internal employees and external contractor teams, establishing culpability for intermediate errors becomes challenging.
-2. **Interface Coordination Failure:** All hybrid respondents (100.0%, $n = 9$) designated `Coordination Failure Risk` as their primary structural vulnerability. Furthermore, `Workflow Breakdown` was reported by 77.8% of hybrid respondents—by far the highest incidence across any model (Table 5.7). When internal and external workflows intersect, differing communications tools, mismatched operating rhythms, and information sharing deficits (Mean = 5.56) trigger frequent handoff breakdowns.
+2. **Interface Coordination Failure:** All hybrid respondents (100.0%, $n = 9$) designated `Coordination Failure Risk` as their primary structural vulnerability. Furthermore, `Workflow Breakdown` was reported by 77.8% of hybrid respondents—by far the highest incidence across any model (Table 5.7). This pattern may be considered alongside the hybrid group’s mean information-sharing rating of 5.56. The questionnaire does not identify specific communication systems or establish that these factors caused handoff failures.
 
 ---
 
@@ -128,7 +128,7 @@ The results suggest that respondents considered several factors beyond direct pu
 - **Proactive Early Detection Telemetry:** Buying firms should mandate real-time digital telemetry (e.g. shared IoT production logs, live inventory feeds) rather than relying on retrospective monthly KPI reports.
 
 #### For Hybrid Operations: Eliminating Boundary and Coordination Friction
-- **Explicit Boundary Spanners and Interface Managers:** Because 100% of hybrid respondents face coordination failure risk, companies must formally appoint designated interface managers whose sole responsibility is managing cross-organizational handoffs.
+- **Explicit Boundary Spanners and Interface Managers:** Because all nine respondents in the hybrid subgroup selected coordination failure as their primary hybrid risk option, companies must formally appoint designated interface managers whose sole responsibility is managing cross-organizational handoffs.
 - **Shared Collaborative Platforms:** Internal and external teams should operate within unified digital environments (shared ticketing, common ERP visibility) rather than siloed corporate emails, raising information sharing from its current low mean of 5.56.
 - **Joint Operational Drills:** Regular cross-team recovery simulations should be conducted to establish unambiguous accountability protocols before real disruptions occur.
 
