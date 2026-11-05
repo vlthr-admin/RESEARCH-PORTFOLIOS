@@ -20,7 +20,7 @@ However, internalisation also concentrates responsibility. An organisation opera
 
 Outsourcing enables an organisation to access capabilities, resources, and technology without the investment required to develop and maintain them internally. External providers may offer specialised expertise, economies of scale, and flexibility that would be costly or time-consuming for a client organisation to replicate in-house. Prominent reviews of outsourcing identify cost reduction, capability access, and increased flexibility as the dominant stated motivations for externalising activities (Espino-Rodríguez & Padrón-Robaina 2006).
 
-The transfer of operational execution to an external party, however, introduces a distinct set of organisational exposures. Dependency on the supplier's performance, capacity, financial stability, and goodwill becomes an integral feature of the client's own operational continuity. The client must establish mechanisms for monitoring supplier performance, managing contractual relationships, and maintaining the ability to respond when delivery is disrupted. These governance demands constitute operational work that is frequently underestimated at the point of the outsourcing decision (Williamson 2008).
+External provision can increase the client's dependence on the provider's performance, capacity and continuity arrangements. The client generally retains responsibilities for defining requirements, monitoring delivery, managing the commercial relationship and responding to service disruption. The degree of direct operational control retained by the client depends on the activity, contract and governance arrangements (Williamson 2008).
 
 ### 2.1.4 Hybrid Arrangements
 
@@ -36,7 +36,7 @@ The literature treats hybrid arrangements as genuinely distinct from either pure
 
 Transaction Cost Economics (TCE), developed by Williamson, provides the foundational economic rationale for make-or-buy decisions. TCE posits that the governance of any economic activity — whether through internal hierarchy, external markets, or hybrid contractual forms — should be selected to minimise the total costs associated with the transaction. These costs extend beyond the direct price of production to include search costs, contracting costs, monitoring costs, enforcement costs, and the costs of adapting agreements when circumstances change (Williamson 2008).
 
-Three transaction characteristics determine which governance form is most efficient. Asset specificity describes the degree to which the resources required for a transaction are dedicated to that specific exchange and cannot easily be redeployed elsewhere. Uncertainty reflects unpredictability in the operating environment, which increases the difficulty of writing and enforcing complete contracts. Transaction frequency affects the amortisation of governance costs across repeated exchanges. When asset specificity is high, uncertainty is significant, and transactions are frequent, TCE predicts that internalisation will outperform market procurement on total cost grounds (Williamson 2008).
+Transaction cost analysis considers characteristics such as asset specificity, uncertainty and transaction frequency when assessing the relative costs and capabilities of governance arrangements. Asset specificity concerns investments that are difficult to redeploy to other uses. Uncertainty makes it harder to specify and adapt contracts, while transaction frequency affects the costs of organising repeated exchanges. These characteristics do not produce an automatic rule that internalisation is always preferable. They inform the comparative assessment of market, hybrid and hierarchical governance arrangements (Williamson 2008).
 
 The TCE perspective is directly relevant to operating model risk analysis because it explains why low-price outsourcing may conceal substantial hidden costs. If a critical outsourced activity involves highly specific assets, the client may find that switching or replacing the supplier is significantly more costly than anticipated, creating lock-in and bargaining power asymmetry.
 
@@ -44,13 +44,13 @@ The TCE perspective is directly relevant to operating model risk analysis becaus
 
 The Resource-Based View (RBV) treats the organisation as a collection of valuable, rare, inimitable, and non-substitutable resources and capabilities. From this perspective, the make-or-buy decision is not simply about cost minimisation but about the strategic management of organisational competence. Activities underpinned by strategically distinctive capabilities should generally be retained in-house; activities that are more generic or in which external providers possess superior capability may be candidates for outsourcing (Espino-Rodríguez & Padrón-Robaina 2006).
 
-The RBV draws attention to two risk dimensions that TCE underemphasises. First, outsourcing an activity that contributes to organisational learning or capability development may erode the firm's future competitive position over time, even when the immediate transaction appears cost-effective. Second, retaining an activity internally preserves the accumulation of tacit knowledge — procedural know-how embedded in experienced employees and organisational routines — that cannot easily be codified or transferred (Hoecht & Trott 2006).
+The RBV draws attention to the strategic value of capabilities and organisational learning. Outsourcing an activity that contributes to distinctive knowledge or capability development may weaken the organisation's future competence if knowledge transfer and retention are not managed. Internal provision can support the retention of tacit knowledge, although it does not guarantee that knowledge will be retained or developed. The decision therefore depends on the activity's strategic role and the organisation's ability to govern external knowledge and capability relationships (Espino-Rodríguez & Padrón-Robaina 2006; Hoecht & Trott 2006).
 
 McIvor (2009) explicitly argues that TCE and RBV are complementary rather than competing perspectives on make-or-buy decisions. Transaction-cost analysis identifies when the market is likely to be economically efficient; resource-based analysis identifies when market procurement may compromise strategic capability. Both dimensions are necessary for a full assessment of operating model risk.
 
 ### 2.2.3 Resource Dependence Theory
 
-Resource Dependence Theory (RDT) examines how organisations manage their dependence on externally controlled resources. The central premise is that no organisation is fully self-sufficient; all organisations must acquire critical resources from their environment. The degree to which an organisation depends on a particular external actor for a critical resource determines the balance of power in that relationship (Tsay et al. 2018).
+Resource Dependence Theory (RDT) examines how organisations manage dependencies on resources controlled by external actors. Organisations may respond to such dependencies through strategies that manage uncertainty, access and power in inter-organisational relationships. The degree of dependence is shaped by the importance of the resource and the availability of alternatives (Pfeffer & Salancik 1978).
 
 In the context of operating model risk, RDT explains why supplier dependency is a structural feature of outsourcing rather than simply a contract management challenge. When an organisation outsources an activity that requires specialised assets, niche expertise, or proprietary technology, the supplier may control resources that the client cannot readily substitute. This creates concentration risk: a single supplier failure can disrupt operations in ways that the client organisation cannot independently resolve.
 
@@ -58,9 +58,9 @@ RDT also clarifies the strategic value of maintaining internal capabilities even
 
 ### 2.2.4 Agency Theory
 
-Agency Theory addresses the challenge of aligning the behaviour of an agent — a party acting on behalf of another — with the interests of the principal. In the context of outsourcing, the client organisation is the principal and the external supplier is the agent. Because the supplier's interests do not automatically align with the client's, the client must invest in mechanisms for monitoring performance, designing incentive-compatible contracts, and enforcing agreed standards (Hoecht & Trott 2006).
+Agency Theory examines relationships in which a principal delegates work or decision authority to an agent and where interests, information and risk preferences may differ. In outsourcing, the client and provider may face information asymmetry and different incentives. Monitoring, contractual design and incentive arrangements can be used to address these problems, although their effectiveness depends on the task and relationship (Jensen & Meckling 1976; Eisenhardt 1989).
 
-The agency problem in outsourcing is intensified by information asymmetry. The supplier possesses direct operational visibility that the client lacks. This gap creates conditions for adverse selection — the engagement of a supplier whose actual capability is lower than represented — and moral hazard — the reduction of effort or quality after the contract is secured. The monitoring and verification costs required to manage these risks are a form of transaction cost that must be incorporated into the full economic assessment of outsourcing decisions.
+Outsourcing may involve information asymmetry because the provider often has more immediate knowledge of its own processes and effort than the client. Such asymmetry can create monitoring and incentive problems. The concepts of adverse selection and moral hazard describe possible agency problems, but the current survey does not measure whether either occurred in the participating relationships. Monitoring and verification requirements should be considered as part of the governance cost of outsourcing (Jensen & Meckling 1976; Eisenhardt 1989).
 
 Agency theory is particularly relevant to the governance dimension of operating model analysis: it explains why effective outsourcing requires more than a contract, and why monitoring effectiveness is a critical determinant of the realised risk profile under an outsourced model.
 
@@ -142,7 +142,7 @@ Research on hybrid arrangements consistently identifies role ambiguity and coord
 
 Organisational resilience describes the capacity of an organisation to absorb disruption, maintain critical functions, and restore normal operations following an adverse event. In the context of operating model risk, resilience depends on the availability of alternative delivery options, the speed with which problems can be detected, and the effectiveness of recovery responses (Rachalawar & Mishra 2026).
 
-Operating model choice has direct implications for all three components of resilience. The ability to detect problems early depends on the quality and immediacy of operational monitoring — a dimension that is generally stronger in in-house models, where monitoring is integrated into direct supervisory structures, and weaker in outsourced models, where information must cross organisational boundaries. The availability of alternative delivery options depends on whether the organisation maintains redundant internal capacity, multiple suppliers, or the contractual right to insource activities when required.
+Operating model choice has direct implications for all three components of resilience. The ability to detect problems depends on the design, coverage and timeliness of monitoring. In-house arrangements may provide direct access to operational information, while outsourced arrangements may require information to pass through contractual and organisational interfaces. Neither structure guarantees effective or ineffective detection; the outcome depends on the actual monitoring and information-sharing arrangements. The availability of alternative delivery options depends on whether the organisation maintains redundant internal capacity, multiple suppliers, or the contractual right to insource activities when required.
 
 ### 2.6.2 Business Continuity Planning and Operational Redundancy
 
@@ -172,11 +172,11 @@ Based on the reviewed literature, the relationship between operating model choic
 
 > **Operating Model → Resource Configuration → Control Distribution → Dependency Structure → Risk Exposure → Consequences → Response and Recovery → Residual Risk**
 
-Under an in-house model, resources and operational control are concentrated within the organisation, which retains both the benefits of direct authority and the full responsibilities of operational provision. Internal dependencies — on staff availability, specialist skills, and equipment — are the primary structural risk exposures.
+Under an in-house model, the organisation directly provides and governs the activity's resources. It may retain closer operational authority, while remaining exposed to internal capacity, skill, equipment and continuity constraints.
 
-Under an outsourced model, resources and execution responsibilities are partially transferred to the supplier. The client retains strategic direction and contractual authority but loses direct operational control. Supplier dependency, monitoring gaps, and contractual limitations become the primary structural risk exposures.
+Under an outsourced model, the provider performs the contracted activity using resources defined by the arrangement. The client retains responsibilities for requirements, contract governance and oversight; the level of direct operational control varies with the contract and service design. Supplier dependency and monitoring requirements are potential risk exposures.
 
-Under a hybrid model, resources and responsibilities are shared across the organisational boundary. Coordination demands, interface ambiguity, and accountability gaps become the characteristic risk exposures, overlaid on a combination of internal and external dependencies.
+Under a hybrid model, resources and responsibilities are distributed across internal and external parties. Coordination, information exchange and accountability at organisational interfaces are therefore important areas for assessment; their effectiveness depends on the actual governance design.
 
 ### 2.7.3 Research Gap and Contribution of the Present Study
 
@@ -205,3 +205,10 @@ Strange, R. & Magnani, G. 2017. The performance consequences of manufacturing ou
 Tsay, A. A., Gray, J. V., Noh, I. J. & Mahoney, J. T. 2018. A review of production and operations management research on outsourcing in supply chains: Implications for the theory of the firm. Production and Operations Management 27 (7), 1177–1220. https://doi.org/10.1111/poms.12855. 5.11.2026.
 
 Williamson, O. E. 2008. Outsourcing: Transaction cost economics and supply chain management. Journal of Supply Chain Management 44 (2), 5–16. https://doi.org/10.1111/j.1745-493X.2008.00051.x. 5.11.2026.
+
+
+Pfeffer, J. & Salancik, G. R. 1978. The External Control of Organizations: A Resource Dependence Perspective. New York: Harper & Row.
+
+Eisenhardt, K. M. 1989. Agency Theory: An Assessment and Review. Academy of Management Review 14 (1), 57–74. https://doi.org/10.5465/amr.1989.4279003.
+
+Jensen, M. C. & Meckling, W. H. 1976. Theory of the firm: Managerial behavior, agency costs and ownership structure. Journal of Financial Economics 3 (4), 305–360. https://doi.org/10.1016/0304-405X(76)90026-X.
