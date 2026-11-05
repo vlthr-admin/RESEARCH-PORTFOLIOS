@@ -37,9 +37,21 @@ Our empirical findings contribute a crucial insight to agency governance regardi
 
 ---
 
-## 6.2 The Comparative Risk Framework
+## 6.2 Response to the Research Questions
 
-To address RQ5 and provide an evidence-based output for organizational decision-makers, we synthesized the empirical findings and theoretical insights into the **Comparative Risk Framework**.
+The discussion is organised around the five definitive supporting research questions:
+
+1. **RQ1 – In-house risks:** The in-house subgroup reported high internal skill dependency and high perceived disruption difficulty if key staff were unavailable. Respondents also selected staff shortage and single-point skill dependency as primary concerns. These findings describe perceived vulnerabilities in the assessed activities.
+2. **RQ2 – Outsourced risks:** The outsourced subgroup reported provider dependency, perceived disruption severity and monitoring effectiveness ratings. Supplier performance and single-supplier dependency were selected as primary concerns. These results describe the assessments of the 12 respondents in this subgroup.
+3. **RQ3 – Control, monitoring and accountability:** The questionnaire measured internal control, supplier monitoring, hybrid responsibility clarity, information sharing, handoffs and common accountability clarity. These are related but non-identical constructs and should be compared descriptively rather than combined into a single control score.
+4. **RQ4 – Dependencies, continuity, response and recovery:** Internal and external dependency ratings, disruption assessments, problem detection, recovery effectiveness and selected failure consequences provide descriptive evidence about the issues respondents associate with continuity and recovery. They do not measure actual incident rates or recovery times.
+5. **RQ5 – Make-or-buy factors:** Respondents selected multiple factors. Cost and Total cost must be counted once per respondent as Cost and financial considerations; Control and Direct control must be counted once per respondent as Control and operational authority. The harmonised counts remain subject to response-level deduplication.
+
+E2, the overall perceived risk-effect item, is reported as a supplementary cross-model result. It should not be presented as a direct test of any single supporting research question.
+
+## 6.3 The Comparative Risk Framework
+
+To synthesise the findings relevant to RQ1–RQ5, we present the **Comparative Risk Framework** as an organising summary. It is a researcher-developed interpretation of the concepts and descriptive results, not a statistically tested model or a validated decision tool.
 
 ```mermaid
 graph LR
@@ -93,7 +105,7 @@ The Comparative Risk Framework structures the multi-dimensional risk trade-offs 
 
 ---
 
-## 6.3 Managerial Implications for Industrial Decision-Makers
+## 6.4 Managerial Implications for Industrial Decision-Makers
 
 The findings may inform questions managers consider when reviewing make-or-buy decisions. They should not be treated as universal prescriptions because the sample is small, purposive and based on self-reported assessments.
 
@@ -122,7 +134,7 @@ The results suggest that respondents considered several factors beyond direct pu
 
 ---
 
-## 6.4 Critical Evaluation: Reliability, Validity, and Methodological Limitations
+## 6.5 Critical Evaluation: Reliability, Validity, and Methodological Limitations
 
 In compliance with Karelia UAS reporting standards, we critically evaluate the rigor, trustworthiness, and boundaries of this research.
 
@@ -130,18 +142,18 @@ In compliance with Karelia UAS reporting standards, we critically evaluate the r
 The questionnaire was informed by concepts discussed in Chapter 2. This provides a theoretical rationale for the selected variables, but does not by itself establish construct or content validity. Any pilot review or supervisor feedback should be described only where supporting records are available.
 
 ### 6.4.2 Reliability and Internal Consistency
-The questionnaire used a structured digital format. The consistency of routing and the handling of branch-dependent fields should be described from the final form configuration and data audit. The available evidence does not establish that routing eliminated all missing data or that the instrument’s reliability was statistically tested. All metric scales utilised consistent 10-point and 5-point anchoring. Furthermore, the dataset underwent systematic structural verification and schema-level quality control, with all 30 records confirmed to possess complete data across all 29 required fields prior to analysis. This verification process was documented in a repeatable, auditable manner, establishing a transparent data provenance trail.
+The questionnaire used a structured digital format. The consistency of routing and the handling of branch-dependent fields should be described from the final form configuration and data audit. The available evidence does not establish that routing eliminated all missing data or that the instrument’s reliability was statistically tested. All metric scales utilised consistent 10-point and 5-point anchoring. The dataset contains conditional-branch fields. The final audit must report completeness among questions applicable to each respondent and distinguish this from structurally non-applicable blank fields. A claim of full completeness or a fully documented audit trail should be added only after the researchers complete and retain the relevant records.
 
 ### 6.4.3 Methodological Boundaries and Limitations
 The findings of this study must be interpreted within the context of several inherent methodological constraints:
-1. **Sample Size ($N = 30$):** Although $N = 30$ satisfies the planning threshold ($N \ge 25$) and provides substantial comparative depth across the three subgroups ($n = 9, 12, 9$), it does not constitute a nationally or continentally representative probability sample. The statistical summaries represent exploratory, descriptive comparative patterns rather than generalizable parametric population constants.
+1. **Sample Size ($N = 30$):** Although $N = 30$ satisfies the planning threshold ($N \ge 25$) and provides substantial comparative depth across the three subgroups ($n = 9, 12, 9$), it does not constitute a nationally or continentally representative probability sample. The summaries are exploratory and descriptive. They should not be interpreted as population estimates.
 2. **Purposive Sampling and Self-Selection Bias:** Sourcing participants through professional registries and outreach introduces potential self-selection. Managers who had navigated contentious make-or-buy decisions or experienced severe operational disruptions may have been more inclined to complete the survey.
 3. **Cross-Sectional Perceptual Data:** The research captured self-reported professional assessments at a single point in time. While experienced managers' evaluations reflect operational reality and guide strategic choices, self-reported metrics are subject to cognitive heuristics, recall bias, and subjective framing.
 4. **Absence of Longitudinal and Econometric Cost Logs:** Due to commercial sensitivity and time constraints, we did not collect longitudinal financial audit logs or proprietary accounting ledgers. The financial findings reflect perceived cost effectiveness and reported hold-up risks rather than direct econometric regression of balance-sheet data.
 
 ---
 
-## 6.5 Recommendations for Future Research
+## 6.6 Recommendations for Future Research
 
 Based on the limitations and discoveries of this thesis, we identify several fruitful pathways for future academic inquiry:
 1. **Longitudinal Transition Studies:** Future research should track organizations over a multi-year period as they transition from in-house to outsourced or hybrid models, directly measuring how risk exposures, capability retention, and transaction costs evolve over time.
@@ -151,7 +163,7 @@ Based on the limitations and discoveries of this thesis, we identify several fru
 
 ---
 
-## 6.6 Concluding Summary
+## 6.7 Concluding Summary
 
 This Bachelor's thesis set out to investigate how in-house, outsourced, and hybrid operating models influence an industrial company's operational and strategic risk profile. 
 
