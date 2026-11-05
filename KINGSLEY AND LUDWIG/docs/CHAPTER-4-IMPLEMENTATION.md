@@ -11,10 +11,10 @@ Table 4.1 outlines the chronological stages, timeframes, core activities, and ta
 | Stage | Focus Area | Core Activities Conducted | Tangible Outputs / Deliverables |
 | :---: | :--- | :--- | :--- |
 | **Stage 1** | **Instrument Construction & Digital Setup** | Translated paper questionnaire into Tally platform; configured branching logic; established Participant Information Notice. | Live Tally survey link (`https://tally.so/r/RGXG6j`); digital questionnaire architecture. |
-| **Stage 2** | **Pilot Testing & Pre-Testing Review** | Administered pilot test with 4 professional practitioners; evaluated completion times, wording clarity, and routing integrity. | Pilot feedback log; refined question phrasing; validated average completion duration (6–8 minutes). |
-| **Stage 3** | **Recruitment Pool Preparation** | Built and filtered prospective contact lists across Finnish and European industrial registries; established 40/60 geographic quotas. | Qualified recruitment pools for Finland and wider Europe, covering 700 prospective contacts in total. |
+| **Stage 2** | **Pilot Testing & Pre-Testing Review** | [VERIFY: state whether a pilot was conducted, its participant count, findings and resulting changes.] | Pilot feedback log; refined question phrasing; validated average completion duration (6–8 minutes). |
+| **Stage 3** | **Recruitment Pool Preparation** | Built and filtered prospective contact lists across Finnish and European industrial registries; established 40/60 geographic quotas. | [VERIFY: insert the final documented recruitment-pool count and geographic breakdown, or omit if no reliable log is available.] |
 | **Stage 4** | **Outreach & Data Collection** | Dispatched phased invitations; monitored delivery, bounce rates, and response acquisition; tracked sample quotas. | Survey acquisition log; closed empirical dataset of $N = 30$ fully completed responses. |
-| **Stage 5** | **Data Audit & Quality Control** | Conducted structural integrity audit of the exported dataset; validated schema completeness; performed systematic data verification and field normalization. | Verified, schema-compliant dataset ([`DATA/responses.csv`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/DATA/responses.csv)) with 100% field completeness across all 30 records. |
+| **Stage 5** | **Data Audit & Quality Control** | Conducted structural integrity audit of the exported dataset; validated schema completeness; performed systematic data verification and field normalization. | Verified, schema-compliant dataset ([`DATA/responses.csv`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/DATA/responses.csv)) with 30 respondent records; final applicable-field completeness review remains to be documented. |
 | **Stage 6** | **Harmonization & Dataset Freeze** | Standardized variable headers; harmonized categorical risks and failure impacts with the conceptual Mermaid model; locked dataset for analysis. | Codebook; Data Analysis Report ([`docs/DATA-ANALYSIS-REPORT.md`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/docs/DATA-ANALYSIS-REPORT.md)); frozen analysis file. |
 
 ---
@@ -40,7 +40,7 @@ Prior to launching wide recruitment outreach, we conducted a structured pilot te
 - Identify ambiguous phrasing or misleading terminology;
 - Measure actual completion times under realistic working conditions.
 
-The pilot results confirmed high technical reliability. All branching paths routed correctly. The recorded completion times ranged between 5.5 and 8.5 minutes (averaging approximately 7 minutes), validating our estimated design duration of 6 to 9 minutes. Practitioners noted that the distinction between operational dependency and control effectiveness was clear and intuitive. Minor wording refinements were implemented in the anchor labels of the rating scales to reinforce the distinction between internal resource disruption and supplier failure before final deployment.
+[VERIFY: document the pilot procedure, number of participants, actual completion times, observed routing behaviour and changes made. If records are unavailable, remove this subsection rather than presenting unverified pilot outcomes.]
 
 ---
 
@@ -65,13 +65,13 @@ Outreach was conducted in planned waves to monitor bounce rates, opt-outs, and r
 - The explicit assurance of data confidentiality, organizational anonymity, and GDPR compliance;
 - A direct, personalized link to the Tally survey.
 
-Responses were monitored continuously. In accordance with research ethics protocols, contact details and email addresses were stored in an isolated, encrypted recruitment ledger and were never cross-referenced or attached to submitted questionnaire response tokens.
+Responses were monitored continuously. In accordance with research ethics protocols, contact details and email addresses were stored in an isolated, recruitment ledger [VERIFY storage and security controls from actual records] and were were handled separately from questionnaire responses [VERIFY the actual process and whether linkage was technically possible].
 
 ---
 
 ## 4.4 Data Collection Administration and Sample Verification
 
-Data collection ran until the pre-established sample target was reached. The survey was formally closed upon securing **$N = 30$ complete, high-quality responses**. 
+Data collection ran until the pre-established sample target was reached. The current analysis export contains 30 respondent records. State the survey closing date and usability criteria only after checking the survey administration log and final dataset. 
 
 Table 4.2 summarizes the achieved sample against the pre-defined thesis planning parameters.
 
@@ -82,8 +82,8 @@ Table 4.2 summarizes the achieved sample against the pre-defined thesis planning
 | **Total Sample Size ($N$)** | Min: $N \ge 25$; Preferred: 30–40 | **$N = 30$** completed responses | **100% Target Met** |
 | **Geographic Allocation** | Approx. 40% Finland / 60% Europe | **Finland: 12 (40.0%)**<br/>**Other Europe: 18 (60.0%)** | **Exact Quota Match** |
 | **Operating Model Spread** | Substantial presence across all 3 models | **In-House: 9 (30.0%)**<br/>**Outsourced: 12 (40.0%)**<br/>**Hybrid: 9 (30.0%)** | **Balanced Distribution** |
-| **Participant Eligibility** | High operational familiarity ($A4$) | **100% qualified** (Zero limited familiarity) | **High Content Validity** |
-| **Data Completeness** | 100% core question completion | **30 of 30 records complete** (0 missing cells) | **Full Data Integrity** |
+| **Participant Eligibility** | High operational familiarity ($A4$) | [VERIFY from final export] | **High Content Validity** |
+| **Data Completeness** | 100% core question completion | [TO BE COMPLETED AFTER DATA REVIEW] | **Full Data Integrity** |
 
 ---
 
@@ -92,7 +92,7 @@ Table 4.2 summarizes the achieved sample against the pre-defined thesis planning
 Following data export from the survey platform, we executed a rigorous data quality audit to ensure schema and structural consistency before undertaking statistical analysis.
 
 ### 4.5.1 Structural Integrity Audit
-Each of the 30 exported records was validated against the 29-column operationalization schema. The audit examined whether each variable field was populated in its expected column position, consistent with the conditional branching path taken by the respondent. Where field positioning did not conform to the schema — arising from how the survey platform structured placeholder columns for branching paths not taken — records were systematically reconstructed through column-level validation to restore full schema alignment. All 30 records were verified to possess complete data across all 29 required fields, achieving 100% field completeness with zero missing values.
+Each of the 30 exported records was validated against the 29-column operationalization schema. The audit examined whether each variable field was populated in its expected column position, consistent with the conditional branching path taken by the respondent. Where field positioning did not conform to the schema — arising from how the survey platform structured placeholder columns for branching paths not taken — records were systematically reconstructed through column-level validation to restore full schema alignment. The questionnaire uses conditional branches. Fields belonging to branches not shown to a respondent are structurally not applicable. The final data audit must distinguish these fields from unanswered questions that were presented. The researchers will complete this review and record final missingness counts.
 
 ### 4.5.2 Header Normalization and Categorical Harmonization
 Following structural verification, variable headers were replaced with the official snake_case variable names defined in the operationalization schema (see Table 3.1, Chapter 3). Redundant platform-generated fields were removed, with `operating_model` retained as the sole primary grouping variable.
