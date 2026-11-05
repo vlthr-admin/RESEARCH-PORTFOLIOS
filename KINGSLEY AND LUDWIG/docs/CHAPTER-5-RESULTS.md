@@ -91,7 +91,7 @@ Nine respondents (30.0% of the sample) assessed activities delivered predominant
 *Note:* Subgroup sample size $n = 9$ (in-house respondents only). Rating scales: 1 = Lowest / Very Low; 10 = Highest / Very High (1–5 for scalability).
 
 Within the in-house subgroup, respondents reported the following ratings and primary risk selections:
-1. **High Direct Control:** Respondents report high internal control effectiveness (Mean = 7.89, Median = 8.00, SD = 0.78), indicating that physical proximity, direct hierarchical supervision, and unmediated internal communication facilitate superior quality assurance.
+1. **High Direct Control:** Respondents report high internal control effectiveness (Mean = 7.89, Median = 8.00, SD = 0.78), This is a high self-reported rating within the in-house subgroup. The questionnaire did not measure the mechanisms that may explain the rating.
 2. **Extreme Resource Vulnerability:** Concurrently, internal skill dependency is exceptionally high (Mean = 8.89, Median = 9.00, SD = 0.78), and the operational difficulty experienced if key staff become unavailable reaches a critical Mean of 9.00 (Median = 9.00, SD = 0.71). 
 3. **Primary Structural Risks:** In question IH5, 55.6% ($n = 5$) identified `Staff Shortage Risk` (general operational disruption due to labor market shortages) as their primary vulnerability, while 44.4% ($n = 4$) identified `Single-Point Skill Risk` (the catastrophic loss of specialized, non-substitutable tacit knowledge concentrated in a few individuals).
 4. **Moderate Internal Scalability:** Scalability was rated moderately (Mean = 3.89, Median = 4.00 on a 1–5 scale), reflecting the fixed capital investment and recruitment lag required to expand internal capacity when demand spikes.
@@ -201,7 +201,7 @@ Table 5.7 maps the frequencies of operational failure consequences reported by r
 
 The response frequencies show how respondents selected potential or experienced consequences. They do not establish causal pathways between a risk source and an outcome:
 - **`Workflow Breakdown` is a Structural Signature of Hybrid Models:** Reported by **77.8% of hybrid respondents ($n = 7$)** and 50.0% of outsourced respondents ($n = 6$), but **0.0% of in-house respondents ($n = 0$)**. When operational activities are fragmented across organizational lines, handoff failure directly paralyzes downstream workflows.
-- **`Knowledge Loss` Reflects Dual Realities:** Reported by 55.6% of in-house operators (where the departure of key technical personnel causes immediate institutional memory loss) and 33.3% of outsourced operators (where long-term outsourcing drains internal engineering competence).
+- **`Knowledge Loss` Reflects Dual Realities:** Reported by 55.6% of in-house operators (which may reflect concern about the concentration of knowledge in key personnel; actual knowledge loss was not measured) and 33.3% of outsourced operators (which may reflect concern about retained internal capability; capability erosion over time was not measured).
 - **`Safety and Compliance Consequences` are Retained Internally:** Exclusively reported by in-house respondents (33.3%, $n = 3$), The subgroup difference should be interpreted cautiously because the questionnaire records respondent selections, not verified legal liability or incident records.
 - **`Customer and Reputation Damage`:** Exceptionally high in outsourcing (91.7%, $n = 11$), indicating that respondents in this subgroup selected this consequence relatively frequently.
 
@@ -259,4 +259,4 @@ In question E3, respondents were invited to share qualitative reflections regard
 3. **The Overhead of Hybrid Coordination:** Hybrid practitioners frequently noted the hidden managerial workload required to align dual teams: *"Hybrid models require constant boundary management. Without designated interface coordinators, tasks fall through the cracks between internal staff and contractors."*
 4. **Contract Rigidity vs. Operational Adaptability:** Several directors highlighted that during unexpected supply shocks, fixed outsourcing contracts restricted agile redeployment, whereas internal arrangements allowed rapid re-prioritization.
 
-In summary, the empirical results confirm that operating models act as **risk redistribution mechanisms**. Chapters 6 will synthesize these findings with the theoretical literature into a comprehensive comparative risk framework.
+In summary, the descriptive results are consistent with the view that different operating arrangements may be associated with different risk exposures. The questionnaire does not establish that operating models cause these differences. Chapters 6 will synthesize these findings with the theoretical literature into a comprehensive comparative risk framework.
