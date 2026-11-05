@@ -17,7 +17,7 @@ The analytical sequence governing the entire research methodology is formalized 
 
 $$\text{Operating Model} \longrightarrow \text{Resource Configuration} \longrightarrow \text{Control Distribution} \longrightarrow \text{Dependency Structure} \longrightarrow \text{Risk Exposure} \longrightarrow \text{Consequences} \longrightarrow \text{Response/Recovery} \longrightarrow \text{Residual Risk}$$
 
-A cross-sectional survey design was selected as the most appropriate research instrument for this investigation. Cross-sectional survey research enables the standardized collection of comparable data across multiple organizations, diverse industrial sectors, and varied geographic contexts within a defined timeframe (Saunders et al. 2019). It provides a structured mechanism to capture professional assessments from experienced practitioners who possess direct operational and decision-making visibility over company arrangements. 
+A cross-sectional questionnaire design was selected to collect structured assessments from respondents in different industries and European countries within a defined period (Saunders et al. 2019). The export contains 30 respondent records; it does not verify 30 unique organisations. Respondents assessed a specific operational activity and reported their own level of familiarity with it. 
 
 In line with sound academic research practice, we explicitly recognize the epistemological boundaries of this design. The study is comparative and exploratory; it examines reported organizational experiences and professional assessments. Because cross-sectional survey data do not involve experimental manipulation or longitudinal tracking, they cannot establish strict causal proof that an operating model uniquely causes a specific risk outcome. Consequently, throughout this report, we maintain methodological discipline: we describe observed distributions, report comparative associations, and interpret practitioners' evaluations without making unsupported causal assertions.
 
@@ -33,7 +33,7 @@ To ensure empirical validity, the **unit of analysis in this research is defined
 
 ## 3.3 Operationalization of Variables
 
-To bridge the theoretical knowledge base (Chapter 2) with empirical measurement, we operationalized the conceptual framework into measurable survey variables. The survey instrument was organized into seven logical modules (Sections A through E), comprising 28 core survey variables alongside a unique respondent identifier (`profile_id`). Table 3.1 details the operationalization schema and maps each variable to the definitive research questions (RQ1–RQ5).
+To bridge the theoretical knowledge base (Chapter 2) with empirical measurement, we operationalized the conceptual framework into measurable survey variables. The export contains 29 columns: one sequential respondent-record identifier (`profile_id`) and 28 survey variables. The questionnaire groups these variables into context, activity, operating-model-specific and common modules. Table 3.1 details the operationalization schema and maps each variable to the definitive research questions (RQ1–RQ5).
 
 ### Table 3.1. Operationalization of Survey Variables and Research Question Alignment
 
@@ -46,7 +46,7 @@ To bridge the theoretical knowledge base (Chapter 2) with empirical measurement,
 | **A5** | `company_size` | Enterprise size bracket | Ordinal (1–49, 50–249, 250–999, 1000+) | Control variable |
 | **B1** | `activity` | Specific operating activity assessed | Categorical (6 operational areas) | Unit of analysis |
 | **B2** | `operating_model` | Core delivery model path | Categorical (In-house / Outsourced / Hybrid) | Primary grouping variable |
-| **IH1** | `internal_skill_dependency` | Reliance on internal specialist expertise | Metric rating scale (1–10: Low to High) | RQ1 and RQ4 |
+| **IH1** | `internal_skill_dependency` | Reliance on internal specialist expertise | Ordinal rating scale (1–10: Low to High) | RQ1 and RQ4 |
 | **IH2** | `internal_control_effectiveness`| Direct quality and process control | Metric rating scale (1–10: Poor to Excellent) | RQ1, RQ3 |
 | **IH3** | `internal_resource_disruption` | Severity of impact if key staff unavailable | Metric rating scale (1–10: Low to High) | RQ1, RQ4 |
 | **IH4** | `internal_scalability` | Capacity scaling flexibility | Metric rating scale (1–5: Difficult to Easy) | RQ1, RQ5 (contextual) |
@@ -194,3 +194,32 @@ The questionnaire's conditional routing produces branch-specific applicable deno
 Make-or-buy factor responses are multi-select. Cost and Total cost are grouped as Cost and financial considerations; Control and Direct control are grouped as Control and operational authority. Each respondent is counted once per combined category, including respondents who selected both original labels. Original labels remain unchanged in the source file.
 
 The current response export does not contain usable additional-insight text. No qualitative coding, themes or respondent quotations can be derived from that field. The descriptive statistics are recalculated from respondent-level records; no inferential test or causal estimate is reported.
+
+
+## 3.9 Pilot Testing and Instrument Refinement
+
+The researchers' project records state that four practitioners pre-tested the questionnaire before wider distribution. The participants were described as an Operations Director in manufacturing, a Head of Procurement / Supply Chain in industrial services, a Quality Assurance Lead in technology / engineering, and a Maintenance / Logistics Manager. The reported completion duration was approximately 6–8 minutes.
+
+The pilot notes describe three refinements: clarifying that each respondent should assess one representative core operational activity; adding explicit verbal anchors to D1 problem detection, D2 recovery effectiveness and D3 accountability clarity; and refining the wording of the primary vulnerability options in IH5, OS5 and HY4. The four-person pre-test supports a claim of practitioner review and instrument refinement. It does not establish statistical reliability or construct validity. The pilot notes were supplied as project records; the original worksheets were not present in the repository snapshot reviewed.
+
+## 3.10 Sampling and Recruitment
+
+The study used purposive, non-probability recruitment. The researchers' recruitment records describe a staged pool of approximately 300 prospective contacts in Finland and 400 across 11 other European countries. These are approximate lead-pool figures, not a verified number of invitations delivered. A response rate is not calculated because the exact eligible invitation denominator and delivery outcomes are not available in the response export.
+
+The achieved dataset contains 30 respondent records: 12 from Finland and 18 from 11 other European countries. The operating-model groups are 9 in-house, 12 outsourced and 9 hybrid. The questionnaire did not collect a verified organisation identifier; no claim is made that each record represents a separate company.
+
+## 3.11 Missingness, Branch Applicability and Descriptive Analysis
+
+The questionnaire routes respondents to one of three operating-model branches. IH1–IH5 apply to the 9 in-house records; OS1–OS5 apply to the 12 outsourced records; and HY1–HY4 apply to the 9 hybrid records. Blank cells in a branch not shown to a respondent are structurally not applicable. The current export contains responses in every applicable branch-specific closed-ended field and in all common closed-ended fields.
+
+The optional additional-insight field contains N/A in all 30 source records. It does not provide usable narrative material. No qualitative coding or quotation analysis is claimed.
+
+The analysis reports subgroup counts, percentages, means, medians, sample standard deviations and ranges. The rating items are ordinal response formats. Means are used only as descriptive summaries and are presented alongside medians. The subgroup sizes are small and the sample is non-probability; no population inference, causal estimate or statistical significance claim is made.
+
+For the multiple-selection make-or-buy question, Cost and Total cost are combined into Cost and financial considerations, while Control and Direct control are combined into Control and operational authority. Each respondent is counted once in each harmonised category. The original response labels remain unchanged in the source file.
+
+## 3.12 Research Ethics and Data Protection
+
+The researchers report that a participant information notice was included in the Tally questionnaire and that supervisor permission was obtained. The exact notice, data-management plan and any formal research-permit or ethics-review decision were not available in the repository snapshot reviewed. The methodology therefore does not claim formal ethics approval or GDPR compliance.
+
+The response export contains no names, but the combination of country, industry, role, company-size band and assessed activity may permit indirect identification in some cases. The researchers must describe the actual information collected, the platform settings, access, retention and disposal arrangements from the participant notice and data-management records. An absence of names is not, by itself, proof of anonymity. Karelia UAS guidance requires a data-management plan to cover collection, use, storage and disposal; GDPR principles include transparency, purpose limitation, data minimisation and storage limitation (Karelia UAS 2026; European Union 2016; EDPB 2026).
