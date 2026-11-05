@@ -19,7 +19,7 @@ The main descriptive patterns concern internal skill dependency, external provid
 ## 2. Sample Characteristics & Demographics ($N = 30$)
 
 ### 2.1 Geographic Distribution ($A1$)
-The sampling frame encompasses 12 European countries, fulfilling the recruitment design target of approximately 40% Finnish companies and 60% wider European organizations:
+The sampling frame encompasses 12 European countries, with 40% of respondents selecting Finland and 60% selecting other European countries:
 - **Finland (Domestic Context):** $n = 12$ (40.0%)
 - **Other European Countries:** $n = 18$ (60.0%)
   - *Nordic:* Sweden ($n = 3$, 10.0%), Denmark ($n = 1$, 3.3%), Norway ($n = 1$, 3.3%)
@@ -61,7 +61,7 @@ Respondents hold senior operational, technical, or executive positions with dire
 - **Manage or supervise it:** $n = 11$ (36.7%)
 - **Support decisions about it:** $n = 4$ (13.3%)
 - **Have professional experience with it:** $n = 4$ (13.3%)
-*Validity verification:* 73.4% hold direct management or operational responsibility; 100% have professional decision-making experience. Zero respondents selected "limited familiarity", confirming high content validity.
+*Validity verification:* 73.4% hold direct management or operational responsibility; 100% have professional decision-making experience. Zero respondents selected "limited familiarity", This describes the familiarity responses; it does not independently establish content validity.
 
 ### 2.6 Assessed Operational Activity ($B1$)
 - **Production or service delivery:** $n = 12$ (40.0%)
@@ -160,7 +160,7 @@ Respondents selected all significant consequences experienced or anticipated upo
 | **Safety or compliance consequences** | 3 (10.0%) | 3 (33.3%) | 0 (0.0%) | 0 (0.0%) | Regulatory/Safety Exposure |
 
 ### Analytical Insights:
-- **Workflow Breakdown** is heavily concentrated in hybrid arrangements (77.8%) and absent in in-house operations (0.0%), confirming that workflow fragmentation is an inherent structural risk of split operational interfaces.
+- **Workflow Breakdown** is heavily concentrated in hybrid arrangements (77.8%) and absent in in-house operations (0.0%), This pattern can be discussed in relation to literature on coordination across organisational boundaries, but it does not establish causation.
 - **Knowledge Loss** is most acute in in-house operations (55.6%), reflecting key-person dependency, and in outsourcing transitions (33.3%), reflecting capability drainage.
 - **Safety / Compliance Consequences** were reported solely by in-house operators (33.3%), who carry full legal and operational liability for internal physical facilities.
 
@@ -168,12 +168,14 @@ Respondents selected all significant consequences experienced or anticipated upo
 
 ## 6. Make-or-Buy Decision Factors (E1) (RQ5)
 
-The original questionnaire labels are harmonised for analysis as follows:
+The original response labels are harmonised as follows:
 
-- Cost and Total cost are combined as **Cost and financial considerations**. Count each respondent once if either or both labels were selected. The reported frequencies (9 and 14) produce 23 (76.7%) only if there is no overlap; otherwise recalculate unique respondents from the response-level data.
-- Control and Direct control are combined as **Control and operational authority**. Count each respondent once if either or both labels were selected. The reported frequencies (4 and 13) produce 17 (56.7%) only if there is no overlap; otherwise recalculate unique respondents from the response-level data.
+- Cost and Total cost are combined as **Cost and financial considerations**.
+- Control and Direct control are combined as **Control and operational authority**.
 
-Retain original labels in the raw data and document the mapping in the codebook. Do not treat these multi-select factors as ratings of control effectiveness or actual expenditure.
+Count each respondent once per harmonised category, even when both original labels were selected. The current category frequencies (Cost 9; Total cost 14; Control 4; Direct control 13) cannot be added unless the raw responses confirm there is no overlap. The unique respondent counts and percentages for both harmonised categories remain pending recalculation from the response-level dataset. Do not report the previous combined totals as verified.
+
+Preserve the original labels in the raw data. These decision-factor categories are not measurements of actual expenditure or control effectiveness.
 
 ## 7. Perceived Net Effect on Business Risk ($E2$) (RQ2)
 
