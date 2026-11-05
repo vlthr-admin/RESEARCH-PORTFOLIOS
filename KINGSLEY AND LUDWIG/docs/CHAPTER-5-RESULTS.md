@@ -251,12 +251,17 @@ This empirical cross-tabulation provides robust evidence answering **Research Qu
 
 ---
 
-## 5.9 Qualitative Practitioner Insights (E3)
+## 5.9 Additional Insight Field (E3)
 
-In question E3, respondents were invited to share qualitative reflections regarding important risks or control lessons not fully captured by standardized scales. Analysis of these responses yielded four recurring thematic patterns:
-1. **The In-House Succession Gap:** In-house managers emphasized the growing difficulty of technical talent renewal. As one Operations Director noted, *"Maintaining operations in-house provides complete control until senior engineers retire. When specialized competence leaves without documentation, the organization faces months of operational vulnerability."*
-2. **The "Vendor Illusion" in Outsourcing:** Sourcing and procurement managers cautioned against assuming that outsourcing transfers ultimate risk. A Procurement Head remarked: *"Contracts define penalties, but penalties do not produce parts. When an outsourced vendor experiences factory downtime, our customers do not blame the vendor; they hold us accountable."*
-3. **The Overhead of Hybrid Coordination:** Hybrid practitioners frequently noted the hidden managerial workload required to align dual teams: *"Hybrid models require constant boundary management. Without designated interface coordinators, tasks fall through the cracks between internal staff and contractors."*
-4. **Contract Rigidity vs. Operational Adaptability:** Several directors highlighted that during unexpected supply shocks, fixed outsourcing contracts restricted agile redeployment, whereas internal arrangements allowed rapid re-prioritization.
+The current source export contains `N/A` in all 30 optional additional-insight entries. There is therefore no usable narrative response for qualitative coding. No themes, quotations or qualitative findings are reported from E3. The readable analysis copy leaves these placeholders blank; the source CSV retains the original values.
 
-In summary, the descriptive results are consistent with the view that different operating arrangements may be associated with different risk exposures. The questionnaire does not establish that operating models cause these differences. Chapters 6 will synthesize these findings with the theoretical literature into a comprehensive comparative risk framework.
+The findings in this chapter are based on the recalculated descriptive tables in `docs/EMPIRICAL-FINDINGS-TABLES.md`. Interpret all results as respondent reports within this sample, not objective company-level measurements or causal effects.
+
+
+## 5.10 Data Audit and Reporting Boundary (5 November 2026)
+
+The current export contains 30 respondent records, not 30 verified unique organisations. The questionnaire's branch structure gives applicable denominators of 9 in-house, 12 outsourced and 9 hybrid records. Blank branch-specific cells outside the applicable branch are structurally not applicable.
+
+The recalculated make-or-buy counts are 23/30 (76.7%) for Cost and financial considerations and 17/30 (56.7%) for Control and operational authority after respondent-level deduplication. Earlier combined counts based on simple addition are superseded.
+
+All 30 E3 entries are N/A. No qualitative themes or quotations can be supported by the current dataset. All percentages for multi-select items are respondent proportions and need not sum to 100%. The E2 item measures perceived overall risk effect, not objective change in risk exposure.
