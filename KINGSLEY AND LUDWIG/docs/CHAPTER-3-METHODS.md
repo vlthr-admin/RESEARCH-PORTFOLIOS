@@ -183,3 +183,14 @@ Honest academic reporting requires acknowledging the methodological boundaries o
 2. **Non-Probability Purposive Sampling:** Participants were recruited through targeted industry outreach. Although this ensured high operational expertise, purposive sampling introduces potential self-selection bias, as professionals who have experienced significant operational disruptions or make-or-buy reviews may have been more motivated to participate.
 3. **Cross-Sectional Perceptual Data:** The survey captured self-reported professional assessments at a single point in time. While practitioners' perceptions directly drive organizational decision-making, they do not constitute objective, longitudinal logs of incident frequencies or accounting costs.
 4. **Non-Causal Interpretation:** Differences observed between operating models reflect comparative distributions and structural associations. We do not claim that adopting outsourcing *causes* poorer problem detection, but rather that outsourced configurations are *associated* with structural monitoring challenges due to organizational boundaries.
+
+
+## 3.9 Verified Dataset Preparation Update (5 November 2026)
+
+The source response export contains 30 respondent records and 29 fields. The source file `DATA/responses.csv` is retained unchanged. A separate analysis copy, `DATA/responses-readable.csv`, uses readable column labels. In that copy only, the 30 `N/A` placeholders in the optional additional-insight field are blanked because they contain no narrative response. All other response values and record order are preserved. The accompanying `DATA/DATA-DICTIONARY.md` defines the fields and preparation rules.
+
+The questionnaire's conditional routing produces branch-specific applicable denominators of 9 in-house, 12 outsourced and 9 hybrid records. Blank branch-specific fields outside the applicable route are structurally not applicable. They are not imputed and are excluded from the denominator for that branch-specific measure.
+
+Make-or-buy factor responses are multi-select. Cost and Total cost are grouped as Cost and financial considerations; Control and Direct control are grouped as Control and operational authority. Each respondent is counted once per combined category, including respondents who selected both original labels. Original labels remain unchanged in the source file.
+
+The current response export does not contain usable additional-insight text. No qualitative coding, themes or respondent quotations can be derived from that field. The descriptive statistics are recalculated from respondent-level records; no inferential test or causal estimate is reported.
