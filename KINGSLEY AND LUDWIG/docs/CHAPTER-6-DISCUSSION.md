@@ -109,13 +109,13 @@ The Comparative Risk Framework structures the multi-dimensional risk trade-offs 
 
 The findings may inform questions managers consider when reviewing make-or-buy decisions. They should not be treated as universal prescriptions because the sample is small, purposive and based on self-reported assessments.
 
-### 6.3.1 Moving Beyond Direct Purchase Price in Make-or-Buy Decisions
+### 6.4.1 Considering More Than Direct Purchase Price in Make-or-Buy Decisions
 The results suggest that respondents considered several factors beyond direct purchase price when assessing operating arrangements. Operating model selection must be evaluated through total cost of ownership (TCO) and multi-attribute risk governance:
 1. **Factor in the Monitoring Overhead:** Outsourced operations suffer a 2.14-point monitoring effectiveness drop. Decision-makers must budget explicitly for the internal managerial time, quality auditing, and contract administration required to govern external providers. Seemingly low vendor bids frequently conceal substantial monitoring transaction costs.
 2. **Prioritize Continuity and Detection Velocity:** Early problem detection in outsourcing is 1.83 points lower than in-house execution. For mission-critical activities where a single hour of unplanned downtime causes severe financial or customer loss (e.g. core assembly, vital IT infrastructure), the detection advantage of in-house execution often justifies higher internal fixed costs.
 3. **Recognize Non-Transferable Reputation Risk:** Customer and reputation damage was selected by 91.7% of respondents in the outsourced subgroup. While contracts can penalize suppliers financially, end-customers hold the client firm responsible for quality defects and delivery delays. Legal risk transfer does not equal brand risk reduction.
 
-### 6.3.2 Actionable Risk Mitigation Strategies by Operating Model
+### 6.4.2 Risk Considerations by Operating Model
 
 #### For In-House Operations: Mitigating Single-Point Human Capital Risk
 - **Cross-Skilling and Competency Matrices:** Organizations must systematically audit technical roles to eliminate single points of failure. Operations where key tasks depend on individual technicians should establish mandatory peer shadow training.
@@ -134,17 +134,17 @@ The results suggest that respondents considered several factors beyond direct pu
 
 ---
 
-## 6.5 Critical Evaluation: Reliability, Validity, and Methodological Limitations
+## 6.5 Assessment of Research Quality and Methodological Limitations
 
 In compliance with Karelia UAS reporting standards, we critically evaluate the rigor, trustworthiness, and boundaries of this research.
 
-### 6.4.1 Construct Validity and Content Validity
+### 6.5.1 Theoretical Alignment and Questionnaire Coverage
 The questionnaire was informed by concepts discussed in Chapter 2. This provides a theoretical rationale for the selected variables, but does not by itself establish construct or content validity. Any pilot review or supervisor feedback should be described only where supporting records are available.
 
-### 6.4.2 Reliability and Internal Consistency
+### 6.5.2 Data Quality and Consistency
 The questionnaire used a structured digital format. The consistency of routing and the handling of branch-dependent fields should be described from the final form configuration and data audit. The available evidence does not establish that routing eliminated all missing data or that the instrument’s reliability was statistically tested. All metric scales utilised consistent 10-point and 5-point anchoring. The dataset contains conditional-branch fields. The final audit must report completeness among questions applicable to each respondent and distinguish this from structurally non-applicable blank fields. A claim of full completeness or a fully documented audit trail should be added only after the researchers complete and retain the relevant records.
 
-### 6.4.3 Methodological Boundaries and Limitations
+### 6.5.3 Methodological Boundaries and Limitations
 The findings of this study must be interpreted within the context of several inherent methodological constraints:
 1. **Sample Size ($N = 30$):** Although $N = 30$ satisfies the planning threshold ($N \ge 25$) and provides substantial comparative depth across the three subgroups ($n = 9, 12, 9$), it does not constitute a nationally or continentally representative probability sample. The summaries are exploratory and descriptive. They should not be interpreted as population estimates.
 2. **Purposive Sampling and Self-Selection Bias:** Sourcing participants through professional registries and outreach introduces potential self-selection. Managers who had navigated contentious make-or-buy decisions or experienced severe operational disruptions may have been more inclined to complete the survey.
