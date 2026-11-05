@@ -118,5 +118,15 @@ Following successful audit and quality verification:
 ## 4.7 Reflections and Deviations from the Original Plan
 
 The research team used the thesis plan as the working basis for implementation. Any deviations should be described against the dated plan and supporting records. Two noteworthy operational adaptations occurred:
-1. **Recruitment Ceiling Clarification:** During planning, outreach scope was discussed at between 500 and 1,000 potential contacts. We resolved this by staging a qualified pool of approximately 700 leads across Finnish and wider European geographies. Because response acquisition was efficient and reached our preferred sample target ($N = 30$) with high participant seniority, further outreach was halted, avoiding unnecessary mass emailing in accordance with research ethics principles.
-2. **Exclusion of Supplementary Qualitative Interviews:** The original research outline considered optional semi-structured follow-up interviews. During planning, the researchers decided to proceed with the questionnaire study with 30 respondent records provides the basis for an exploratory descriptive comparison. The questionnaire did not establish whether respondents represented unique organisations. We maintained strict methodological discipline by focusing entirely on the questionnaire dataset, avoiding mixed-method dilution.
+The verified dataset establishes 30 respondent records. The available response export alone does not establish the number of unique organisations, the number of recruitment contacts, or the reason recruitment ceased. Those implementation details should only be retained if corroborated by dated recruitment records. The current analysis is based on questionnaire responses; no usable narrative text is present in the additional-insight field.
+
+
+## 4.8 Verified Data Preparation Record (5 November 2026)
+
+The source file `DATA/responses.csv` remains the unchanged record of received responses. A separate `DATA/responses-readable.csv` was created with human-readable column labels. Its optional Additional Insight column is blank because all 30 source entries were `N/A`; the source values remain intact in the original CSV. A data dictionary records field definitions, scale types, branch applicability and harmonisation rules.
+
+The response-level audit confirmed 30 records and 29 fields. Operating-model counts are 9 in-house, 12 outsourced and 9 hybrid. Branch-specific blank cells outside each respondent's selected route are structurally not applicable. No imputation or inferred responses were introduced.
+
+Cost and Total cost were deduplicated at respondent level into Cost and financial considerations (23 respondents). Control and Direct control were deduplicated into Control and operational authority (17 respondents). Raw response labels were not changed.
+
+The analysis was recalculated using applicable subgroup denominators. The resulting tables and report are in `docs/EMPIRICAL-FINDINGS-TABLES.md` and `docs/DATA-ANALYSIS-REPORT.md`. The dataset supports descriptive analysis only. It does not establish unique organisation count, objective incident rates, causal effects or statistical significance.
