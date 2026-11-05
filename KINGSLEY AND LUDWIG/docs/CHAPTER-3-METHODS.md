@@ -91,7 +91,7 @@ The sample size targets set during the thesis planning phase were:
 - **Minimum Acceptable Sample Size:** 25 usable responses ($N \ge 25$).
 - **Preferred Target Range:** 30 to 40 usable responses.
 
-These targets represent practical, defensible thresholds for exploratory academic research at the Bachelor's thesis level. The final achieved dataset contains exactly **$N = 30$ fully completed, usable responses**, meeting the preferred sample size target and satisfying the geographic distribution criteria (12 Finnish respondents, 40.0%; 18 wider European respondents, 60.0%).
+These targets represent practical, defensible thresholds for exploratory academic research at the Bachelor's thesis level. The current analysis dataset contains 30 respondent records. The questionnaire did not request respondents’ names. These records must not be described as 30 organisations because the questionnaire did not establish whether respondents represented unique organisations. Geographic distribution and data completeness must be confirmed against the finalised analysis export.
 
 ### 3.4.2 Eligibility Criteria and Survey Validity Screening
 To prevent unqualified respondents from distorting the findings, strict inclusion criteria were enforced:
@@ -141,7 +141,7 @@ flowchart TD
 The raw data exported from the survey platform underwent structured verification, cleaning, and preparation before statistical analysis.
 
 ### 3.6.1 Data Cleaning and Transformation
-1. **Structural Integrity Verification:** Upon export from the survey platform, the raw dataset was subjected to a full structural audit. Each record was validated against the 29-column schema defined in the operationalization framework. Where field alignments were inconsistent with the branching architecture of the instrument, records were systematically reconstructed to their correct column positions prior to analysis, achieving 100% field completeness across all 30 records.
+1. **Structural Integrity Verification:** Upon export from the survey platform, the raw dataset was subjected to a full structural audit. Each record was validated against the 29-column schema defined in the operationalization framework. Where field alignments were inconsistent with the branching architecture of the instrument, records were systematically reconstructed to their correct column positions prior to analysis, The final completeness assessment must distinguish fields applicable to each respondent from branch-specific fields that were not displayed. Blank cells for unvisited conditional branches are structurally not applicable, not missing answers. The final count of missing answers to questions actually presented must be reported after the researchers complete the dataset review.
 2. **Header Normalization:** Generic platform-generated question codes were replaced with the official snake_case survey variable names (`profile_id`, `country`, `internal_skill_dependency`, etc.) established in the operationalization schema (Table 3.1). Any duplicate or redundant platform fields were removed, with `operating_model` retained as the sole primary grouping variable.
 3. **Categorical Harmonization:** Primary in-house, outsourced, and hybrid risk classifications were mapped to the five conceptual risk nodes defined in the analytical framework, and failure consequences were standardized against the five theoretical impact nodes to enable direct cross-model comparison.
 4. **Data Preservation:** The original raw export was securely archived as an unmodified reference copy, while the verified, harmonized dataset was designated the frozen master analysis file and saved as [`DATA/responses.csv`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/DATA/responses.csv). Access to both files was restricted to the two student researchers in compliance with the Karelia UAS Data Management Plan.
@@ -151,13 +151,13 @@ Because the dataset comprises $N = 30$ observations, data analysis focused on ro
 - **Measures of Central Tendency and Dispersion:** For metric rating scales (`IH1`–`IH3`, `OS1`–`OS3`, `HY1`–`HY3`, `D1`–`D3`), both **Means** and **Medians** were calculated, accompanied by **Standard Deviations (SD)** and minimum/maximum ranges. Given the ordinal nature of Likert scales and potential skewness in small samples, reporting the median alongside the mean prevents over-reliance on parametric assumptions (Jamieson 2004).
 - **Frequency and Percentage Distributions:** Categorical variables (`country`, `industry`, `company_size`, `role_function`, `activity`, `operating_model`, and primary risk types) were summarized using absolute counts ($n$) and relative percentages ($n/N$), with denominators explicitly stated.
 - **Cross-Tabulations and Comparative Subgroup Analysis:** Comparative evaluations between in-house ($n=9$), outsourced ($n=12$), and hybrid ($n=9$) groups were conducted for resilience metrics (`D1`, `D2`, `D3`), consequence profiles (`D4`), and net risk effects (`E2`).
-- **Qualitative Content Analysis:** Open-ended textual insights from question E3 were reviewed and coded against core thesis themes (control, dependency, coordination, knowledge retention).
+- **Optional open-text responses:** The additional-insight field is supplementary. Qualitative content analysis will be reported only if the final dataset contains sufficient usable text and a documented coding procedure is applied. If no usable text is available, no qualitative analysis will be claimed.
 
 ---
 
 ## 3.7 Research Ethics, Data Protection, and Integrity
 
-This research was conducted in strict compliance with the ethical guidelines issued by the **Finnish National Board on Research Integrity (TENK 2019)** and the thesis regulations of **Karelia University of Applied Sciences**.
+The research was planned with reference to Karelia UAS thesis instructions and Finnish National Board on Research Integrity guidance. The thesis supervisor has given the researchers permission to proceed. No formal ethics-review decision is recorded in the project information available for this revision. Any additional review, permit or institutional determination should be described only when its status is confirmed.
 
 ### 3.7.1 Voluntary Participation and Informed Consent
 Participation in the study was entirely voluntary. Prior to starting the questionnaire, prospective respondents were presented with a formal Participant Information Notice detailing:
@@ -166,12 +166,12 @@ Participation in the study was entirely voluntary. Prior to starting the questio
 - The voluntary nature of participation, including the right to withdraw at any time prior to submission;
 - Clear instructions advising respondents not to submit confidential business secrets, intellectual property, or proprietary financial records.
 
-Submission of the completed digital form constituted informed consent.
+The consent mechanism must be described using the exact participant information and consent wording shown to respondents. Do not infer that submission alone constituted informed consent unless the final questionnaire and participant notice establish this.
 
 ### 3.7.2 Data Protection and GDPR Compliance
 In accordance with the European Union General Data Protection Regulation (GDPR) and our Data Management Plan ([`Data Management Plan 2.docx`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/Data%20Management%20Plan%202.docx)):
-- **Data Minimization:** No personal names, direct email addresses, telephone numbers, or IP addresses were collected within the survey responses.
-- **Segregation of Contact Data:** Prospective recruitment contact lists (stored in [`contacts/`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/contacts/)) were stored strictly separately from the survey response dataset ([`DATA/responses.csv`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/DATA/responses.csv)). No respondent identity can be reverse-engineered or linked to individual questionnaire responses.
+- **Data Minimization:** The questionnaire did not request respondents’ names. Any claim about collection or non-collection of email addresses, telephone numbers, IP addresses or other technical metadata must be checked against the Tally configuration and platform export.
+- **Segregation of Contact Data:** Prospective recruitment contact lists (stored in [`contacts/`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/contacts/)) were stored strictly separately from the survey response dataset ([`DATA/responses.csv`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/DATA/responses.csv)). The absence of a name field does not by itself establish complete anonymity. The researchers should assess whether combinations of country, role, industry and company-size information could indirectly identify a respondent.
 - **Data Storage and Retention:** Research data are stored securely on password-protected devices with restricted access limited solely to the two researchers. In accordance with Karelia UAS policy, research data will be securely retained until thesis assessment and grading are finalized, after which the working files will be permanently and securely deleted.
 
 ---
@@ -179,7 +179,7 @@ In accordance with the European Union General Data Protection Regulation (GDPR) 
 ## 3.8 Methodological Limitations
 
 Honest academic reporting requires acknowledging the methodological boundaries of the research:
-1. **Sample Size ($N = 30$):** While meeting the thesis planning threshold ($N \ge 25$) and providing rich comparative depth across three models ($n = 9, 12, 9$), a sample of 30 organizations is not statistically representative of all European industry. Statistical findings must be interpreted as exploratory patterns rather than generalizable population parameters.
+1. **Sample Size ($N = 30$):** While meeting the thesis planning threshold ($N \ge 25$) and providing rich comparative depth across three models ($n = 9, 12, 9$), a sample of 30 respondents is not statistically representative of all European industry. Statistical findings must be interpreted as exploratory patterns rather than generalizable population parameters.
 2. **Non-Probability Purposive Sampling:** Participants were recruited through targeted industry outreach. Although this ensured high operational expertise, purposive sampling introduces potential self-selection bias, as professionals who have experienced significant operational disruptions or make-or-buy reviews may have been more motivated to participate.
 3. **Cross-Sectional Perceptual Data:** The survey captured self-reported professional assessments at a single point in time. While practitioners' perceptions directly drive organizational decision-making, they do not constitute objective, longitudinal logs of incident frequencies or accounting costs.
 4. **Non-Causal Interpretation:** Differences observed between operating models reflect comparative distributions and structural associations. We do not claim that adopting outsourcing *causes* poorer problem detection, but rather that outsourced configurations are *associated* with structural monitoring challenges due to organizational boundaries.
