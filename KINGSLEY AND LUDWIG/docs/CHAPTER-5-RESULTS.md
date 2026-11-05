@@ -177,7 +177,7 @@ graph TD
 
 The descriptive comparison shows the following patterns in this sample:
 1. **The In-House Detection Advantage (D1):** In-house operations hold a substantial, higher mean rating in this sample in early problem detection (Mean = 7.33, Median = 7.00) over outsourced (Mean = 5.50, Median = 5.50) and hybrid arrangements (Mean = 5.56, Median = 6.00). In an in-house setting, operators and managers share the same physical floor and organizational culture, enabling early identification of minor anomalies before they escalate into major stoppages. In outsourced and hybrid environments, detection is filtered through reporting intervals, creating a communication lag.
-2. **The Hybrid Recovery Advantage (D2):** Conversely, hybrid operations demonstrate superior post-disruption recovery effectiveness (Mean = 6.22, Median = 7.00) compared to both in-house (Mean = 5.67, Median = 6.00) and outsourced operations (Mean = 5.67, Median = 5.50). One possible interpretation of this descriptive difference is that: when an operational failure occurs, hybrid organizations can deploy internal resources to stabilize critical workflows while simultaneously calling on external supplier capacity, providing a dual fallback mechanism.
+2. **Recovery ratings:** Conversely, hybrid operations recorded the highest mean recovery-effectiveness rating in this sample (Mean = 6.22, Median = 7.00) compared to both in-house (Mean = 5.67, Median = 6.00) and outsourced operations (Mean = 5.67, Median = 5.50). One possible interpretation of this descriptive difference is that: when an operational failure occurs, hybrid respondents can deploy internal resources to stabilize critical workflows while simultaneously calling on external supplier capacity, providing a dual fallback mechanism.
 3. **The Governance Hierarchy (D3):** Accountability clarity follows a descending hierarchy: In-House (Mean = 8.00) > Outsourced (Mean = 7.33) > Hybrid (Mean = 6.44). In-house arrangements benefit from unified corporate hierarchy; outsourcing relies on legally defined contract boundaries; but hybrid arrangements suffer from operational ambiguity where neither party possesses complete end-to-end accountability.
 
 ---
@@ -209,36 +209,28 @@ The response frequencies show how respondents selected potential or experienced 
 
 ## 5.7 Make-or-Buy Decision Factors (RQ5)
 
-Table 5.8 presents the ranked frequencies of criteria evaluated by organizations when making make-or-buy decisions.
+Table 5.8 presents the ranked frequencies of criteria evaluated by organizations when considering make-or-buy decisions.
 
-### Table 5.8. Frequency and Ranking of Make-or-Buy Decision Factors (`E1`, $N = 30$)
+### Table 5.8. Harmonised Make-or-Buy Decision Factors (E1, N = 30)
 
-| Rank | Decision Factor | Frequency ($n$) | Percentage of Sample ($N=30$) | Primary Theoretical Domain |
-| :---: | :--- | :---: | :---: | :--- |
-| **1** | Quality or performance | 18 | 60.0% | Operations Management / RBV |
-| **2** | Continuity or resilience | 15 | 50.0% | Resilience Theory / Risk Governance |
-| **3** | Total cost | 14 | 46.7% | Transaction Cost Economics (TCE) |
-| **4** | Direct control | 13 | 43.3% | Agency Theory / Governance |
-| **5** | Access to specialist skills | 12 | 40.0% | Resource-Based View (RBV) |
-| **6** | Flexibility or scalability | 10 | 33.3% | Dynamic Capabilities |
-| **7** | Cost (direct purchase price) | 9 | 30.0% | Neoclassical Microeconomics |
-| **8** | Risk or regulatory requirements | 7 | 23.3% | Institutional / Compliance Theory |
-| **9** | Speed of implementation | 6 | 20.0% | Operational Strategy |
-| **10** | Strategic importance / Core capability | 4 | 13.3% | Core Competence (Prahalad & Hamel) |
-| **10** | Control (supervisory oversight) | 4 | 13.3% | Management Control Systems |
-| **10** | Other | 4 | 13.3% | Contextual Factors |
-| **13** | Supplier availability | 3 | 10.0% | Resource Dependence Theory |
-| **14** | Supply chain risks | 1 | 3.3% | Supply Network Risk |
-*Note:* Multi-selection question across $N = 30$. When aggregating financial categories (Total cost + direct Cost), cost considerations appear in 76.7% of responses ($n = 23$).
+| Harmonised decision factor | Frequency | Percentage |
+|---|---:|---:|
+| Quality or performance | 18 | 60.0% |
+| Continuity or resilience | 15 | 50.0% |
+| Cost and financial considerations | [RECALCULATE UNIQUE RESPONDENTS] | [PENDING] |
+| Control and operational authority | [RECALCULATE UNIQUE RESPONDENTS] | [PENDING] |
+| Access to specialist skills | 12 | 40.0% |
+| Flexibility or scalability | 10 | 33.3% |
+| Risk or regulatory requirements | 7 | 23.3% |
+| Speed of implementation | 6 | 20.0% |
+| Strategic importance or core capability | 4 | 13.3% |
+| Other | 4 | 13.3% |
+| Supplier availability | 3 | 10.0% |
+| Supply chain risks | 1 | 3.3% |
 
-The ranking reveals that while cost remains a baseline threshold (76.7% combined), modern industrial make-or-buy decisions are predominantly driven by **operational performance and business resilience**:
-- **Quality and Performance (60.0%)** ranks as the single most critical factor, outweighing short-term purchase price savings.
-- **Continuity and Resilience (50.0%)** ranks second, highlighting that post-pandemic supply chain vulnerabilities have elevated business continuity to executive decision criteria.
-- **Direct Control (43.3%)** and **Specialist Skills (40.0%)** reflect the central strategic trade-off: organizations internalize when direct control is vital, and outsource when internal skill acquisition is economically unfeasible.
+*Note:* E1 is a multi-select item. The original labels Cost and Total cost are combined as Cost and financial considerations. Control and Direct control are combined as Control and operational authority. Each respondent must be counted once per combined category, even if both original labels were selected. The combined frequencies and percentages remain pending a unique-respondent count from the response-level dataset. Original labels must be retained in the raw data.
 
----
-
-## 5.8 Net Strategic Business Risk Redistribution: The Risk Trade-off Dynamic (RQ2)
+The available category totals cannot be added safely unless overlap between the original options has been checked. The cost category must not be reported as 76.7%, nor the control category as 56.7%, until unique respondent counts have been verified.## 5.8 Net Strategic Business Risk Redistribution: The Risk Trade-off Dynamic (RQ2)
 
 Table 5.9 displays the cross-tabulation of operating models against respondents' overall assessment of how their operating model affected company risk.
 
