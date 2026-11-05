@@ -2,7 +2,7 @@
 ## A Comparative Analysis of How In-House and Outsourced Operations Affect a Company’s Risk Profile
 **Academic Institution:** Karelia University of Applied Sciences (Karelia UAS)  
 **Dataset Reference:** [`DATA/responses.csv`](file:///c:/Users/Sav-Dev/Documents/research-validation-tables/BSC-STUDENT-RESEARCH/KINGSLEY%20AND%20XXX/DATA/responses.csv)  
-**Sample Size:** $N = 30$ qualified organizational respondents  
+**Sample Size:** $N = 30$ respondents  
 **Date of Analysis:** 30 October 2026  
 **Document Purpose:** Context and statistical documentation for thesis drafting (Chapters 3, 4, 5, and 6)
 
@@ -10,15 +10,9 @@
 
 ## 1. Executive Summary
 
-This report documents the statistical and qualitative analysis of the $N = 30$ dataset collected for the Karelia UAS Bachelor's thesis. The dataset evaluates operational risks, strategic and business risks, governance arrangements, and resilience across three operating models: **predominantly in-house** ($n = 9$, 30.0%), **predominantly outsourced** ($n = 12$, 40.0%), and **hybrid arrangements** ($n = 9$, 30.0%).
+This report documents the descriptive analysis of 30 questionnaire respondent records. The current grouping is predominantly in-house (n = 9), predominantly outsourced (n = 12) and hybrid (n = 9). The findings describe assessments reported by these respondents and should not be generalised to the wider population.
 
-### Key Analytical Findings:
-1. **Operating Models Change Risk Structure Rather than Absolute Risk**: 73.3% of respondents ($n = 22$) reported that their operating model resulted in a risk trade-off (*"Some risks decreased while others increased"*), while 26.7% ($n = 8$) reported that risks generally increased. Strikingly, 100% of hybrid respondents reported risk trade-offs, confirming that hybrid structures distribute exposure rather than eliminating it.
-2. **Early Detection Asymmetry (RQ4)**: In-house operations exhibit noticeably higher problem detection capability (Mean = 7.33, Median = 7.00 on a 1–10 scale) compared to outsourced (Mean = 5.50, Median = 5.50) and hybrid operations (Mean = 5.56, Median = 6.00). Direct internal supervision facilitates earlier identification of emerging operational defects before disruption occurs.
-3. **Recovery Resilience Divergence (RQ4)**: Hybrid operations demonstrate the highest recovery effectiveness after disruption (Mean = 6.22, Median = 7.00) compared to both in-house (Mean = 5.67, Median = 6.00) and outsourced arrangements (Mean = 5.67, Median = 5.50). Dual internal-external operational capabilities provide enhanced recovery flexibility.
-4. **Accountability and Governance Interfaces (RQ3)**: Accountability clarity is highest in in-house operations (Mean = 8.00, Median = 8.00), followed by outsourced operations (Mean = 7.33, Median = 7.50, governed by explicit contracts/SLAs). Hybrid operations report the lowest accountability clarity (Mean = 6.44, Median = 6.00), driven by organizational boundary ambiguity and split responsibilities.
-5. **Consequence Pathways (RQ1)**: `Operational Disruption` is pervasive across all models (90.0% of all respondents). However, secondary impacts diverge sharply: in-house operations are prone to `Knowledge Loss` (55.6%) and `Safety or compliance consequences` (33.3%), whereas outsourced operations experience `Customer or reputation damage` (91.7%) and `Contract Hold-up` (25.0%). Hybrid operations exhibit the highest incidence of `Workflow Breakdown` (77.8%), validating the theoretical link between split responsibilities and interface coordination failure.
-6. **Make-or-Buy Decision Drivers (RQ5)**: Quality and performance (60.0%), business continuity/resilience (50.0%), total cost (46.7%), and direct control (43.3%) constitute the dominant criteria in make-or-buy decisions, surpassing speed of implementation (20.0%) and short-term vendor availability (10.0%).
+The main descriptive patterns concern internal skill dependency, external provider dependency, hybrid responsibility clarity, common problem-detection and recovery ratings, reported failure consequences, and make-or-buy decision factors. The dataset is cross-sectional and based on self-reported assessments. It does not establish causal effects or objective incident rates. The additional-insight open-text field is supplementary; qualitative findings should be included only if usable text responses are present and a documented coding process is completed.
 
 ---
 
@@ -172,28 +166,14 @@ Respondents selected all significant consequences experienced or anticipated upo
 
 ---
 
-## 6. Make-or-Buy Decision Factors ($E1$) (RQ5)
+## 6. Make-or-Buy Decision Factors (E1) (RQ5)
 
-Frequencies of factors considered in make-or-buy decisions across $N = 30$:
+The original questionnaire labels are harmonised for analysis as follows:
 
-| Decision Factor (E1) | Frequency ($n$) | Percentage of Sample ($N=30$) | Primary Theoretical Lens |
-| :--- | :---: | :---: | :--- |
-| **Quality or performance** | 18 | 60.0% | Operations Management / RBV |
-| **Continuity or resilience** | 15 | 50.0% | Resilience Theory / Risk Management |
-| **Cost / Total cost** | 23 | 76.7% | Transaction Cost Economics (TCE) |
-| **Direct control / Control** | 17 | 56.7% | Agency Theory / Governance |
-| **Access to specialist skills** | 12 | 40.0% | Resource-Based View (RBV) |
-| **Flexibility or scalability** | 10 | 33.3% | Dynamic Capabilities |
-| **Risk or regulatory requirements** | 7 | 23.3% | Institutional / Compliance Theory |
-| **Speed of implementation** | 6 | 20.0% | Operations Strategy |
-| **Strategic importance / Core capability**| 4 | 13.3% | Core Competence Perspective (Prahalad & Hamel) |
-| **Supplier availability** | 3 | 10.0% | Resource Dependence Theory |
-| **Supply chain risks** | 1 | 3.3% | Supply Network Risk |
-| **Other** | 4 | 13.3% | Contextual Factors |
+- Cost and Total cost are combined as **Cost and financial considerations**. Count each respondent once if either or both labels were selected. The reported frequencies (9 and 14) produce 23 (76.7%) only if there is no overlap; otherwise recalculate unique respondents from the response-level data.
+- Control and Direct control are combined as **Control and operational authority**. Count each respondent once if either or both labels were selected. The reported frequencies (4 and 13) produce 17 (56.7%) only if there is no overlap; otherwise recalculate unique respondents from the response-level data.
 
-Cost (76.7% combined), quality/performance (60.0%), direct control (56.7%), and continuity (50.0%) represent the core quartet of make-or-buy decision determinants.
-
----
+Retain original labels in the raw data and document the mapping in the codebook. Do not treat these multi-select factors as ratings of control effectiveness or actual expenditure.
 
 ## 7. Perceived Net Effect on Business Risk ($E2$) (RQ2)
 
