@@ -39,7 +39,7 @@ Our empirical findings contribute a crucial insight to agency governance regardi
 
 ## 6.2 The Comparative Risk Framework
 
-To answer RQ5 and provide an evidence-based output for organizational decision-makers, we synthesized the empirical findings and theoretical insights into the **Comparative Risk Framework**.
+To address RQ5 and provide an evidence-based output for organizational decision-makers, we synthesized the empirical findings and theoretical insights into the **Comparative Risk Framework**.
 
 ```mermaid
 graph LR
@@ -158,5 +158,5 @@ This Bachelor's thesis set out to investigate how in-house, outsourced, and hybr
 The empirical findings from $N = 30$ European organizational respondents, synthesized through Transaction Cost Economics, the Resource-Based View, Resource Dependence Theory, and Agency Theory, provide a sample-specific descriptive response to the research questions:
 
 1. **No Operating Model is Inherently "Lower Risk":** Operating models do not eliminate risk; they alter its structure, location, and transmission pathways. In-house operations secure higher reported internal-control rating (Mean = 7.89) and earlier problem detection (Mean = 7.33), but concentrate risk internally, creating acute vulnerability to staff shortages (55.6%) and single-point skill loss (44.4%). Outsourced operations eliminate internal labor and capital constraints, but introduce heavy supplier dependency (Mean = 8.00), a substantial difference in reported monitoring ratings (Mean = 5.75), switching barriers, and severe reputation exposure (91.7%). Hybrid operations maximize recovery flexibility (Mean = 6.22), but suffer from blurred accountability (Mean = 6.44), information friction, and near-universal coordination failure risk (100.0%).
-2. **The Risk Trade-off Dynamic is Universal:** Nearly three-quarters (73.3%) of all organizations—and all nine respondents in the hybrid subgroup—confirmed that operating model choices represent a fundamental trade-off: *some risks decrease while others increase.*
+2. **The Risk Trade-off Dynamic is Universal:** Nearly three-quarters (73.3%) of all respondents selected the response option that some risks decreased while others increased; this describes their reported perceptions and does not establish a universal effect: *some risks decrease while others increase.*
 3. **The Strategic Imperative:** Sustainable competitive advantage does not stem from dogmatically internalizing or outsourcing every activity. It depends on aligning the operating model with the activity's strategic criticality, implementing proactive monitoring to bridge organizational boundaries, and maintaining the internal capabilities necessary to retain operational resilience under disruption.
