@@ -50,7 +50,7 @@ Table 5.1 details the demographic and contextual characteristics of the responde
 | | Supply chain or logistics | 2 | 6.7% |
 *Note:* Total sample size $N = 30$. Percentages may not sum to 100.0% due to rounding.
 
-The geographic distribution in the current dataset is: 12 respondents (40.0%) represent Finnish enterprises, while 18 respondents (60.0%) represent wider European respondents across the Nordic region, Western Europe, Southern Europe, and Central Europe. In terms of enterprise scale, 90.0% of respondents belong to the mid-sized (50–249 employees, 40.0%) and upper-medium bands (250–999 employees, 50.0%), representing companies that actively manage formal operating model allocations. The familiarity responses describe respondents’ self-reported involvement in the assessed activity. They are not independent verification of role seniority or data authenticity.
+The geographic distribution in the current dataset is: 12 respondents (40.0%) represent Finnish enterprises, while 18 respondents (60.0%) represent wider European respondents across the Nordic region, Western Europe, Southern Europe, and Central Europe. In terms of enterprise scale, 90.0% of respondents belong to the mid-sized (50–249 employees, 40.0%) and upper-medium bands (250–999 employees, 50.0%), describing the reported size profile of respondents’ organisations. The familiarity responses describe respondents’ self-reported involvement in the assessed activity. They are not independent verification of role seniority or data authenticity.
 
 Table 5.2 illustrates the distribution of operating models across the assessed operational activities.
 
@@ -209,7 +209,7 @@ The response frequencies show how respondents selected potential or experienced 
 
 ## 5.7 Make-or-Buy Decision Factors (RQ5)
 
-Table 5.8 presents the ranked frequencies of criteria evaluated by organizations when considering make-or-buy decisions.
+Table 5.8 presents harmonised frequencies of decision factors selected by respondents when considering make-or-buy decisions.
 
 ### Table 5.8. Harmonised Make-or-Buy Decision Factors (E1, N = 30)
 
@@ -230,9 +230,9 @@ Table 5.8 presents the ranked frequencies of criteria evaluated by organizations
 
 *Note:* E1 is a multi-select item. The original labels Cost and Total cost are combined as Cost and financial considerations. Control and Direct control are combined as Control and operational authority. Each respondent must be counted once per combined category, even if both original labels were selected. The combined frequencies and percentages remain pending a unique-respondent count from the response-level dataset. Original labels must be retained in the raw data.
 
-The available category totals cannot be added safely unless overlap between the original options has been checked. The cost category must not be reported as 76.7%, nor the control category as 56.7%, until unique respondent counts have been verified.## 5.8 Net Strategic Business Risk Redistribution: The Risk Trade-off Dynamic (RQ2)
+The available category totals cannot be added safely unless overlap between the original options has been checked. The cost category must not be reported as 76.7%, nor the control category as 56.7%, until unique respondent counts have been verified.## 5.8 Respondents’ Overall Assessment of Risk Effect (E2)
 
-Table 5.9 displays the cross-tabulation of operating models against respondents' overall assessment of how their operating model affected company risk.
+Table 5.9 displays a supplementary descriptive cross-tabulation of operating model against respondents’ overall assessment of how the arrangement affected risk. E2 is not a direct measure of objective risk and is not the primary measure for any single supporting research question.
 
 ### Table 5.9. Operating Model by Perceived Net Effect on Business Risk (`E2`, $N = 30$)
 
