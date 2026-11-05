@@ -1,187 +1,108 @@
-# Chapter 6: Discussion and Conclusions
+# Chapter 6: Discussion
 
-## 6.1 Theoretical Synthesis and Interpretation of Findings
+## 6.1 Introduction
 
-This study set out to answer a central research question: **How do in-house and outsourced operations affect a company's operational and strategic/business risk profile?** By examining empirical evidence collected from $N = 30$ industrial and technical respondents across Europe alongside established organizational theories, our findings demonstrate that operating models do not determine whether a company has high or low risk in an absolute sense. Rather, **the choice of operating model acts as a structural redistribution mechanism that transforms the location, nature, and governance of organizational risk.**
+This chapter interprets the descriptive findings in relation to the study's research questions and theoretical knowledge base. The analysis concerns the operating model used for a specific activity assessed by each respondent. It does not establish the operating model of the respondent's entire organisation.
 
-In this section, we interpret our empirical findings through the four core theoretical lenses established in our Knowledge Base: Transaction Cost Economics, the Resource-Based View, Resource Dependence Theory, and Agency Theory.
+The response export contains 30 records: 9 predominantly in-house, 12 predominantly outsourced and 9 hybrid. The sample is purposive, non-probability and cross-sectional. The results are self-reported assessments. They do not establish causal effects, objective incident rates or population-level estimates.
 
-### 6.1.1 Transaction Cost Economics (TCE): The Hidden Costs of External Governance
-Transaction Cost Economics (Williamson 2008) asserts that firms choose governance structures to economize on transaction costs, which encompass searching, contracting, monitoring, and dispute resolution. TCE predicts that when an activity involves specialized assets or environmental uncertainty, market procurement creates contractual vulnerabilities.
+## 6.2 Discussion of the Research Questions
 
-Our empirical findings strongly substantiate and extend TCE in three distinct ways:
-1. **The Monitoring Deficit:** Outsourced operators reported a supplier monitoring effectiveness mean of only 5.75 out of 10, compared to 7.89 for direct in-house control—a substantial 2.14-point governance gap. While companies may achieve apparent accounting savings through lower unit prices from external vendors, they incur significant post-contractual governance frictions. Managing information asymmetry and enforcing service-level agreements (SLAs) imposes continuous coordination overhead.
-2. **Contract Hold-up Vulnerabilities:** Contract Hold-up was cited by 25.0% of outsourced operators and 33.3% of hybrid operators as a significant failure consequence (Table 5.7). When unforeseen operational changes occur, rigid contractual specifications restrict rapid adjustments, exposing buying firms to opportunistic price renegotiations or service delays.
-3. **Make-or-Buy Multi-Dimensionality:** While TCE historically focused on cost minimization, our make-or-buy analysis (Table 5.8) revealed that *Quality or performance* (60.0%) and *Continuity or resilience* (50.0%) outranked *Total cost* (46.7%) and direct *Cost* (30.0%). Modern industrial enterprises recognize that transaction-cost economizing is secondary to operational continuity; a minor price saving is instantly erased if a supplier failure halts core production.
+### 6.2.1 RQ1: What operational and strategic risks are associated with in-house operations?
 
-### 6.1.2 Resource-Based View (RBV): Knowledge Retention and Human Asset Vulnerability
-The Resource-Based View (Espino-Rodríguez & Padrón-Robaina 2006; McIvor 2009) views the firm as a bundle of unique, valuable, and non-substitutable resources. Strategic capabilities reside within organizational routines, employee competencies, and proprietary technological assets.
+The in-house subgroup reported a mean internal skill-dependency rating of 8.89/10 and a mean internal resource disruption-impact rating of 9.00/10. Five of the nine respondents selected Staff Shortage Risk, while four selected Single-Point Skill Risk. Operational disruption was selected as a possible failure consequence by all nine respondents, and knowledge loss was selected by five.
 
-Our empirical findings illustrate the dual-edged nature of internal capabilities:
-1. **The In-House Dependency Paradox:** While in-house operations protect intellectual property and foster direct operational control (Mean = 7.89), they create intense internal human-capital vulnerabilities. In-house respondents reported near-maximal internal skill dependency (Mean = 8.89) and resource disruption severity (Mean = 9.00). Furthermore, 44.4% identified `Single-Point Skill Risk` as their foremost threat, and 55.6% reported `Knowledge Loss` upon disruption. When specialized tacit knowledge resides in the minds of a few senior technicians rather than standardized digital systems, in-house operations face critical operational fragility.
-2. **Capability Drainage in Outsourcing:** In the structured consequence responses, 33.3% of outsourced respondents selected `Knowledge Loss`. As organizations transfer operational execution to external providers over extended periods, internal technical mastery gradually atrophies—a phenomenon described by Hoecht and Trott (2006) as capability erosion. Once internal diagnostic competence is lost, the buying firm loses the absorptive capacity needed to evaluate vendor performance, deepening dependence.
+These results indicate that the respondents assessing in-house activities perceived reliance on internal personnel and the consequences of resource disruption as important vulnerabilities. This is consistent with the resource-based perspective that internal capabilities and knowledge are organisational assets, while also highlighting the concentration of responsibility that accompanies internal execution (Espino-Rodríguez & Padrón-Robaina 2006; Hoecht & Trott 2006).
 
-### 6.1.3 Resource Dependence Theory: Power Asymmetry and Switching Barriers
-Resource Dependence Theory (Su et al. 2014) posits that organizational vulnerability stems from reliance on critical resources controlled by external actors. An organization's risk exposure increases when external suppliers are non-substitutable, market alternatives are scarce, and switching costs are high.
+The results do not show that the organisations experienced actual staffing shortages or that in-house operations produced more incidents. They describe perceived exposure within this subgroup.
 
-The observed pattern is consistent with these resource-dependence dynamics:
-1. **Elevated Supplier Reliance:** Outsourced operations recorded a supplier dependency mean of 8.00 and a disruption severity mean of 8.33 out of 10. External provider failure results in catastrophic operational stoppage because the buying firm no longer maintains internal redundant capacity.
-2. **Constrained Switching Flexibility:** Provider replacement ease achieved a modest mean of 3.25 on a 1–5 scale (where 1 = very difficult). Furthermore, 33.3% of outsourced firms designated `Single Supplier Risk` (vendor capacity scarcity and lock-in) as their primary operational hazard. When critical activities are outsourced to specialized oligopolistic markets, power shifts toward the vendor, leaving the buying firm vulnerable to supply shocks and price escalations.
+### 6.2.2 RQ2: What operational and strategic risks are associated with outsourced operations?
 
-### 6.1.4 Agency Theory & Governance: Boundary Friction in Hybrid Models
-Agency Theory (Tsay et al. 2018) analyzes relationships where a principal delegates work to an agent whose goals, incentives, and information access may diverge. Effective agency governance relies on clear accountability, transparent performance metrics, and outcome monitoring.
+The outsourced subgroup reported mean supplier dependency of 8.00/10 and mean supplier disruption impact of 8.33/10. Supplier monitoring effectiveness averaged 5.75/10, while ease of replacing a provider averaged 3.25/5. Eight of the 12 respondents selected Supplier Performance Risk and four selected Single Supplier Risk. Customer or reputation damage was selected by 11 of the 12 respondents.
 
-Our empirical findings contribute a crucial insight to agency governance regarding **hybrid operating arrangements**:
-1. **The Accountability Grey Zone:** While in-house operations maintain high accountability clarity (Mean = 8.00) through unified hierarchical command, and outsourcing maintains moderate clarity (Mean = 7.33) via formal legal contracts, **hybrid arrangements exhibit the lowest accountability clarity (Mean = 6.44)**. In hybrid models, operational boundaries are blurred. When service delivery is split between internal employees and external contractor teams, establishing culpability for intermediate errors becomes challenging.
-2. **Interface Coordination Failure:** All hybrid respondents (100.0%, $n = 9$) designated `Coordination Failure Risk` as their primary structural vulnerability. Furthermore, `Workflow Breakdown` was reported by 77.8% of hybrid respondents—by far the highest incidence across any model (Table 5.7). This pattern may be considered alongside the hybrid group’s mean information-sharing rating of 5.56. The questionnaire does not identify specific communication systems or establish that these factors caused handoff failures.
+The pattern is consistent with transaction cost and resource dependence perspectives: reliance on an external provider can create switching constraints, monitoring requirements and exposure to supplier-side disruption (Williamson 2008; Lockamy & McCormack 2010). The results support discussion of these mechanisms, but do not demonstrate supplier failure, contractual lock-in or realised financial loss in the participating organisations.
 
----
+Outsourcing should not be described as eliminating the client's internal resource requirements. It changes which resources are directly provided by the client and increases the importance of retained contract-management, technical oversight, monitoring and continuity capabilities.
 
-## 6.2 Response to the Research Questions
+### 6.2.3 RQ3: How do control, monitoring and accountability differ across in-house, outsourced and hybrid operations?
 
-The discussion is organised around the five definitive supporting research questions:
+The questionnaire measured different constructs in the three branches: internal control effectiveness for in-house activities, supplier monitoring effectiveness for outsourced activities, and responsibility clarity, cross-boundary information and handoff effectiveness for hybrid activities. These measures are related to governance, but they are not interchangeable. A direct numerical ranking of the three models on a single “control” scale would therefore be invalid.
 
-1. **RQ1 – In-house risks:** The in-house subgroup reported high internal skill dependency and high perceived disruption difficulty if key staff were unavailable. Respondents also selected staff shortage and single-point skill dependency as primary concerns. These findings describe perceived vulnerabilities in the assessed activities.
-2. **RQ2 – Outsourced risks:** The outsourced subgroup reported provider dependency, perceived disruption severity and monitoring effectiveness ratings. Supplier performance and single-supplier dependency were selected as primary concerns. These results describe the assessments of the 12 respondents in this subgroup.
-3. **RQ3 – Control, monitoring and accountability:** The questionnaire measured internal control, supplier monitoring, hybrid responsibility clarity, information sharing, handoffs and common accountability clarity. These are related but non-identical constructs and should be compared descriptively rather than combined into a single control score.
-4. **RQ4 – Dependencies, continuity, response and recovery:** Internal and external dependency ratings, disruption assessments, problem detection, recovery effectiveness and selected failure consequences provide descriptive evidence about the issues respondents associate with continuity and recovery. They do not measure actual incident rates or recovery times.
-5. **RQ5 – Make-or-buy factors:** Respondents selected multiple factors. Cost and Total cost must be counted once per respondent as Cost and financial considerations; Control and Direct control must be counted once per respondent as Control and operational authority. The harmonised counts remain subject to response-level deduplication.
+The hybrid subgroup reported mean responsibility clarity of 5.56/10, cross-boundary information effectiveness of 5.56/10 and handoff effectiveness of 6.11/10. All nine respondents selected Coordination Failure Risk as the primary hybrid risk. The common accountability-clarity rating averaged 8.00/10 for in-house, 7.33/10 for outsourced and 6.44/10 for hybrid respondents.
 
-E2, the overall perceived risk-effect item, is reported as a supplementary cross-model result. It should not be presented as a direct test of any single supporting research question.
+These descriptive results suggest that respondents assessing hybrid activities perceived boundary coordination and role clarity as areas requiring attention. The nine-of-nine selection is unanimous within this subgroup only; it should not be generalised to all hybrid operations. The results do not identify the specific coordination mechanisms or establish that weaker information ratings caused failures.
 
-## 6.3 The Comparative Risk Framework
+### 6.2.4 RQ4: How do internal resource and external provider dependencies affect continuity, response and recovery?
 
-To synthesise the findings relevant to RQ1–RQ5, we present the **Comparative Risk Framework** as an organising summary. It is a researcher-developed interpretation of the concepts and descriptive results, not a statistically tested model or a validated decision tool.
+The in-house group reported high internal skill dependency and high perceived disruption impact. The outsourced group reported high supplier dependency and supplier disruption impact. The common recovery-effectiveness rating was 5.67/10 in both the in-house and outsourced groups and 6.22/10 in the hybrid group. Problem-detection effectiveness averaged 7.33/10, 5.50/10 and 5.56/10 respectively.
 
-```mermaid
-graph LR
-    subgraph OM[Operating Model Allocation]
-        IH[Predominantly In-House]
-        OS[Predominantly Outsourced]
-        HY[Hybrid / Combination]
-    end
+The ratings suggest different perceived dependency and response conditions across the respondent groups. However, D1 and D2 are subjective effectiveness ratings. They do not measure elapsed detection or recovery time. The observed differences cannot establish that an operating model caused better or worse continuity outcomes.
 
-    subgraph RC[Resource & Control Configuration]
-        IH -->|Internal Assets| RC_IH[Direct Internal Control<br/>Mean: 7.89 / 10]
-        OS -->|External Assets| RC_OS[Contractual SLA Monitoring<br/>Mean: 5.75 / 10]
-        HY -->|Shared Assets| RC_HY[Dual Split Responsibilities<br/>Clarity: 5.56 / 10]
-    end
+Transaction Cost Economics helps explain the importance of switching costs and continuity in buyer–supplier relationships, while Resource Dependence Theory helps explain why dependence on a critical external provider can constrain the client's response options. These theoretical perspectives provide an interpretation of the reported pattern, not proof of the mechanisms in each respondent's organisation (Williamson 2008; Lockamy & McCormack 2010).
 
-    subgraph Vuln[Primary Structural Vulnerability]
-        RC_IH --> V_IH[Staff Shortage & Single-Point Skill<br/>Disruption Impact: 9.00 / 10]
-        RC_OS --> V_OS[Supplier Performance & Lock-in<br/>Disruption Impact: 8.33 / 10]
-        RC_HY --> V_HY[Coordination Failure Risk<br/>100% Group Consensus]
-    end
+### 6.2.5 RQ5: What factors influence the choice and continued use of an in-house, outsourced or hybrid operating model?
 
-    subgraph Imp[Dominant Failure Impact Pathways]
-        V_IH --> I_IH[Operational Disruption 100%<br/>Knowledge Loss 55.6%<br/>Safety / Compliance 33.3%]
-        V_OS --> I_OS[Reputation Damage 91.7%<br/>Operational Disruption 75.0%<br/>Contract Hold-up 25.0%]
-        V_HY --> I_HY[Workflow Breakdown 77.8%<br/>Operational Disruption 100%<br/>Contract Hold-up 33.3%]
-    end
+Cost and financial considerations were selected by 23 respondents (76.7%), quality or performance by 18 (60.0%), and control and operational authority by 17 (56.7%). Continuity or resilience was selected by 15 respondents (50.0%), while access to specialist skills was selected by 12 (40.0%).
 
-    subgraph Res[Resilience & Residual Risk Profile]
-        I_IH --> R_IH[High Early Detection: 7.33<br/>Moderate Recovery: 5.67<br/>Accountability: 8.00]
-        I_OS --> R_OS[Moderate Detection: 5.50<br/>Moderate Recovery: 5.67<br/>Accountability: 7.33]
-        I_HY --> R_HY[Moderate Detection: 5.56<br/>High Recovery: 6.22<br/>Accountability: 6.44]
-    end
-```
+The results indicate that respondents considered several factors when making or evaluating make-or-buy decisions. Cost was the most frequently selected factor, but the multi-select question does not measure the relative weight of each factor or establish which factor determined the final operating model. The findings are consistent with the view that outsourcing decisions involve both transaction costs and capability considerations (Espino-Rodríguez & Padrón-Robaina 2006; Williamson 2008).
 
-The Comparative Risk Framework structures the multi-dimensional risk trade-offs between the three operating arrangements. Table 6.1 details the comparative matrix across all operational and strategic risk dimensions evaluated in this research.
+## 6.3 Comparative Interpretation
 
-### Table 6.1. The Comparative Risk Profile Matrix
+The results do not support a universal ranking of in-house, outsourced and hybrid arrangements from lowest to highest risk. Each subgroup reported a different set of dependencies and governance concerns:
 
-| Dimension of Comparison | Predominantly In-House ($n = 9$) | Predominantly Outsourced ($n = 12$) | Hybrid / Combination ($n = 9$) |
-| :--- | :--- | :--- | :--- |
-| **Resource Configuration** | Dedicated internal capital, equipment, and human labor; high fixed overhead. | External third-party resources and infrastructure; variable cost structure. | Shared configuration; core internal assets coupled with external service capacity. |
-| **Control Distribution** | Direct physical and hierarchical supervision (Mean = 7.89 / 10). | Contractual SLA and audit-based monitoring (Mean = 5.75 / 10). | Split control; internal strategic oversight with external tactical execution. |
-| **Dominant Dependency** | Internal key-person dependency (Mean = 8.89 / 10); skill concentration. | External vendor dependency (Mean = 8.00 / 10); single supplier exposure. | Inter-organizational interface dependency; mutual reliance. |
-| **Primary Structural Vulnerability** | **Staff Shortage Risk (55.6%)**<br/>**Single-Point Skill Risk (44.4%)** | **Supplier Performance Risk (66.7%)**<br/>**Single Supplier Risk (33.3%)** | **Coordination Failure Risk (100.0%)** |
-| **Problem Detection Speed (`D1`)** | **Superior early detection (7.33 / 10)**; unmediated floor visibility. | **Lagged detection (5.50 / 10)**; filtered through formal reporting intervals. | **Lagged detection (5.56 / 10)**; cross-boundary information friction. |
-| **Disruption Recovery Efficacy (`D2`)** | **Moderate recovery (5.67 / 10)**; constrained by internal staffing buffers. | **Moderate recovery (5.67 / 10)**; dependent on vendor contractual priority. | **Superior recovery (6.22 / 10)**; dual fallback flexibility. |
-| **Accountability Clarity (`D3`)** | **High clarity (8.00 / 10)**; unified corporate hierarchy. | **Good clarity (7.33 / 10)**; formalized legal contract boundaries. | **Low clarity (6.44 / 10)**; blurred inter-firm responsibility grey zones. |
-| **Failure Consequences (`D4`)** | Operational downtime (100.0%), Knowledge loss (55.6%), Safety/compliance (33.3%). | Brand/reputation damage (91.7%), Operational downtime (75.0%), Hold-up (25.0%). | Workflow breakdown (77.8%), Operational downtime (100.0%), Hold-up (33.3%). |
-| **Scalability & Switching (`IH4`/`OS4`)** | Moderate internal scalability (3.89 / 5); capital/hiring lag. | Moderate switching ease (3.25 / 5); contract and technical re-onboarding costs. | Dynamic capacity; internal baseline with elastic external burst capacity. |
-| **Net Business Risk Effect (`E2`)** | **Trade-off: 66.7%**<br/>Net increase: 33.3% | **Trade-off: 58.3%**<br/>Net increase: 41.7% | **Trade-off: 100.0%**<br/>Net increase: 0.0% |
+| Dimension | In-house pattern | Outsourced pattern | Hybrid pattern |
+|---|---|---|---|
+| Main dependency reported | Internal skills (mean 8.89/10) | External supplier (mean 8.00/10) | Shared responsibility and interfaces |
+| Primary risk selected | Staff shortage (5/9) | Supplier performance (8/12) | Coordination failure (9/9) |
+| Disruption impact | Internal resource disruption mean 9.00/10 | Supplier disruption mean 8.33/10 | Not measured with the same branch-specific item |
+| Governance measure | Internal control effectiveness 7.89/10 | Supplier monitoring effectiveness 5.75/10 | Responsibility clarity 5.56/10; information 5.56/10; handoffs 6.11/10 |
+| Recovery effectiveness | 5.67/10 | 5.67/10 | 6.22/10 |
 
----
+The branch-specific measures are not identical and should not be treated as a common scale. For example, internal control effectiveness and supplier monitoring effectiveness measure different governance arrangements. Their numerical difference cannot be interpreted as a direct “control gap”.
 
-## 6.4 Managerial Implications for Industrial Decision-Makers
+The common measures allow a limited descriptive comparison. The in-house subgroup had the highest mean problem-detection rating, while the hybrid subgroup had the highest mean recovery-effectiveness rating. Given the small, non-random subgroups and the perceptual nature of the ratings, these differences should be treated as descriptive observations rather than evidence of model superiority.
 
-The findings may inform questions managers consider when reviewing make-or-buy decisions. They should not be treated as universal prescriptions because the sample is small, purposive and based on self-reported assessments.
+## 6.4 Theoretical Implications
 
-### 6.4.1 Considering More Than Direct Purchase Price in Make-or-Buy Decisions
-The results suggest that respondents considered several factors beyond direct purchase price when assessing operating arrangements. Operating model selection must be evaluated through total cost of ownership (TCO) and multi-attribute risk governance:
-1. **Factor in the Monitoring Overhead:** Outsourced operations suffer a 2.14-point monitoring effectiveness drop. Decision-makers must budget explicitly for the internal managerial time, quality auditing, and contract administration required to govern external providers. Seemingly low vendor bids frequently conceal substantial monitoring transaction costs.
-2. **Prioritize Continuity and Detection Velocity:** Early problem detection in outsourcing is 1.83 points lower than in-house execution. For mission-critical activities where a single hour of unplanned downtime causes severe financial or customer loss (e.g. core assembly, vital IT infrastructure), the detection advantage of in-house execution often justifies higher internal fixed costs.
-3. **Recognize Non-Transferable Reputation Risk:** Customer and reputation damage was selected by 91.7% of respondents in the outsourced subgroup. While contracts can penalize suppliers financially, end-customers hold the client firm responsible for quality defects and delivery delays. Legal risk transfer does not equal brand risk reduction.
+The findings can be interpreted through the theoretical perspectives introduced in Chapter 2.
 
-### 6.4.2 Risk Considerations by Operating Model
+**Transaction Cost Economics.** The supplier dependency, monitoring and provider-replacement ratings are relevant to transaction costs and governance. Williamson (2008) explains how asset specificity and bilateral dependency can affect the choice between market, hybrid and hierarchical governance. The questionnaire did not directly measure asset specificity, contracting cost or switching cost in monetary terms. The theory therefore informs interpretation but is not empirically tested by this dataset.
 
-#### For In-House Operations: Mitigating Single-Point Human Capital Risk
-- **Cross-Skilling and Competency Matrices:** Organizations must systematically audit technical roles to eliminate single points of failure. Operations where key tasks depend on individual technicians should establish mandatory peer shadow training.
-- **Knowledge Codification and Digital Work Instructions:** Tacit operational expertise must be translated into standardized digital procedures, interactive maintenance guides, and codified documentation before senior employees retire.
-- **Dynamic Staffing Buffers:** To address labor shortages (cited by 55.6% of in-house operators), companies should cultivate flexible internal labor pools and apprentice training pipelines.
+**Resource-Based View.** The internal skill-dependency and knowledge-loss responses are relevant to the retention of organisational capabilities. The results show that respondents in the in-house subgroup perceived internal skills and knowledge as important. They do not measure the strategic value, rarity or imitability of those capabilities.
 
-#### For Outsourced Operations: Mitigating Supplier Performance and Lock-in
-- **Dual-Sourcing and Split Allocation:** Where feasible, critical activities should be split between two approved suppliers (e.g. a 70/30 volume split) to prevent single-vendor monopoly, foster competitive discipline, and provide immediate failover capacity.
-- **Retention of Absorptive Internal Expertise:** Companies must retain an internal "smart buyer" technical core. Even when an activity is 100% outsourced, retaining in-house engineering competence is essential to audit vendor deliverables and prevent complete knowledge drainage.
-- **Proactive Early Detection Telemetry:** Buying firms should mandate real-time digital telemetry (e.g. shared IoT production logs, live inventory feeds) rather than relying on retrospective monthly KPI reports.
+**Resource Dependence Theory.** The supplier-dependency ratings and single-supplier risk selections are consistent with the idea that reliance on externally controlled resources can constrain organisational options. The survey does not measure supplier market concentration or bargaining power directly.
 
-#### For Hybrid Operations: Eliminating Boundary and Coordination Friction
-- **Explicit Boundary Spanners and Interface Managers:** Because all nine respondents in the hybrid subgroup selected coordination failure as their primary hybrid risk option, companies must formally appoint designated interface managers whose sole responsibility is managing cross-organizational handoffs.
-- **Shared Collaborative Platforms:** Internal and external teams should operate within unified digital environments (shared ticketing, common ERP visibility) rather than siloed corporate emails, raising information sharing from its current low mean of 5.56.
-- **Joint Operational Drills:** Regular cross-team recovery simulations should be conducted to establish unambiguous accountability protocols before real disruptions occur.
+**Agency Theory.** The supplier-monitoring measure relates to the governance challenge created by information asymmetry between a client and provider. The data record respondents' perceived monitoring effectiveness; they do not directly measure opportunism, hidden action or contractual enforcement outcomes.
 
----
+These theories provide complementary explanatory lenses. The study does not test a unified causal model linking operating model choice to risk outcomes.
 
-## 6.5 Assessment of Research Quality and Methodological Limitations
+## 6.5 Managerial Implications
 
-In compliance with Karelia UAS reporting standards, we critically evaluate the rigor, trustworthiness, and boundaries of this research.
+The findings may inform the questions managers ask when reviewing operating arrangements. They should not be treated as universal prescriptions.
 
-### 6.5.1 Theoretical Alignment and Questionnaire Coverage
-The questionnaire was informed by concepts discussed in Chapter 2. This provides a theoretical rationale for the selected variables, but does not by itself establish construct or content validity. Any pilot review or supervisor feedback should be described only where supporting records are available.
+- **In-house activities:** Review critical skill concentration, succession coverage, cross-training and documentation of operational knowledge. The sample's high internal skill-dependency ratings justify examining these exposures, but do not establish a general staffing shortage.
+- **Outsourced activities:** Review supplier performance measures, continuity provisions, provider concentration, replacement options and the internal capability needed to monitor the contract. Outsourcing does not remove the client's responsibility for governance and continuity.
+- **Hybrid activities:** Define responsibility boundaries, escalation routes, information-sharing requirements and handoff acceptance criteria. The hybrid subgroup's responses make these appropriate management review areas, not proof that every hybrid arrangement has coordination failure.
+- **Make-or-buy decisions:** Evaluate total costs, quality, control, continuity, specialist capability and strategic importance together. The frequency of a selected survey factor is not its monetary or decision weight.
 
-### 6.5.2 Data Quality and Consistency
-The questionnaire used a structured digital format. The consistency of routing and the handling of branch-dependent fields should be described from the final form configuration and data audit. The available evidence does not establish that routing eliminated all missing data or that the instrument’s reliability was statistically tested. All metric scales utilised consistent 10-point and 5-point anchoring. The dataset contains conditional-branch fields. The final audit must report completeness among questions applicable to each respondent and distinguish this from structurally non-applicable blank fields. A claim of full completeness or a fully documented audit trail should be added only after the researchers complete and retain the relevant records.
+## 6.6 Research Quality and Limitations
 
-### 6.5.3 Methodological Boundaries and Limitations
-The findings of this study must be interpreted within the context of several inherent methodological constraints:
-1. **Sample Size ($N = 30$):** Although $N = 30$ satisfies the planning threshold ($N \ge 25$) and provides substantial comparative depth across the three subgroups ($n = 9, 12, 9$), it does not constitute a nationally or continentally representative probability sample. The summaries are exploratory and descriptive. They should not be interpreted as population estimates.
-2. **Purposive Sampling and Self-Selection Bias:** Sourcing participants through professional registries and outreach introduces potential self-selection. Managers who had navigated contentious make-or-buy decisions or experienced severe operational disruptions may have been more inclined to complete the survey.
-3. **Cross-Sectional Perceptual Data:** The research captured self-reported professional assessments at a single point in time. While experienced managers' evaluations reflect operational reality and guide strategic choices, self-reported metrics are subject to cognitive heuristics, recall bias, and subjective framing.
-4. **Absence of Longitudinal and Econometric Cost Logs:** Due to commercial sensitivity and time constraints, we did not collect longitudinal financial audit logs or proprietary accounting ledgers. The financial findings reflect perceived cost effectiveness and reported hold-up risks rather than direct econometric regression of balance-sheet data.
+The study has several limitations:
 
----
+1. **Sampling:** The sample was recruited purposively and is not a probability sample. Its geographic and industry spread does not make it representative of European organisations.
+2. **Respondent and organisation count:** There are 30 respondent records. The data do not verify 30 unique organisations.
+3. **Unit of assessment:** Each respondent assessed one activity. Findings cannot automatically be applied to the whole organisation.
+4. **Self-report:** Ratings and categorical selections reflect respondent perceptions. They are not audited operational data.
+5. **Cross-sectional design:** Data were collected within a defined period. The study cannot establish temporal change or causal effects.
+6. **Small subgroups:** The in-house, outsourced and hybrid groups contain 9, 12 and 9 respondents. Small differences should not be overinterpreted.
+7. **Measurement:** The rating items are ordinal response formats. Means are presented as descriptive summaries alongside medians. Branch-specific governance measures are related but not identical.
+8. **Qualitative data:** All 30 optional additional-insight entries contain N/A. No qualitative themes or quotations can be reported.
+9. **Data protection evidence:** The participant notice and data-management records were not available in the reviewed repository snapshot. Anonymity, GDPR compliance and specific security controls are not asserted without those records.
 
-## 6.6 Recommendations for Future Research
+## 6.7 Conclusion
 
-Based on the limitations and discoveries of this thesis, we identify several fruitful pathways for future academic inquiry:
-1. **Longitudinal Transition Studies:** Future research should track organizations over a multi-year period as they transition from in-house to outsourced or hybrid models, directly measuring how risk exposures, capability retention, and transaction costs evolve over time.
-2. **Sector-Specific Deep Dives:** While this study captured a broad cross-section of 12 industrial sectors, future studies could isolate specific regulated environments—such as aerospace and defense or medical devices—where compliance and liability transfer are subject to stringent legal mandates.
-3. **Econometric and Quantitative Modeling:** A large-scale survey ($N > 250$) would enable researchers to perform structural equation modeling (SEM) and multivariate regression, formally testing the causal pathways between governance mechanisms, problem detection speeds, and disruption costs.
-4. **Investigation of AI and Automation on Operating Models:** Future studies should explore how advanced industrial automation and AI-driven predictive maintenance alter make-or-buy boundaries, potentially allowing smaller internal teams to maintain high direct control without traditional staffing scale penalties.
+The study examined how in-house, outsourced and hybrid operating arrangements relate to the risk profile of a specific operational activity. The 30 respondent records show different perceived dependencies and governance concerns across the three groups. In-house respondents most frequently identified staff shortage as their primary risk; outsourced respondents most frequently identified supplier performance; and all nine hybrid respondents selected coordination failure.
 
----
+Across all respondents, operational disruption and customer or reputation damage were the most frequently selected failure consequences. Cost and financial considerations were the most frequently selected make-or-buy factor. Most respondents selected the response that some risks decreased while others increased.
 
-## 6.7 Concluding Summary
-
-This Bachelor's thesis set out to investigate how in-house, outsourced, and hybrid operating models influence an industrial company's operational and strategic risk profile. 
-
-The empirical findings from $N = 30$ European organizational respondents, synthesized through Transaction Cost Economics, the Resource-Based View, Resource Dependence Theory, and Agency Theory, provide a sample-specific descriptive response to the research questions:
-
-1. **No Operating Model is Inherently "Lower Risk":** Operating models do not eliminate risk; they alter its structure, location, and transmission pathways. In-house operations secure higher reported internal-control rating (Mean = 7.89) and earlier problem detection (Mean = 7.33), but concentrate risk internally, creating acute vulnerability to staff shortages (55.6%) and single-point skill loss (44.4%). Outsourced operations eliminate internal labor and capital constraints, but introduce heavy supplier dependency (Mean = 8.00), a substantial difference in reported monitoring ratings (Mean = 5.75), switching barriers, and severe reputation exposure (91.7%). Hybrid operations maximize recovery flexibility (Mean = 6.22), but suffer from blurred accountability (Mean = 6.44), information friction, and near-universal coordination failure risk (100.0%).
-2. **The Risk Trade-off Dynamic is Universal:** Nearly three-quarters (73.3%) of all respondents selected the response option that some risks decreased while others increased; this describes their reported perceptions and does not establish a universal effect: *some risks decrease while others increase.*
-3. **The Strategic Imperative:** Sustainable competitive advantage does not stem from dogmatically internalizing or outsourcing every activity. It depends on aligning the operating model with the activity's strategic criticality, implementing proactive monitoring to bridge organizational boundaries, and maintaining the internal capabilities necessary to retain operational resilience under disruption.
-
-
-## 6.8 Interpretation Update Following Response-Level Recalculation (5 November 2026)
-
-The verified export contains 30 respondent records: 9 in-house, 12 outsourced and 9 hybrid. These are respondent counts, not confirmed unique organisations. The results are descriptive and activity-specific.
-
-The in-house group reported mean internal skill dependency of 8.89/10 and mean impact of internal resource disruption of 9.00/10. Five of nine selected Staff Shortage Risk and four selected Single-Point Skill Risk. The outsourced group reported mean supplier dependency of 8.00/10, supplier disruption impact of 8.33/10 and supplier monitoring effectiveness of 5.75/10; eight of twelve selected Supplier Performance Risk. The hybrid group reported mean responsibility clarity of 5.56/10, cross-boundary information of 5.56/10 and handoff effectiveness of 6.11/10; all nine selected Coordination Failure Risk.
-
-Across the sample, 27/30 respondents selected Operational Disruption and 24/30 selected Customer or reputation damage. Cost and financial considerations were selected by 23/30 after respondent-level deduplication; Control and operational authority by 17/30. Twenty-two respondents (73.3%) selected the E2 response that some risks decreased while others increased. This is a perception measure and should not be presented as an observed or universal change in risk.
-
-The optional additional-insight field contains no usable narrative data. Any earlier E3 themes or purported direct quotations are unsupported by the current response export and must not be treated as empirical evidence. The current descriptive findings do not establish causation, statistical significance, population representativeness or objective incident frequencies.
-
-These recalculated statements supersede inconsistent earlier figures and interpretations in this chapter. The data-analysis report and empirical findings tables provide the current numerical reference.
+The findings support a risk-trade-off interpretation within this sample. They do not establish that one operating model is inherently safer, that the observed differences are causal, or that the results represent all organisations. The practical implication is that operating model decisions should be assessed against the activity's resource requirements, control arrangements, dependencies, continuity needs and governance capacity.
